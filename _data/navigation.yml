@@ -2,16 +2,16 @@
   url: "/"
   side: left
 
-- title: Program
-  url: "/cfp/"
-  side: left
-  dropdown:
-  - title: Call for papers
-    url: "/cfp/"
-    side: left
-  - title: Workshops
-    url: "/workshops/"
-    side: left
+# - title: Program
+#   url: "/cfp/"
+#   side: left
+#   dropdown:
+#   - title: Call for papers
+#     url: "/cfp/"
+#     side: left
+#   - title: Workshops
+#     url: "/workshops/"
+#     side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
@@ -31,16 +31,16 @@
 #   - title: Call for papers
 #     url: "/cfp/"
 
-- title: Information for participants
-  url: "/venue"
-  side: left
-  dropdown:
-  - title: "Venue"
-    url: "/venue/"
-    side: left
-  - title: "Travel"
-    url: "/travel/"
-    side: left
+# - title: Information for participants
+#   url: "/venue"
+#   side: left
+#   dropdown:
+#   - title: "Venue"
+#     url: "/venue/"
+#     side: left
+#   - title: "Travel"
+#     url: "/travel/"
+#     side: left
 
   # dropdown:
   #   - title: "Venue"

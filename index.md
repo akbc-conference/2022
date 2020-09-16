@@ -5,7 +5,7 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-<!-- #### June 22-24 2020 -->
+#### Early October, 2021
 
 ## Knowledge Base Construction
 
