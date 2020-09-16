@@ -1,13 +1,9 @@
 ---
-title: AKBC 2020
+title: AKBC 2021
 layout: frontpage
 header:
   image_fullwidth: "irvine-header.jpg"
 ---
-
-<div style='border-radius: 25px; padding: 20px; background: #CD5C5C; color: #FFFFFF;'>
-<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same.  Stay tuned for more details during the upcoming weeks!
-</div>
 
 <!-- #### June 22-24 2020 -->
 
@@ -26,32 +22,21 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
-Mar 2020 : Due to COVID-19, AKBC 2020 is moving to a fully virtual conference.<br/>
-Feb 2020 : Abstract deadline extended<br />
-Jan 2020 : [Submission Site]({{ site.baseurl }}/submission) is live<br />
-Jan 2020 : [LaTeX Style Files](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) updated<br />
-Nov 2019 : [Call for Workshop Proposals]({{ site.baseurl }}/cfw) released <br />
-Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
+Sep 2020 : Website up, with tentative dates.
 
 <a name="dates"></a>
 
 ## Key Dates
 
 <br />
-~~December 18, 2020, Wednesday: Workshop proposals due (Midnight PST)~~<br />
-~~February 13, 2020, Thursday: Abstracts due (11:59pm PST)~~<br />
-~~February 13, 2020, Thursday: Paper submission deadline (11:59pm PST)~~<br />
-April 20, 2020, Monday: Conference notification<br />
-TBD: Virtual conference and workshops<br />
-<!--
-June 22-23, 2020, Monday-Tuesday: Conference<br />
-June 24, 2020, Wednesday: Workshops<br />
--->
+April, 2021: Conference submission<br />
+Early October, 2021: Conference dates<br />
 
 ## Previous Conferences / Workshops
 
 <br />
-[AKBC 2019](http://akbc.ws/2019) in Amherst <br />
+2nd Conference on [AKBC 2020](http://akbc.ws/2020), held virtually <br />
+1st Conference on [AKBC 2019](http://akbc.ws/2019) in Amherst <br />
 [AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach <br />
 [AKBC 2016](http://akbc.ws/2016) at NAACL 2016, San Diego <br />
 [AKBC 2014](http://akbc.ws/2014) at NIPS 2014, Montreal <br />
