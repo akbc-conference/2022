@@ -13,7 +13,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 # See > authors.yml
 #author: phlow
 url: "https://akbc.ws"
-baseurl: "/2020"
+baseurl: "/2021"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

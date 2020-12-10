@@ -13,7 +13,7 @@ Knowledge gathering, representation, and reasoning are among the fundamental cha
 
 ## New Conference
 
-Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with its widely-acclaimed first instantiation last year in Amherst MA. Why a new stand-alone conference?
+Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with two widely-acclaimed instantiations in Amherst MA in 2019 and held virtually last year. Why a new stand-alone conference?
 
 - Long-standing and growing interest in the area, now with too much material for a one-day workshop. We have sufficient material for a two-day conference plus topical workshops.
 - We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
@@ -22,15 +22,15 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
-Sep 2020 : Website up, with tentative dates.
+- **Dec 2020**: Website is publicly available.
+- **Sep 2020**: Website up, with tentative dates.
 
 <a name="dates"></a>
 
 ## Key Dates
 
-<br />
-April, 2021: Conference submission<br />
-Early October, 2021: Conference dates<br />
+- **Early May, 2021**: Conference submission
+- **Early October, 2021**: Conference dates
 
 ## Previous Conferences / Workshops
 
