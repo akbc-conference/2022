@@ -1,5 +1,9 @@
 ---
+title: Submission
+layout: page-fullwidth
 permalink: /submission/
-redirect_to:
-  - https://openreview.net/group?id=AKBC.ws/2020/Conference
+header:
+  image_fullwidth: "irvine-header.jpg"
 ---
+
+{% include alert info='Coming soon!' %}
