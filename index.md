@@ -29,8 +29,9 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Key Dates
 
-- **Early May, 2021**: Conference submission
-- **Early October, 2021**: Conference dates
+- **Paper submission deadlin**: June 17, 2021
+- **Notification of acceptance**: July 30, 2021
+- **Conference & Workshop Dates**: October 3-5, 2021 (subject to change)
 
 ## Previous Conferences / Workshops
 
