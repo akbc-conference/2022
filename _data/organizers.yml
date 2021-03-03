@@ -18,14 +18,14 @@
   url: https://www.cs.tau.ac.il/~joberant/
   location: Tel-Aviv University
   position: Program Co-Chair
-# - name: Amanda Stent
-#   url: https://www.linkedin.com/in/amandastent/
-#   location: Bloomberg
-#   position: Workshop Co-Chair
-# - name: Zachary Ives
-#   url: http://www.cis.upenn.edu/~zives/
-#   location: University of Pennsylvania
-#   position: Workshop Co-Chair
+- name: Eunsol Choi
+  url: https://www.cs.utexas.edu/~eunsol/
+  location: UT Austin
+  position: Workshop Co-Chair
+- name: Waleed Ammar
+  url: https://wammar.github.io/
+  location: Google
+  position: Workshop Co-Chair
 # - name: Christopher Ré
 #   url: https://cs.stanford.edu/people/chrismre/
 #   location: Stanford University

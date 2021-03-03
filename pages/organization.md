@@ -19,8 +19,6 @@ header:
 
 ### Area Chairs
 
-Coming soon.
-
 <div class="row">
 <div class="columns">
 {% for area-chair in site.data.area-chairs %}

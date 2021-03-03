@@ -1,48 +1,39 @@
-# - name: Isabelle Augenstein
-#   location: University of Copenhagen
-#   url: http://isabelleaugenstein.github.io/
-# - name: Yonatan Bisk
-#   location: Carnegie Mellon University
-#   url: https://yonatanbisk.com/
-# - name: Danqi Chen
-#   location: Princeton University
-#   url: https://www.cs.princeton.edu/~danqic/
-# - name: Zornitsa Kozareva
-#   location: Google
-#   url: http://www.kozareva.com/
-# - name: Kenton Lee
-#   location: Google
-#   url: https://kentonl.com/
-# - name: Andre Martins
-#   location: Unbabel and Instituto Superior Técnico
-#   url: https://andre-martins.github.io/
-# - name: Mausam
-#   location: Indian Institute of Technology, Delhi
-#   url: http://www.cse.iitd.ernet.in/~mausam/
-# - name: Emily Pitler
-#   location: Google
-#   url: http://www.emilypitler.com/
-# - name: Xiang Ren
-#   location: University of Southern California
-#   url: http://ink-ron.usc.edu/xiangren/
-# - name: Alan Ritter
-#   location: Ohio State University
-#   url: http://aritter.github.io/
-# - name: Minjoon Seo
-#   location: University of Washington
-#   url: https://seominjoon.github.io/
-# - name: Vivek Srikumar
-#   location: University of Utah
-#   url: https://svivek.com/
-# - name: Ivan Titov
-#   location: University of Edinburgh
-#   url: http://ivan-titov.org/
-# - name: Guy Van den Broeck
-#   location: University of California, Los Angeles
-#   url: https://web.cs.ucla.edu/~guyvdb/
-# - name: Byron Wallace
-#   location: Northeastern University
-#   url: http://www.byronwallace.com/
-# - name: Mark Yatskar
-#   location: University of Pennsylvania
-#   url: http://markyatskar.com/
+- name: Yael Amsterdamer
+  location: Bar-Ilan University
+  url: https://u.cs.biu.ac.il/~amstery/
+- name: Bhavana Dalvi
+  location: Allen Institute
+  url: https://allenai.org/team/bhavanad
+- name: Greg Durrett
+  location: UT Austin
+  url: https://www.cs.utexas.edu/~gdurrett/
+- name: Robin Jia
+  location: Facebook/University of Southern California
+  url: https://robinjia.github.io/
+- name: Will Hamilton
+  location: McGill University/Mila
+  url: https://williamleif.github.io/
+- name: Gerard de Melo
+  location: Hasso Plattner Institute / University of Potsdam
+  url: http://gerard.demelo.org/
+- name: Barbara Plank
+  location: IT University of Copenhagen
+  url: https://bplank.github.io/
+- name: Alex Ratner
+  location: University of Washington
+  url: https://ajratner.github.io/
+- name: Partha Talukdar
+  location: Google/Indian Institute of Science
+  url: http://talukdar.net/
+- name: Chenhao Tan
+  location: University of Chicago
+  url: https://chenhaot.com/
+- name: Jesse Thomason
+  location: University of Southern California
+  url: https://jessethomason.com/
+- name: Andreas Vlachos
+  location: University of Cambridge
+  url: https://andreasvlachos.github.io/
+- name: Diyi Yang
+  location: Georgia Institute of Technology
+  url: https://www.cc.gatech.edu/~dyang888/
