@@ -2,16 +2,16 @@
   location: Bar-Ilan University
   url: https://u.cs.biu.ac.il/~amstery/
 - name: Bhavana Dalvi
-  location: Allen Institute
+  location: Allen Institute for AI
   url: https://allenai.org/team/bhavanad
 - name: Greg Durrett
   location: UT Austin
   url: https://www.cs.utexas.edu/~gdurrett/
 - name: Robin Jia
-  location: Facebook/University of Southern California
+  location: Facebook / University of Southern California
   url: https://robinjia.github.io/
 - name: Will Hamilton
-  location: McGill University/Mila
+  location: McGill University / Mila
   url: https://williamleif.github.io/
 - name: Gerard de Melo
   location: Hasso Plattner Institute / University of Potsdam
@@ -23,7 +23,7 @@
   location: University of Washington
   url: https://ajratner.github.io/
 - name: Partha Talukdar
-  location: Google/Indian Institute of Science
+  location: Google / Indian Institute of Science
   url: http://talukdar.net/
 - name: Chenhao Tan
   location: University of Chicago
