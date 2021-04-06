@@ -5,7 +5,7 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-#### Early October, 2021
+#### October 4-7, 2021
 
 ## Knowledge Base Construction
 
@@ -31,7 +31,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 - **Paper submission deadline**: June 17, 2021
 - **Notification of acceptance**: July 30, 2021
-- **Conference & Workshop Dates**: October 3-5, 2021 (subject to change)
+- **Conference & Workshop Dates**: October 4-7, 2021
 
 ## Previous Conferences / Workshops
 
