@@ -1,22 +1,18 @@
 - name: Andrew McCallum
   url: https://people.cs.umass.edu/~mccallum/
-  location: University of Massachusetts Amherst
+  location: University of Massachusetts Amherst, USA
   position: General Co-Chair
 - name: Sameer Singh
   url: http://sameersingh.org/
-  location: University of California Irvine
+  location: University of California, Irvine, USA
   position: General Co-Chair
-# - name: Alon Halevy
-#   url: https://homes.cs.washington.edu/~alon/
-#   location: Facebook AI
-#   position: General Co-Chair
 - name: Danqi Chen
   url: https://www.cs.princeton.edu/~danqic/
   location: Princeton University
   position: Program Co-Chair
 - name: Jonathan Berant
   url: https://www.cs.tau.ac.il/~joberant/
-  location: Tel-Aviv University and The Allen Institute for AI
+  location: Tel Aviv University / Allen Institute for AI
   position: Program Co-Chair
 - name: Eunsol Choi
   url: https://www.cs.utexas.edu/~eunsol/
@@ -26,11 +22,10 @@
   url: https://wammar.github.io/
   location: Google
   position: Workshop Co-Chair
-# - name: Christopher Ré
-#   url: https://cs.stanford.edu/people/chrismre/
-#   location: Stanford University
-#   position: Funding Chair
 - name: Matt Gardner
   url: https://matt-gardner.github.io
-  location: Allen Institute for AI
-  position: Local Chair
+  location: Allen Institute for AI, USA
+  position: Virtual Platform Chair
+- name: Maor Ivgi
+  location: Tel Aviv University
+  position: Website Chair
