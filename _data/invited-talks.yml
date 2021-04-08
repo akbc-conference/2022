@@ -1,52 +1,48 @@
 - speaker:
-    name: Jonathan Berant
-    location: Tel Aviv University / Allen Institute for AI
-    url: http://www.cs.tau.ac.il/~joberant/
+    name: Peter Clark
+    location: Allen Institute for AI
+    url: https://allenai.org/team/peterc
 - speaker:
-    name: William Cohen
-    location: Google AI
-    url: http://www.cs.cmu.edu/~wcohen/
+    name: Jia Deng
+    location: Princeton
+    url: https://www.cs.princeton.edu/~jiadeng/
 - speaker:
-    name: Xin Luna Dong
-    location: Amazon
-    url: http://lunadong.com/
+    name: Greg Durrett
+    location: University of Texas Austin
+    url: https://www.cs.utexas.edu/~gdurrett/
 - speaker:
-    name: Heng Ji
-    location: University of Illinois Urbana-Champaign
-    url: http://blender.cs.illinois.edu/hengji.html
+    name: Yolanda Gil
+    location: USC
+    url: https://www.isi.edu/~gil/
 - speaker:
-    name: Jure Leskovec
+    name: Hanna Hajishirzi
+    location: University of Washington
+    url: https://homes.cs.washington.edu/~hannaneh/
+- speaker:
+    name: Tim Kraska
+    location: MIT
+    url: https://people.csail.mit.edu/kraska/
+- speaker:
+    name: Monica Lam
     location: Stanford
-    url: https://cs.stanford.edu/people/jure/
+    url: https://suif.stanford.edu/~lam/
 - speaker:
-    name: Ndapandula Nakashole
-    location: University of California San Diego
-    url: http://nakashole.com/
+    name: Devi Parikh
+    location: Georgia Tech and Facebook AI Research
+    url: https://www.cc.gatech.edu/~parikh/
 - speaker:
-    name: Theodoros Rekatsinas
-    location: University of Wisconsin-Madison
-    url: http://pages.cs.wisc.edu/~thodrek/
+    name: Sujith Ravi
+    location: Amazon Alexa AI
+    url: http://www.sravi.org/
 - speaker:
-    name: Andrew Su
-    location: Scripps Institute
-    url: https://www.scripps.edu/faculty/su/
+    name: Siva Reddy
+    location: McGill
+    url: https://sivareddy.in/
 - speaker:
-    name: Emma Strubell
-    location: Facebook / CMU
-    url: https://people.cs.umass.edu/~strubell/
+    name: Dafna Shahaf
+    location: Hebrew University
+    url: http://www.hyadatalab.com/index.html
 - speaker:
-    name: Jamie Taylor
-    location: Google
-    url: https://www.linkedin.com/in/jamie-taylor-853953/
-- speaker:
-    name: Benjamin Van Durme
-    location: John Hopkins University
-    url: https://www.cs.jhu.edu/~vandurme/
-- speaker:
-    name: Diyi Yang
-    location: Georgia Institute of Technology
-    url: https://www.cc.gatech.edu/~dyang888/experience.html
-- speaker:
-    name: Luke Zettlemoyer
-    location: University of Washington / Facebook
-    url: https://www.cs.washington.edu/people/faculty/lsz
+    name: David Sontag
+    location: MIT
+    url: https://people.csail.mit.edu/dsontag/

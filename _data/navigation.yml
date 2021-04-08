@@ -7,13 +7,13 @@
   - title: "AKBC 2020"
     url: "https://akbc.ws/2020"
 
-# - title: Program
-#   url: "/cfp/"
-#   side: left
-#   dropdown:
-#   - title: Call for papers
-#     url: "/cfp/"
-#     side: left
+ - title: Program
+   url: "/cfp/"
+   side: left
+   dropdown:
+   - title: Call for papers
+     url: "/cfp/"
+     side: left
 #   - title: Workshops
 #     url: "/workshops/"
 #     side: left
