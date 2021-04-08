@@ -61,7 +61,7 @@ The following are confirmed invited speakers. Additional speakers are expected t
 <div class="row">
 <div class="columns">
 {% for invited-talk in site.data.invited-talks %}
-<a href="{{ invited-talk.url }}">{{ invited-talk.name }}</a>, {{ invited-talk.location }}<br>
+<a href="{{ invited-talk.speaker.url }}">{{ invited-talk.speaker.name }}</a>, {{ invited-talk.speaker.location }}<br>
 {% endfor %}
 </div>
 </div>
