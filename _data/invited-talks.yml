@@ -27,6 +27,10 @@
     location: Stanford
     url: https://suif.stanford.edu/~lam/
 - speaker:
+    name: Percy Liang
+    location: Stanford
+    url: https://cs.stanford.edu/~pliang/
+- speaker:
     name: Devi Parikh
     location: Georgia Tech and Facebook AI Research
     url: https://www.cc.gatech.edu/~parikh/
