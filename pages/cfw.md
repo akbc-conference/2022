@@ -20,9 +20,7 @@ In the past, we have had workshops on topics such as multimodality, structured a
 
 There are also vibrant areas that involve either specialized knowledge base construction (e.g., scientific literature), or the intersection between knowledge base construction and other areas (e.g., trust, benchmarking, security).  We are soliciting proposals for half-day workshops at AKBC 2020 that connect Automated Knowledge Base Construction with these and other areas of computer science.
 
-Submission link: [https://forms.gle/iq5c47XEa1HaTQi66](https://forms.gle/iq5c47XEa1HaTQi66)
-
-Proposals for Workshops should be submitted using the link above, providing:
+Proposals for Workshops should be submitted using the [submission link](https://forms.gle/iq5c47XEa1HaTQi66), providing:
 
 - The title of the workshop.
 - A half-page description of the workshop goals, themes, topics, and open questions.
