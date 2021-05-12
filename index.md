@@ -22,6 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+- **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.
 - **Apr 2021**: [Call for papers](http://akbc.ws/2021/cfp) released.
 - **Dec 2020**: Website is publicly available.
 - **Sep 2020**: Website up, with tentative dates.
