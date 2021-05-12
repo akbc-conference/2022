@@ -1,5 +1,5 @@
 ---
-title: Call for Workshop Proposals: AKBC 2021
+title: Call for Workshop Proposals
 layout: page-fullwidth
 order: 0
 permalink: /cfw/
