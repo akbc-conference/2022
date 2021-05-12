@@ -17,7 +17,6 @@ In addition to the conference, AKBC 2021 will include workshops dedicated to vib
 
 In the past, we have had workshops on topics such as multimodality, structured and unstructured KBs, scientific texts, biases in KB. Full list of workshops from previous AKBC conferences can be found here: [2020 workshops](https://www.akbc.ws/2020/workshops/), [2019 workshops](https://www.akbc.ws/2019/workshops/). Many workshops were very successful, with 100+ audiences, great line-up of invited speakers, and engaging discussions. The organizers of the accepted workshop proposals will have the freedom to organize, run, and publicize their workshop as they wish, including reviewing submissions, planning the workshop schedule, inviting speakers and planning panel discussions. 
 
-
 There are also vibrant areas that involve either specialized knowledge base construction (e.g., scientific literature), or the intersection between knowledge base construction and other areas (e.g., trust, benchmarking, security).  We are soliciting proposals for half-day workshops at AKBC 2020 that connect Automated Knowledge Base Construction with these and other areas of computer science.
 
 Proposals for Workshops should be submitted using the [submission link](https://forms.gle/iq5c47XEa1HaTQi66), providing:
