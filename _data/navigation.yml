@@ -14,9 +14,9 @@
   - title: Call for papers
     url: "/cfp/"
     side: left
-#   - title: Workshops
-#     url: "/workshops/"
-#     side: left
+  - title: Call for Workshops
+    url: "/cfw/"
+    side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
