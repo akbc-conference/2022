@@ -51,7 +51,7 @@ Topics of interest include, but are not limited to:
 Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible.
 
 Papers should be restricted to 10 single-column pages, excluding references.<br>
-Submission site: [http://www.akbc.ws/2021/submission](http://www.akbc.ws/2021/submission).
+Submission site: [https://openreview.net/group?id=AKBC.ws/2021/Conference](https://openreview.net/group?id=AKBC.ws/2021/Conference).
 
 **Dual Submission Policy:** Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy.  However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process.
 
