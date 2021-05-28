@@ -19,6 +19,8 @@ Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 - Notification of acceptance: Aug 18, 2021
 - Conference & Workshop Dates: Monday-Thursday, October 4-7, 2021
 
+All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
+
 ### Knowledge Base Construction
 
 Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence.  Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”.  Most major technology companies now have substantial efforts in knowledge base construction. Related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness.  The AKBC conference serves as a research forum for gathering all these areas, in both academia and industry.
