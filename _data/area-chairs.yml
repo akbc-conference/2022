@@ -7,9 +7,6 @@
 - name: Greg Durrett
   location: UT Austin
   url: https://www.cs.utexas.edu/~gdurrett/
-- name: William L. Hamilton
-  location: Mila, McGill University
-  url: https://williamleif.github.io/
 - name: Robin Jia
   location: Facebook AI Research / University of Southern California
   url: https://robinjia.github.io/
@@ -28,6 +25,9 @@
 - name: Chenhao Tan
   location: University of Chicago
   url: https://chenhaot.com/
+- name: Jian Tang
+  location: MILA/HEC Montreal
+  url: https://jian-tang.com/
 - name: Jesse Thomason
   location: University of Southern California
   url: https://jessethomason.com/
