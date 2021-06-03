@@ -22,6 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+- **Jun 2021**: **We have extended the the paper submission deadline to June 21, 2021.**
 - **May 2021**: [Submission Site](https://www.akbc.ws/2021/submission) is live.
 - **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.
 - **Apr 2021**: [Call for papers](http://akbc.ws/2021/cfp) released.
@@ -32,7 +33,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Key Dates
 
-- **Paper submission deadline**: June 17, 2021
+- **Paper submission deadline**: ~~June 17, 2021~~ June 21, 2021
 - **Author response period**: July 23-30, 2021
 - **Notification of acceptance**: August 18, 2021
 - **Conference & Workshop Dates**: October 4-7, 2021
