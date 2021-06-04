@@ -7,7 +7,7 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-*Deadline: June 11, 2021*
+**Deadline: June 15, 2021**
 
 We are soliciting proposals for half-day workshops at the third annual international conference on Automated Knowledge Base Construction (AKBC) to be held virtually in October 4-7 2021, with workshops on 7th (Thursday).
 
