@@ -33,7 +33,7 @@ Proposals for Workshops should be submitted using the [submission link](https://
 We provide a tentative timeline for the workshops below, to help with planning. 
 
 Tentative timeline:
-- Workshop proposal submission deadline: Jun 11, 2021
+- Workshop proposal submission deadline: Jun 15, 2021
 - Notification of acceptance: Jun 18, 2021
 - Suggested date for sending out the workshop’s call for papers: Jun 27, 2021
 - Suggested date for sending notifications of workshop paper acceptance: Sep 10, 2021
