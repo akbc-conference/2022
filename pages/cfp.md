@@ -52,7 +52,7 @@ Topics of interest include, but are not limited to:
 
 Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible.
 
-Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. We also encourage authors to upload their code and data (<=100 Mb)as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized.
+Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized.
 
 All submissions must be formatted with LaTeX using the following LaTeX source: [akbc-latex.zip](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true)
 
