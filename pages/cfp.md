@@ -60,6 +60,9 @@ Submission site: [https://www.akbc.ws/2021/submission](https://www.akbc.ws/2021/
 
 **Dual Submission Policy:** Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy.  However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process.
 
+**Under-review Submissions:** For papers that are under review in another conference (e.g., EMNLP 2021), you can submit your paper to AKBC but must use the non-archival option. In addition, please also adhere to the rules set by the other conference. Specifically for EMNLP 2021, we will respect EMNLP’s anonymization period and will publicly announce AKBC accepted papers (archival and non-archival) after EMNLP notifications on Aug 25.
+
+
 ### Invited Talks
 The following are confirmed invited speakers. Additional speakers are expected to be added.
 
