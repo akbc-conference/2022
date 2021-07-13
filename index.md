@@ -22,6 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+- **Jul 2021**: List of [workshops]({{ site.baseurl }}/workshops/) are available now.
 - **Jun 2021**: **We have extended the paper submission deadline to June 21, 2021.**
 - **May 2021**: [Submission Site](https://www.akbc.ws/2021/submission) is live.
 - **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.

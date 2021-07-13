@@ -1,25 +1,41 @@
-- name: Open Knowledge Network
-  acronym: OKN
-  organizers: Chaitan Baru, Mike Cafarella, Sam Klein
-  duration: Full-day
+- name: Unstructured & Structured KB
+  url:
+  acronym:
+  organizers: Siamak Shakeri, , Pat Verga, Nicholas FitzGerald ( Google Research), Rajarshi Das, Sewon Min
+  duration: Half-Day
 
-- name: Bias in Automatic Knowledge Graph Construction
-  url: https://kg-bias.github.io/
-  acronym: KG-BIAS
-  organizers: Edgar Meij, Tara Safavi, Chenyan Xiong, Miriam Redi, Gianluca Demartini, Fatma Özcan
-  duration: Half-day
+- name: Personal Knowledge Graphs
+  url:
+  acronym:
+  organizers: Krisztian Balog, University of Stavanger, Norway; Paramita Mirza, Max Planck Institute for Informatics, Germany; Martin G. Skjæveland, University of Oslo, Norway; Zhilin Wang, University of Washington, USA
+  duration: Half-Day
 
-- name: Knowledge Bases and Multiple Modalities
-  url: https://kb-mm.github.io
-  acronym: KBMM
-  organizers: Pouya Pezeshkpour, Anand Mishra, Partha Talukdar, Sameer Singh
-  duration: Half-day
+- name: "SciNLP: Natural Language Processing for Scientific Texts"
+  url:
+  acronym:
+  organizers: Arman Cohan (Allen Institute for AI), Pradeep Dasigi (Allen Institute for AI), Tom Hope (Allen Institute for AI) Kyle Lo (Allen Institute for AI), Sunil Mohan (Chan Zuckerberg Initiative), Alex Wade (Chan Zuckerberg Initiative) Lucy Lu Wang (Allen Institute for AI), Ivana Williams (Chan Zuckerberg Initiative), Dongxu Zhang (University of Massachusetts, Amherst)
+  duration: Half-Day
 
-- name: Structured and Unstructured KBs
-  organizers: Danqi Chen, Siva Reddy, Pat Verga
-  duration: Half-day
+- name: Explainable Graph-Based Machine Learning (XGML) Workshop
+  url:
+  acronym: XGML
+  organizers: Pouya Pezeshkpour, UCI - Hao Yuan, Texas A&M University - Mathias Niepert, NEC Labs Europe - Sameer Singh, UCI
+  duration: Half-Day
 
-- name: Natural Language Processing and Data Mining for Scientific Text
-  acronym: SciNLP
-  organizers: Iz Beltagy, Arman Cohan, Keith Hall, Kyle Lo, Yi Luan, Lucy Lu Wang
-  duration: Half-day
+- name: Conversational Agents with Structured Knowledge (CASK)
+  url:
+  acronym:
+  organizers: hyam Upadhyay (Google), Waleed Ammar (Google), Aditya Gupta (Google), Rahul Goel (Google), Shachi Paul (Google), Mihir Sanjay Kale (Google)
+  duration: Half-Day
+
+- name: The First Workshop on Argumentation Knowledge Graphs
+  url:
+  acronym:
+  organizers: Khalid Al-Khatib, Leipzig University, Germany. Tirthankar Ghosal, Charles University, Czech Republic. Yufang Hou, IBM Research, Ireland. Dayne Freitag, SRI International, USA. Anita de Waard, Elsevier, USA
+  duration: Half-Day
+
+- name: Workshop on Commonsense Reasoning and Knowledge Bases
+  url:
+  acronym:
+  organizers: Vered Schwartz, Antoine Bosselut, Xiang Lorraine Li, Bill Yuchen Lin
+  duration: Half-Day
