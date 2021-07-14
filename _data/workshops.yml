@@ -11,13 +11,13 @@
   duration: Half-Day
 
 - name: "SciNLP: Natural Language Processing for Scientific Texts"
-  url:
-  acronym:
+  url: https://scinlp.org/
+  acronym: SciNLP
   organizers: Arman Cohan (Allen Institute for AI), Pradeep Dasigi (Allen Institute for AI), Tom Hope (Allen Institute for AI) Kyle Lo (Allen Institute for AI), Sunil Mohan (Chan Zuckerberg Initiative), Alex Wade (Chan Zuckerberg Initiative) Lucy Lu Wang (Allen Institute for AI), Ivana Williams (Chan Zuckerberg Initiative), Dongxu Zhang (University of Massachusetts, Amherst)
   duration: Half-Day
 
 - name: Explainable Graph-Based Machine Learning (XGML) Workshop
-  url:
+  url: https://xgml.github.io
   acronym: XGML
   organizers: Pouya Pezeshkpour, UCI - Hao Yuan, Texas A&M University - Mathias Niepert, NEC Labs Europe - Sameer Singh, UCI
   duration: Half-Day
@@ -29,13 +29,13 @@
   duration: Half-Day
 
 - name: The First Workshop on Argumentation Knowledge Graphs
-  url:
+  url: https://argkg21.argmining.org/
   acronym:
   organizers: Khalid Al-Khatib, Leipzig University, Germany. Tirthankar Ghosal, Charles University, Czech Republic. Yufang Hou, IBM Research, Ireland. Dayne Freitag, SRI International, USA. Anita de Waard, Elsevier, USA
   duration: Half-Day
 
 - name: Workshop on Commonsense Reasoning and Knowledge Bases
-  url:
-  acronym:
+  url: https://akbc-cskb.github.io/
+  acronym: CSKB
   organizers: Vered Schwartz, Antoine Bosselut, Xiang Lorraine Li, Bill Yuchen Lin
   duration: Half-Day
