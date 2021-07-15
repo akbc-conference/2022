@@ -1,7 +1,7 @@
 - name: Unstructured & Structured KB
   url: https://uskb-workshop.github.io/
   acronym: USKB
-  organizers: Siamak Shakeri, , Pat Verga, Nicholas FitzGerald ( Google Research), Rajarshi Das, Sewon Min
+  organizers: Siamak Shakeri, Pat Verga, Nicholas FitzGerald ( Google Research), Rajarshi Das, Sewon Min
   duration: Half-Day
 
 - name: Personal Knowledge Graphs
