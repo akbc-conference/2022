@@ -1,12 +1,12 @@
 - name: Unstructured & Structured KB
-  url:
-  acronym:
+  url: https://uskb-workshop.github.io/
+  acronym: USKB
   organizers: Siamak Shakeri, , Pat Verga, Nicholas FitzGerald ( Google Research), Rajarshi Das, Sewon Min
   duration: Half-Day
 
 - name: Personal Knowledge Graphs
-  url:
-  acronym:
+  url: https://pkgs.ws/
+  acronym: PKGS
   organizers: Krisztian Balog, University of Stavanger, Norway; Paramita Mirza, Max Planck Institute for Informatics, Germany; Martin G. Skjæveland, University of Oslo, Norway; Zhilin Wang, University of Washington, USA
   duration: Half-Day
 
@@ -19,7 +19,7 @@
 - name: Explainable Graph-Based Machine Learning (XGML) Workshop
   url: https://xgml.github.io
   acronym: XGML
-  organizers: Pouya Pezeshkpour, UCI - Hao Yuan, Texas A&M University - Mathias Niepert, NEC Labs Europe - Sameer Singh, UCI
+  organizers: Pouya Pezeshkpour, UCI - Pasquale Minervini, University of College London - Mathias Niepert, NEC Labs Europe - Sameer Singh, UCI
   duration: Half-Day
 
 - name: Conversational Agents with Structured Knowledge (CASK)
