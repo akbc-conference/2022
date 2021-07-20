@@ -23,9 +23,9 @@
   duration: Half-Day
 
 - name: Conversational Agents with Structured Knowledge (CASK)
-  url:
+  url: https://cask-workshop.github.io
   acronym:
-  organizers: hyam Upadhyay (Google), Waleed Ammar (Google), Aditya Gupta (Google), Rahul Goel (Google), Shachi Paul (Google), Mihir Sanjay Kale (Google)
+  organizers: Shyam Upadhyay (Google), Waleed Ammar (Google), Aditya Gupta (Google), Rahul Goel (Google), Shachi Paul (Google), Mihir Sanjay Kale (Google)
   duration: Half-Day
 
 - name: The First Workshop on Argumentation Knowledge Graphs
