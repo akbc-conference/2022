@@ -8,7 +8,7 @@ header:
 ---
 
 **3rd Conference on Automated Knowledge Base Construction (AKBC)**<br>
-October 4-7, 2021, Monday-Thursday (held virtually)<br>
+October 4-8, 2021, Monday-Friday (held virtually)<br>
 Homepage: [http://www.akbc.ws](http://akbc.ws)<br>
 Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 
@@ -17,7 +17,7 @@ Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 - Paper submission deadline: **June 21, 2021**
 - Author response period: July 23-30, 2021
 - Notification of acceptance: Aug 18, 2021
-- Conference & Workshop Dates: Monday-Thursday, October 4-7, 2021
+- Conference & Workshop Dates: Monday-Friday, October 4-8, 2021
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 

@@ -9,7 +9,7 @@ header:
 
 **Deadline: June 15, 2021**
 
-We are soliciting proposals for half-day workshops at the third annual international conference on Automated Knowledge Base Construction (AKBC) to be held virtually in October 4-7 2021, with workshops on 7th (Thursday).
+We are soliciting proposals for half-day workshops at the third annual international conference on Automated Knowledge Base Construction (AKBC) to be held virtually in October 4-8 2021, with workshops on 7-8th (Thursday-Friday).
 
 Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence. Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”. Most major technology companies now have substantial efforts in knowledge base construction, and related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness. The AKBC conference serves as a research forum for all these areas, in both academia and industry.
 
