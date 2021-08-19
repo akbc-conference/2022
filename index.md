@@ -22,7 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
-- **Aug 2021**: **Registration will open on early September!**
+- **Aug 2021**: **Registration will open early September!**
 - **Jul 2021**: All papers submitted to AKBC this year are [here](https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions). Check them out!
 - **Jul 2021**: List of [workshops]({{ site.baseurl }}/workshops/) are available now.
 - **Jun 2021**: **We have extended the paper submission deadline to June 21, 2021.**
