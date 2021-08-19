@@ -17,7 +17,8 @@ Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 - Paper submission deadline: **June 21, 2021**
 - Author response period: July 23-30, 2021
 - Notification of acceptance: Aug 18, 2021
-- Conference & Workshop Dates: Monday-Friday, October 4-8, 2021
+- Camera-ready papers due: September 15, 2021
+- Conference & workshop dates: Monday-Friday, October 4-8, 2021
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
