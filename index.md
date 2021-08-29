@@ -5,7 +5,7 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-#### October 4-8, 2021
+#### October 4-8, 2021 (Virtual)
 
 ## Knowledge Base Construction
 
