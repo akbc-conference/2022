@@ -2,7 +2,7 @@
 title: AKBC 2021
 layout: frontpage
 header:
-  image_fullwidth: "irvine-header.jpg"
+  image_fullwidth: "generic-gradient.png"
 ---
 
 #### October 4-7, 2021

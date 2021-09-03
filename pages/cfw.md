@@ -4,7 +4,7 @@ layout: page-fullwidth
 order: 0
 permalink: /cfw/
 header:
-  image_fullwidth: "irvine-header.jpg"
+  image_fullwidth: "generic-gradient.png"
 ---
 
 *Deadline: June 11, 2021*

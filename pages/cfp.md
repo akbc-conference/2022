@@ -4,7 +4,7 @@ layout: page-fullwidth
 order: 0
 permalink: /cfp/
 header:
-  image_fullwidth: "irvine-header.jpg"
+  image_fullwidth: "generic-gradient.png"
 ---
 
 **3rd Conference on Automated Knowledge Base Construction (AKBC)**<br>
