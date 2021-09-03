@@ -5,7 +5,7 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-#### October 4-7, 2021
+#### October 4-8, 2021 (Virtual)
 
 ## Knowledge Base Construction
 
@@ -22,6 +22,11 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+- **Aug 2021**: **Registration will open early September!**
+- **Jul 2021**: All papers submitted to AKBC this year are [here](https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions). Check them out!
+- **Jul 2021**: List of [workshops]({{ site.baseurl }}/workshops/) are available now.
+- **Jun 2021**: **We have extended the paper submission deadline to June 21, 2021.**
+- **May 2021**: [Submission Site](https://www.akbc.ws/2021/submission) is live.
 - **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.
 - **Apr 2021**: [Call for papers](http://akbc.ws/2021/cfp) released.
 - **Dec 2020**: Website is publicly available.
@@ -31,9 +36,12 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Key Dates
 
-- **Paper submission deadline**: June 17, 2021
-- **Notification of acceptance**: July 30, 2021
-- **Conference & Workshop Dates**: October 4-7, 2021
+- **Paper submission deadline**: ~~June 17, 2021~~ June 21, 2021
+- **Author response period**: July 23-30, 2021
+- **Notification of acceptance**: August 18, 2021
+- **Conference & Workshop Dates**: October 4-8, 2021
+
+All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 ## Previous Conferences / Workshops
 

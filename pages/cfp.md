@@ -8,16 +8,19 @@ header:
 ---
 
 **3rd Conference on Automated Knowledge Base Construction (AKBC)**<br>
-October 4-7, 2021, Monday-Thursday (held virtually)<br>
+October 4-8, 2021, Monday-Friday (held virtually)<br>
 Homepage: [http://www.akbc.ws](http://akbc.ws)<br>
 Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 
 ### Key dates
 
-- Paper submission deadline: Thursday, June 17, 2021
-- Notification of acceptance: Friday, July 30, 2021
-- Conference & Workshop Dates: Monday-Thursday, October 4-7, 2021
+- Paper submission deadline: **June 21, 2021**
+- Author response period: July 23-30, 2021
+- Notification of acceptance: Aug 18, 2021
+- Camera-ready papers due: September 15, 2021
+- Conference & workshop dates: Monday-Friday, October 4-8, 2021
 
+All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 ### Knowledge Base Construction
 
@@ -50,10 +53,16 @@ Topics of interest include, but are not limited to:
 
 Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible.
 
-Papers should be restricted to 10 single-column pages, excluding references.<br>
-Submission site: [http://www.akbc.ws/2021/submission](http://www.akbc.ws/2021/submission).
+Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized.
+
+All submissions must be formatted with LaTeX using the following LaTeX source: [akbc-latex.zip](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true)
+
+Submission site: [https://www.akbc.ws/2021/submission](https://www.akbc.ws/2021/submission).
 
 **Dual Submission Policy:** Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy.  However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process.
+
+**Under-review Submissions:** For papers that are under review in another conference (e.g., EMNLP 2021), you can submit your paper to AKBC but must use the non-archival option. In addition, please also adhere to the rules set by the other conference. Specifically for EMNLP 2021, we will respect EMNLP’s anonymization period and will publicly announce AKBC accepted papers (archival and non-archival) after EMNLP notifications on Aug 25.
+
 
 ### Invited Talks
 The following are confirmed invited speakers. Additional speakers are expected to be added.

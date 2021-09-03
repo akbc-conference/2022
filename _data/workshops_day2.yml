@@ -1,0 +1,23 @@
+- name: Explainable Graph-Based Machine Learning (XGML) Workshop
+  url: https://xgml.github.io
+  acronym: XGML
+  organizers: Pouya Pezeshkpour (UCI), Pasquale Minervini (University of College London), Mathias Niepert (NEC Labs Europe), Sameer Singh (UCI)
+  duration: Half-Day
+
+- name: Workshop on Commonsense Reasoning and Knowledge Bases
+  url: https://akbc-cskb.github.io/
+  acronym: CSKB
+  organizers: Vered Schwartz, Antoine Bosselut, Xiang Lorraine Li, Bill Yuchen Lin
+  duration: Half-Day
+
+- name: Personal Knowledge Graphs
+  url: https://pkgs.ws/
+  acronym: PKGS
+  organizers: Krisztian Balog (University of Stavanger, Norway), Paramita Mirza (Max Planck Institute for Informatics, Germany), Martin G. Skjæveland (University of Oslo, Norway), Zhilin Wang (University of Washington, USA)
+  duration: Half-Day
+
+- name: "SciNLP: Natural Language Processing for Scientific Texts"
+  url: https://scinlp.org/
+  acronym: SciNLP
+  organizers: Arman Cohan (Allen Institute for AI), Pradeep Dasigi (Allen Institute for AI), Tom Hope (Allen Institute for AI), Kyle Lo (Allen Institute for AI), Sunil Mohan (Chan Zuckerberg Initiative), Alex Wade (Chan Zuckerberg Initiative), Lucy Lu Wang (Allen Institute for AI), Ivana Williams (Chan Zuckerberg Initiative), Dongxu Zhang (University of Massachusetts, Amherst)
+  duration: Half-Day

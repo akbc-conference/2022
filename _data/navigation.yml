@@ -13,8 +13,11 @@
   dropdown:
   - title: Call for papers
     url: "/cfp/"
-#  - title: Call for Workshops
-#    url: "/cfw/"
+  - title: Call for Workshops
+    url: "/cfw/"
+  - title: "Workshops"
+    url: "/workshops/"
+
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
