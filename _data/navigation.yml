@@ -11,7 +11,9 @@
   url: "/cfp/"
   side: left
   dropdown:
-  - title: Call for papers
+  - title: Accepted Papers
+    url: "/papers/"
+  - title: Call for Papers
     url: "/cfp/"
   - title: Call for Workshops
     url: "/cfw/"
