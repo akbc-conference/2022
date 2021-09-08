@@ -13,13 +13,18 @@
   dropdown:
   - title: Accepted Papers
     url: "/papers/"
-  - title: Call for Papers
-    url: "/cfp/"
-  - title: Call for Workshops
-    url: "/cfw/"
+  - title: Invited Speakers
+    url: "/speakers/"
+  # - title: Call for Papers
+  #   url: "/cfp/"
+  # - title: Call for Workshops
+  #   url: "/cfw/"
   - title: "Workshops"
     url: "/workshops/"
 
+- title: Registration
+  url: "/registration/"
+  side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
