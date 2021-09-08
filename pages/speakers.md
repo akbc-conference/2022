@@ -6,6 +6,8 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
+Talk titles and abstracts coming soon.
+
 {% for speaker in site.data.speakers %}
 
 <div id="{{ speaker.UID }}Summary"></div>
@@ -22,10 +24,10 @@ header:
 #### {{ speaker.institution }}
 
 <br />
-_{{ speaker.title }}_ <br />
+<!-- _{{ speaker.title }}_ <br /> -->
 
-<a href="#{{ speaker.UID }}Detail"> Abstract and Bio</a>
-
+<!-- <a href="#{{ speaker.UID }}Detail"> Abstract and Bio</a> -->
+<a href="#{{ speaker.UID }}Detail">Bio</a>
 </div>
 
 <div class="large-1 columns"></div>
@@ -58,9 +60,9 @@ _{{ speaker.title }}_ <br />
 <div class="row">
 <div class="large-1 columns"></div>
 <div class="large-10 medium-12 columns" markdown="1">
-<h4>{{ speaker.title }}</h4>
+<!-- <h4>{{ speaker.title }}</h4>
 {{ speaker.abstract }}
-<br /> <br />
+<br /> <br /> -->
 <h6> Bio </h6>
 {{ speaker.bio }}
 
