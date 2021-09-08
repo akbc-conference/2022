@@ -16,11 +16,13 @@
         (<a href="https://openreview.net{{-include.p.pdf-}}">PDF</a>
     -->
     {% if include.p.pdf != "" %}
-        (<a href="{{- url -}}/assets/pdfs/{{- include.p.forum_id -}}.pdf">PDF</a>
-        {%- if include.p.html -%}
-        , <a href="{{-include.p.html-}}">Website</a>
-        {%- endif -%})
-    {% endif %}
+        {% if include.p['archival_status'] != "" and include.p['archival_status'] != "Non-Archival" %}
+            (<a href="{{- url -}}/assets/pdfs/{{- include.p.forum_id -}}.pdf">PDF</a>
+            {%- if include.p.html -%}
+            , <a href="{{-include.p.html-}}">Website</a>
+            {%- endif -%})
+            {% endif %}
+        {% endif %}
     <br>
     <!-- Authors -->
     <i>
