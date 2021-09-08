@@ -1,116 +1,114 @@
-- 
-    UID: "jberant"
-    thumbnail: "jberant.png"
-    speaker: Jonathan Berant
-    institution: Tel Aviv University / Allen Institute for AI
-    url: http://www.cs.tau.ac.il/~joberant/
-    title: Symbolic and distributed representations for question answering
-    abstract: "Models for question answering (QA) have been dominated recently by fully differentiable neural networks, based on large pre-trained language models. However, when answering a question requires multiple reasoning steps, symbolic approaches offer a natural and often more interpretable alternative. In this talk, I will describe recent work that focuses on the pros and cons of symbolic and distributed approaches for question answering. First, I will describe QDMR, a symbolic meaning representation for questions, inspired by semantic parsing, that can be annotated at scale by non-experts. QDMR was used to annotate BREAK: a benchmark for question understanding that contains 83K questions with their meaning representation from 10 existing datasets across three modalities. Then, I will show how a symbolic representation, such as QDMR, can be used to (a) improve accuracy on open-domain QA benchmarks that require multiple retrieval steps (b) improve the faithfulness of compositional neural networks for answering complex questions. I will then move to two cases where end-to-end differentiable models provide advantages over symbolic approaches. Specifically, one can automatically generate data at scale for both numerical and logical reasoning, and easily endow pre-trained language models with those missing capabilities for answering complex questions."
-    bio: Jonathan Berant is a senior lecturer (assistant professor) at the School of Computer Science at Tel Aviv University and a research scientist at The Allen Institute for AI. Jonathan earned a Ph.D. in Computer Science at Tel-Aviv University, under the supervision of Prof. Ido Dagan. Jonathan was a post-doctoral fellow at Stanford University, working with Prof. Christopher Manning and Prof. Percy Liang, and subsequently a post-doctoral fellow at Google Research, Mountain View. Jonathan Received several awards and fellowships including The Rothschild fellowship, The ACL 2011 best student paper award, EMNLP 2014 best paper award, and NAACL 2019 best resource paper award, as well as several honorable mentions. Jonathan is currently an ERC grantee.
-- 
-    UID: "wcohen"
-    thumbnail: "wcohen.jfif"
-    speaker: William Cohen
-    institution: Google AI
-    url: http://www.cs.cmu.edu/~wcohen/
-    title: KR for KBQA and KBC
-    abstract: 'KB completion can be viewed as answering structured queries against a KB. Since answering the queries requires more than simply retrieving known facts, answering these queries requires some non-trivial processing, and hence is broadly similar to logical inference in a conventional symbolic KB. KB question-answering (KBQA) also answers queries against a KB, but in this case the queries are unstructured text queries. So both KBQA and KBC use some analog of "reasoning" over a KB. This raises the question: what can we learn about KBQA and KBC from the classical AI subfield of knowledge representation (KR)? In KR the central question is how to represent knowledge in a form that supports efficient, expressive reasoning. In my talk I will try to revisit this question in the context of modern neural learning methods, and tie the themes explored in classical KR to recently-proposed methods for KBC and KBQA.'
-- 
-    UID: "ldong"
-    thumbnail: "ldong.jpeg"
-    speaker: Xin Luna Dong
-    institution: Amazon
-    url: http://lunadong.com/
-    title: Harvesting knowledge from the semi-structured web
-    abstract: Knowledge graphs have been used to support a wide range of applications and enhance search and QA for Google, Amazon Alexa, etc. However, we often miss long-tail knowledge, including unpopular entities, unpopular relations, and unpopular verticals. In this talk we describe our efforts in harvesting knowledge from semi-structured websites, which are often populated according to some templates using vast volume of data stored in underlying databases. We describe our AutoCeres ClosedIE system, which improves the accuracy of fully automatic knowledge extraction from 60%+ of state-of-the-art to 90%+ on semi-structured data. We also describe OpenCeres, the first ever OpenIE system on semi-structured data, that is able to identify new relations not readily included in existing ontologies. In addition, we describe our other efforts in ontology alignment, entity linkage, graph mining, and QA, that allow us to best leverage the knowledge we extract for search and QA.
-    bio: Xin Luna Dong is a Principal Scientist at Amazon, leading the efforts of constructing Amazon Product Knowledge Graph. She was one of the major contributors to the Google Knowledge Vault project, and has led the Knowledge-based Trust project, which is called the “Google Truth Machine” by Washington’s Post. She has co-authored book “Big Data Integration”, was awarded ACM Distinguished Member, VLDB Early Career Research Contribution Award for "advancing the state of the art of knowledge fusion", and Best Demo award in Sigmod 2005. She serves in VLDB endowment and PVLDB advisory committee, and is a PC co-chair for VLDB 2021, ICDE Industry 2019, VLDB Tutorial 2019, Sigmod 2018 and WAIM 2015.​​
-- 
-    UID: "hji"
-    thumbnail: "hji.png"
-    speaker: Heng Ji
-    institution: University of Illinois Urbana-Champaign
-    url: http://blender.cs.illinois.edu/hengji.html
-    title: Event-centric Knowledge Base Construction
-    abstract: Understanding events and communicating about them are fundamental human activities. However, it's much more difficulty to populate event-related knowledge compared to entity-related knowledge. For example, most people in the United States will be able to answer the question "Who is President Barack Obama’s wife?", but very few people can give a complete answer to "Who died in September 11 attacks?". We propose a new research direction on event-centric knowledge base construction from multimedia multilingual sources. Our minds represent events at various levels of granularity and abstraction, which allows us to quickly access and reason about old and new scenarios. Progress in natural language understanding and computer vision has helped automate some parts of event understanding but the current, first-generation, automated event understanding is overly simplistic since it is local, sequential and flat. Real events are hierarchical and probabilistic. Understanding them requires knowledge in the form of a repository of abstracted event schemas (complex event templates), understanding the progress of time, using background knowledge, and performing global inference. Our approach to second-generation event understanding builds on an incidental supervision approach to inducing an event schema repository that is probabilistic, hierarchically organized and semantically coherent. Low level primitive components of event schemas are abundant, and can be part of multiple, sparsely occurring, higher-level schemas. Consequently, we combine bottom-up data driven approaches across multiple modalities with top-down consolidation of information extracted from a smaller number of encyclopedic resources. This facilitates inducing higher-level event and time representations analysts can interact with, and allow them to guide further reasoning and extract events by constructing a novel structured cross-media common semantic space. When complex events unfold in an emergent and dynamic manner, the multimedia multilingual digital data from traditional news media and social media often convey conflicting information. To understand the many facets of such complex, dynamic situations, we have also developed cross-media cross-document event coreference resolution and event-event relation tracking methods for event-centric knowledge population.
-    bio: Heng Ji is a professor at Computer Science Department of University of Illinois at Urbana-Champaign. She received her B.A. and M. A. in Computational Linguistics from Tsinghua University, and her M.S. and Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Information Extraction and Knowledge Base Population. She is selected as "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017. The awards she received include "AI's 10 to Watch" Award by IEEE Intelligent Systems in 2013 and NSF CAREER award in 2009. She has coordinated the NIST TAC Knowledge Base Population task since 2010. She has served as the Program Committee Co-Chair of many conferences including NAACL-HLT2018.
-- 
-    UID: "jleskovec"
-    thumbnail: "jleskovec.jpg"
-    speaker: Jure Leskovec
+-
+    UID: "pclark"
+    thumbnail: "pclark.jpg"
+    speaker: Peter Clark
+    institution: Allen Institute for AI
+    url: https://allenai.org/team/peterc
+    title: TBD
+    abstract: TBD
+    bio: 'Peter Clark is the Senior Research Manager for AI2. His work focuses upon natural language processing, machine reasoning, and large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He received his Ph.D. in Computer Science in 1991, and has researched these topics for 30 years with more than 80 refereed publications.'
+-
+    UID: "jdeng"
+    thumbnail: "jdeng.jpg"
+    speaker: Jia Deng
+    institution: Princeton
+    url: https://www.cs.princeton.edu/~jiadeng/
+    title: TBD
+    abstract: TBD
+    bio: 'I am an Assistant Professor of Computer Science at Princeton University. I direct the Princeton Vision & Learning Lab. I study computer vision and machine learning. My current interests include 3D vision, object recognition, action recognition, and automated theorem proving.'
+-
+    UID: "gdureett"
+    thumbnail: "gdureett.png"
+    speaker: Greg Durrett
+    institution: University of Texas Austin
+    url: https://www.cs.utexas.edu/~gdurrett/
+    title: TBD
+    abstract: TBD
+    bio: 'I am an Assistant Professor in the Department of Computer Science at UT Austin, where I lead the TAUR Lab. My current research covers a range of topics in statistical natural language processing, including question answering, text generation, document summarization, entity analysis, and other types of automated reasoning in natural language. Solving these problems lets computers access the information in unstructured text and transform this information in structured ways. See my research page for more information. Prior to joining UT Austin, I received my Ph.D. from UC Berkeley in 2016, where I was advised by Dan Klein and part of the Berkeley NLP Group.'
+-
+    UID: "ygil"
+    thumbnail: "ygil.png"
+    speaker: Yolanda Gil
+    institution: USC
+    url: https://www.isi.edu/~gil/
+    title: TBD
+    abstract: TBD
+    bio: "I am Senior Director for Major Strategic AI and Data Science Initiatives USC's Information Sciences Institute (ISI). As Principal Scientist I lead the Interactive Knowledge Capture research group, which is part of AI@ISI. My research focuses on intelligent interfaces for knowledge capture, which is a central topic in our projects concerning knowledge-based planning and problem solving, information analysis and assessment of trust, semantic annotation, agent and software choreography, and community-wide development of knowledge bases. A recent focus is assisting scientists with intelligent systems that analyze data, test hypotheses, and make new discoveries. If you would like to visit us, give a talk, or join our research group, please contact me! I am also Research Professor in the Department of Computer Science and in the Spatial Sciences Institute at USC. I am Director of the Data Science Program at USC. I designed an innovative course for teaching data science to non-programmers. I am also Director of the USC Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS). DataFest is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in faculty-guided projects involving data science. We work with the USC GRIDS data science student organization, please contact us if you are interested in joining! Before coming to ISI in 1992, I received my PhD in Computer Science from Carnegie Mellon University. My thesis focused on the acquisition of planning knowledge through the formulation of deliberate experiments with the environment. I have been fascinated ever since with the challenge of enabling computers to learn new knowledge both autonomously and from being taught."
+-
+    UID: "hhajishirzi"
+    thumbnail: "hhajishirzi.jpeg"
+    speaker: Hanna Hajishirzi
+    institution: University of Washington
+    url: https://homes.cs.washington.edu/~hannaneh/
+    title: TBD
+    abstract: TBD
+    bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
+-
+    UID: "tkraska"
+    thumbnail: "tkraska.jpg"
+    speaker: Tim Kraska
+    institution: MIT
+    url: https://people.csail.mit.edu/kraska/
+    title: TBD
+    abstract: TBD
+    bio: "I am an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), founding co-director of the Data System and AI Lab (DSAIL) at MIT, and co-founder of einblick analytics, inc. My group aims to dramatically increase the efficiency of data-intensive systems and democratize data science by enabling a broader range of users to unfold the potential of (their) data through the development of a new generation of algorithms and systems. This entails exploring how we can build systems to better support the recent advances in machine learning (Systems for ML) and how we can leverage machine learning to improve systems (ML for Systems). For example, with our work on SageDB we started to explore how we can enhance or even replace core systems components using machine learning models and early results suggest, that we can improve the state-of-the-art by more than an order-of-magnitude in performance. On the other hand, with Northstar we are exploring new user interfaces and infrastructure to democratize data science by enabling visual, interactive, and assisted data exploration and model building. One particular focus of this work is to help all types of users to analyse data and build models faster, but also make data exploration and model building safer by automatically preventing the user from common pitfalls."
+-
+    UID: "mlam"
+    thumbnail: "mlam.jpg"
+    speaker: Monica Lam
     institution: Stanford
-    url: https://cs.stanford.edu/people/jure/
-    title: Representation Learning for Logical Reasoning in Knowledge Graphs
-    abstract: Learning low-dimensional embeddings of knowledge graphs is a powerful approach for predicting unobserved or missing relations between entities. However, an open challenge in this area is developing techniques that can go beyond single edge prediction and handle more complex multi-hop logical queries, which might involve multiple unobserved edges, entities, and variables. In this talk we present a framework to efficiently answer multi-hop logical queries on knowledge graphs. Our main insight is that queries can be embedded as boxes (i.e., hyper-rectangles), where a set of points inside the box corresponds to a set of answer entities of the query. We show that conjunctions and disjunctions can be naturally represented as intersections/unions of boxes. We demonstrate the effectiveness of our approach on large KGs and show its robustness in the presence of noise and missing relations.
-    bio: Jure Leskovec is Associate Professor of Computer Science at Stanford University, Chief Scientist at Pinterest, and investigator at Chan Zuckerberg Biohub. His research focuses on machine learning and data mining with graphs, a general language for describing social, technological and biological systems. Computation over massive data is at the heart of his research and has applications in computer science, social sciences, marketing, and biomedicine. This research has won several awards including a Lagrange Prize, Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship, and numerous best paper and test of time awards. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, PhD in machine learning from Carnegie Mellon University and postdoctoral training at Cornell University.
-- 
-    UID: "nnakashole"
-    thumbnail: "nnakashole.jpg"
-    speaker: Ndapandula Nakashole
-    institution: University of California San Diego
-    url: http://nakashole.com/
-    title: Text Processing for Learning and Automation of Data Science.
-    abstract: How can text processing models be used to help self-directed students learn the skills they need to be effective data scientists, for example, the basics of Probability Theory? How can text processing models be used to automate mundane data wrangling tasks to help improve efficiency of Data Scientists? In this talk, I will discuss these questions, and our work on the NLP systems we are building to answer these questions.
-    bio: Ndapa Nakashole is an Assistant Professor at the University of California, San Diego, where she teaches and carries out research on Statistical Natural Language Processing. Before that she was postdoctoral scholar at Carnegie Mellon University. She obtained her PhD from Saarland University and the Max Planck Institute for Informatics, Germany. She completed undergraduate studies in Computer Science at the University of Cape Town, South Africa.
-- 
-    UID: "trekatsinas"
-    thumbnail: "trekatsinas.jpg"
-    speaker: Theodoros Rekatsinas
-    institution: University of Wisconsin-Madison
-    url: http://pages.cs.wisc.edu/~thodrek/
-    title: Automating Data Quality Management
-    abstract: Data quality management is a bottleneck in modern analytics as high-effort tasks such as data validation and cleaning are essential to obtain accurate results. This talk describes how to use machine learning to automate routine data quality management tasks. I will first introduce Probabilistic Unclean Databases (PUDs), a formal probabilistic framework to describe the quality of structured data and demonstrate how data validation and cleaning correspond to learning and inference problems over structured data distributions. I will then show how the PUDs framework forms the basis of the HoloClean framework, a state-of-the-art ML-based solution to automate data quality management for structured data. Finally, I will close with a discussion on lessons learned from HoloClean with particular emphasis on when accurate, automated data cleaning is feasible.
-    bio: Theodoros (Theo) Rekatsinas is an Assistant Professor in the Department of Computer Sciences at the University of Wisconsin-Madison. He is a member of the Database Group. He is also a co-founder of inductiv, a startup focusing on automating data quality ops for analytical pipelines. Theo earned his Ph.D. in Computer Science from the University of Maryland and was a Moore Data Postdoctoral Fellow at Stanford University. His research interests are in data management, with a focus on data integration, data cleaning, and uncertain data. Theo's work has been recognized with an Amazon Research Award in 2017, a Best Paper Award at SDM 2015, and the Larry S. Davis Doctoral Dissertation award in 2015.
-- 
-    UID: "estrubell"
-    thumbnail: "estrubell.jpg"
-    speaker: Emma Strubell
-    institution: Facebook / CMU
-    url: https://people.cs.umass.edu/~strubell/
-    title: Learning to live with BERT
-    abstract: Large, pre-trained language models (LMs) like BERT produce high quality, general purpose representations of word(piece)s in context. Unfortunately, training and deploying these models comes at a high computational cost, limiting their development and use to a small set of institutions with access to substantial computational resources, while potentially accelerating climate change with their unprecedented energy requirements. In this talk I’ll characterize the inefficiencies of LM training and decoding, survey recent techniques for scaling down large pre-trained language models, and identify potential exciting research directions with the goal of enabling a broader array of researchers and practitioners to benefit from these powerful models, while remaining mindful of the environmental impact of our work.
-    bio: Emma Strubell is a Visiting Researcher at Facebook AI Research, and Assistant Professor in the Language Technologies Institute at Carnegie Mellon University. Her research aims to provide fast and robust natural language processing to the diversity of academic and industrial investigators eager to pull insight and decision support from massive text data in many domains. Toward this end she works at the intersection of natural language understanding, machine learning, and deep learning methods cognizant of modern tensor processing hardware. Her research has been recognized with best paper awards at ACL 2015 and EMNLP 2018.
-- 
-    UID: "asu"
-    thumbnail: "asu.jpg"
-    speaker: Andrew Su
-    institution: Scripps Institute
-    url: https://www.scripps.edu/faculty/su/
-    title: Building and mining a heterogenous biomedical knowledge graph
-    abstract: The biomedical research community is incredibly productive, producing over one million new publications per year. However, the knowledge contained in those publications usually remains in unstructured free text, or is fragmented across unconnected data silos. Here, I will describe recent efforts to integrate biomedical knowledge into large, heterogeneous knowledge graphs, and to mine those knowledge graphs to identify novel testable hypotheses
-    bio: Andrew is a Professor at the Scripps Research Institute in the Department of Integrative Structural and Computational Biology (ISCB). His research focuses on building and applying bioinformatics infrastructure for biomedical discovery. His research has a particular emphasis on leveraging crowdsourcing for genetics and genomics. Representative projects include the Gene Wiki, BioGPS, MyGene.Info, and Mark2Cure, each of which engages the crowd to help organize biomedical knowledge. These resources are collectively used millions of times every month by members of the research community, by students, and by the general public.
-- 
-    UID: "jtaylor"
-    thumbnail: "jtaylor.jpg"
-    speaker: Jamie Taylor
-    institution: Google
-    url: https://www.linkedin.com/in/jamie-taylor-853953/
-    title: A long view on Identity
-    abstract: Google's Knowledge Graph is a durable collection of entities.  As new things are learned over time about an entity, those "facts" are added to the entity. This long term accumulation of knowledge is central to the value of KG. To make this growth strategy work, the entities must be easily distinguishable from one another and stable in what they represent.  But how should the boundaries between each entity be determined?  Moreover, what is the right granularity of categories and relations that should be applied to these entities?  There are many options for how the world could be cleaved ontologically, but experience with a large stable knowledge graph has shown that pragmatically some criteria may matter more than others. And yet, in some cases, the decision might not be as important as we thought.
-    bio: Jamie manages the Schema Team for Google’s Knowledge Graph. The team’s responsibilities include extending KG’s underlying semantic representation, growing coverage of the ontology and enforcing semantic policy. He joined Google following the acquisition of Metaweb Technologies where he was the Minister of Information, helping organize data in Freebase and evangelizing semantic representation to web developers. Prior to Metaweb, Jamie worked in enterprise software as CTO of Determine Software and before that started one of the first ISPs in San Francisco. He is co-author of the O’Reilly book, “Programming the Semantic Web.” Jamie has a PhD from Harvard University and earned his bachelor’s degree from Colorado College.
-- 
-    UID: "bvandurme"
-    thumbnail: "bvandurme.jpg"
-    speaker: Benjamin Van Durme
-    institution: John Hopkins University
-    url: https://www.cs.jhu.edu/~vandurme/
-    title: Embracing uncertainty as the target of prediction
-    abstract: "The Information Extraction and Computational Semantics communities are largely dominated by resources and models that strive for extracting what an observation categorically supports as a true prediction. E.g., \"this image is of a CAT\", or \"that token sequence refers to an ORGANIZATION\", or \"this sentence ENTAILS that other sentence\". As humans we recognize that observations can be ambiguous as to what predictions they evince, but we seem to forget that when building datasets, and then blindly aim to reproduce those annotations when building models. I will discuss a series of projects that explore annotating and modeling subjective likelihood assessments, with a focus on tasks such as semantic parsing and textual entailment. For example, the sentence \"Someone is walking a dog in a park\" may be interpreted as strong evidence for, \"The dog is alive\", weak evidence for, \"The sun is shining\", and cast doubt on (but not strictly \"contradict\"), \"The park is on fire\". While our work has concentrated on text, the point applies broadly: how often have you done an image captcha and had hesitation on whether that one picture contained a \"bridge\"? Let's agree that sometimes the right answer is \"maybe\"."
-    bio: Benjamin Van Durme is an Associate Professor of Computer Science at Johns Hopkins University and a Principal Research Scientist at Microsoft Semantic Machines. His research focusses on resources and models for natural language understanding. His observations on the problem of reporting bias in common sense knowledge acquisition was recognized with a best paper award at AKBC 2013.
-- 
-    UID: "dyang"
-    thumbnail: "dyang.jpg"
-    speaker: Diyi Yang
-    institution: Georgia Institute of Technology
-    url: https://www.cc.gatech.edu/~dyang888/experience.html
-    title: Language Understanding in Social Context
-    abstract: Over the last few decades, natural language processing (NLP) has had increasing success and produced industrial applications like search, and personal assistants. Despite being sufficient to enable these applications, current NLP systems largely ignore the social part of language, e.g., who says it, in what context, for what goals. My research combines NLP, linguistics and social science to study how people use language in different social settings for their social goals, with the implications of developing systems to facilitate human-human and human-machine communication. In this talk, I will explain my research from two specific studies. The first part studies what makes language persuasive by introducing a semi-supervised neural network to recognize persuasion strategies in loan requests on crowdfunding platforms, and further designed neural encoder-decoder systems to automatically transform inappropriately subjective framing into a neutral point of view. The second focuses on modeling how people seek and offer support via language in online cancer support communities and building interventions to support patient communication. Through these examples, I show how we can accurately and efficiently build better language technologies for social contexts.
-    bio: Diyi Yang is an assistant professor in the School of Interactive Computing at Georgia Tech, also affiliated with the Machine Learning Center (ML@GT) at Georgia Tech. She is interested in natural language processing (e.g., language generation, semantics, discourse), and computational social science. Diyi received her PhD from the Language Technologies Institute at Carnegie Mellon University, and her bachelor's degree from Shanghai Jiao Tong University, China. Her work has been published at leading NLP/HCI conferences, and also resulted in multiple award-winning papers from EMNLP 2015 and SIGCHI 2019. She has served as an Area Chair for ACL, EMNLP, NAACL, CIKM, and CSCW conferences.
-- 
-    UID: "lzettlemoyer"
-    thumbnail: "lzettlemoyer.jpg"
-    speaker: Luke Zettlemoyer
-    institution: University of Washington / Facebook
-    url: https://www.cs.washington.edu/people/faculty/lsz
-    title: Denoising Sequence-to-Sequence Pre-training
-    abstract: Denoising auto-encoders can be pre-trained at a very large scale by noising and then reconstructing any input text. Existing methods, based on variations of masked languages models, have transformed the field and are now provide the de facto initialization to be tuned for nearly every task. In this talk, I will present our work on sequence-to-sequence pre-training that allows arbitrary noising, by simply learning to translate any corrupted text back to the original with standard Tranformer-based neural machine translation architectures. I will show the resulting mono-lingual (BART) and multi-lingual (mBART) models are highly effective for a wide range of discrimination and generation tasks, including question answer, summarization, and machine translation. A key contribution of our generalized noising is that we can replicate other pretraining schemes within the BART framework, to better measure which factors most influence end-task performance, as I will describe. Finally, I will highlight many of the ways BART is already being used by other researchers, and discuss opportunities to further push models that pre-train for generating and understanding text in many languages. 
-    bio: Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, and a Research Scientist at Facebook. His research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms; introducing new tasks and datasets; and, most recently, studying how to best develop self-supervision signals for text. Honors include multiple paper awards, a PECASE award, and an Allen Distinguished Investigator Award. Luke received his PhD from MIT and was a postdoc at the University of Edinburgh.
+    url: https://suif.stanford.edu/~lam/
+    title: TBD
+    abstract: TBD
+    bio: "Monica Lam is a Professor in the Computer Science Department at Stanford University since 1988. She is the faculty director of the Open Virtual Assistant Lab (OVAL). She received a B.Sc. from University of British Columbia in 1980 and a Ph.D. in Computer Science from Carnegie Mellon University in 1987. Monica is a Member of the National Academy of Engineering and Association of Computing Machinery (ACM) Fellow. She is a co-author of the popular text Compilers, Principles, Techniques, and Tools (2nd Edition), also known as the Dragon book. Professor Lam's current research is on conversational virtual assistants with an emphasis on privacy protection. Her research uses deep learning to map task-oriented natural language dialogues into formal semantics, represented by a new executable programming language called ThingTalk. Her Almond virtual assistant, trained on open knowledge graphs and IoT API standards, can be easily customized to perform new tasks. She is leading an Open Virtual Assistant Initiative to create the largest, open, crowdsourced language semantics model to promote open access in all languages. Her decentralized Almond virtual assistant that supports fine-grain sharing with privacy has received Popular Science's Best of What's New Award in Security in 2019. Prof. Lam is also an expert in compilers for high-performance machines. Her pioneering work of affine partitioning provides a unifying theory to the field of loop transformations for parallelism and locality. Her software pipelining algorithm is used in commercial systems for instruction level parallelism. Her research team created the first, widely adopted research compiler, SUIF. Her contributions in computer architecture include the CMU Warp Systolic Array and the Stanford DASH Distributed Memory Multiprocessor. She was on the founding team of Tensilica, now a part of Cadence. She received an NSF Young Investigator award in 1992, the ACM Most Influential Programming Language Design and Implementation Paper Award in 2001, an ACM SIGSOFT Distinguished Paper Award in 2002, and the ACM Programming Language Design and Implementation Best Paper Award in 2004. She was the author of two of the papers in \"20 Years of PLDI--a Selection (1979-1999)\", and one paper in the \"25 Years of the International Symposia on Computer Architecture\". She received the University of British Columbia Computer Science 50th Anniversary Research Award in 2018, and an ASPLOS Influential Paper Award in 2021."
+-
+    UID: "pliang"
+    thumbnail: "pliang.jpeg"
+    speaker: Percy Liang
+    institution: Stanford
+    url: https://cs.stanford.edu/~pliang/
+    bio: "My goal is to develop trustworthy systems that can communicate effectively with people and improve over time through interaction. I broadly identify with the machine learning (ICML, NeurIPS) and natural language processing (ACL, NAACL, EMNLP) communities. Computers can do a lot, but tapping into their full power requires the rather non-trivial ability to program. I'm interested in building systems that learn to translate natural language descriptions (e.g., in English or Chinese) into programs (e.g., in Python or C++). Such systems would unlock the full power of computing to a much wider audience. A while back, I wrote a friendly introduction to natural language interfaces (XRDS magazine 2014) and a slightly more technical survey article on executable semantic parsing (CACM 2016). One idea we've explored is to \"naturalize\" a programming language gradually into a natural language (ACL 2017). One can also use natural language to describe classifiers directly rather than requiring labeled data (ACL 2018). The tension between the fuzziness of machine learning and the crispness of logic also fascinates me. On this note, we showed that neural networks can solve SAT problems with surprising accuracy despite not being told explicitly what a SAT problem is (ICLR 2019). Despite the successes of machine learning, otherwise high-performing models are still difficult to debug and fail catastrophically in the presence of changing data distributions and adversaries. For example, on the SQuAD reading comprehension dataset we created (EMNLP 2016), we showed that state-of-the-art systems, despite reaching human-level benchmark performance, are easily fooled by distracting sentences in a way that no human would be (EMNLP 2017). Given society's increasing reliance on machine learning, it is critical to build tools to make machine learning more reliable in the wild. We've worked on using influence functions to understand black-box models (ICML 2017), semidefinite programming to provide certificates a neural network is safe from a class of adversaries (NeurIPS 2018), and distributionally robust optimization to ensure the fairness of machine learning models over time (ICML 2018). Finally, I am a strong proponent of efficient and reproducible research. We have been developing CodaLab Worksheets, a platform that allows researchers to run and manage their experiments by maintaining the full provenance of an experiment from raw data to final results. Most of our recent papers have been published on CodaLab as executable papers. We are actively looking for contributors, so please contact me if you're interested!"
+-
+    UID: "dparikh"
+    thumbnail: "dparikh.jpg"
+    speaker: Devi Parikh
+    institution: Georgia Tech and Facebook AI Research
+    url: https://www.cc.gatech.edu/~parikh/
+    title: TBD
+    abstract: TBD
+-
+    UID: "sravi"
+    thumbnail: "sravi.jpg"
+    speaker: Sujith Ravi
+    institution: Amazon Alexa AI
+    url: http://www.sravi.org/
+    title: TBD
+    abstract: TBD
+    bio: "My experience spans technical AI leadership with expertise in founding, growing and managing ML engineering, science and product teams. My work involves research and industry-wide practical applications related to the fields of machine learning, natural language processing (NLP), computer vision, data mining and computational decipherment (cracking codes with computers). This has led to scientific advances and industry-wide innovations in conversational AI, on-device machine learning for IoT devices, large-scale unsupervised and semi-supervised methods and their applications to structured prediction problems in NLP, image recognition, information extraction, multi-modal learning for language/vision, user modeling in social media, graph optimization algorithms for summarizing noisy data, computational decipherment and computational advertising."
+-
+    UID: "sreddy"
+    thumbnail: "sreddy.jpg"
+    speaker: Siva Reddy
+    institution: McGill
+    url: https://sivareddy.in/
+    title: TBD
+    abstract: TBD
+    bio: "My area of research is Natural Language Processing. My research goal is to enable machines with language understanding abilities such that conversing with machines feel as natural as conversing with humans. Along this process, I hope to discover fundamental representations of language, both symbolic and distributional, that allow us to study the connection between language and meaning. My expertise includes building symbolic and deep learning models for language understanding. I work on problems such as semantic parsing, question answering, reading comprehension and conversational systems. For prospective students, here is a list of topics I work on."
+-
+    UID: "dshahaf"
+    thumbnail: "dshahaf.jpeg    "
+    speaker: Dafna Shahaf
+    institution: Hebrew University
+    url: http://www.hyadatalab.com/index.html
+    title: TBD
+    abstract: TBD
+    bio: "I am an Associate Professor in computer science at the Hebrew University of Jerusalem. My research focuses on data science and helping people make sense of massive amounts of data, with a special emphasis on unlocking the potential of the many digital traces left by human activity to contribute to our understanding (and the computers emulation) of human capacities such as humor and creativity."
+-
+    UID: "dsontag"
+    thumbnail: "dsontag.jpg"
+    speaker: David Sontag
+    institution: MIT
+    url: https://people.csail.mit.edu/dsontag/
+    title: TBD
+    abstract: TBD
+    bio: "I am an Associate Professor of Electrical Engineering and Computer Science at MIT, part of both the Institute for Medical Engineering & Science and the Computer Science and Artificial Intelligence Laboratory. My research focuses on advancing machine learning and artificial intelligence, and using these to transform health care. Previously, I was an Assistant Professor of Computer Science and Data Science at New York University, part of the CILVR lab."
