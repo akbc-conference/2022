@@ -17,16 +17,21 @@ header:
         {% if workshop.acronym %}
             ({{- workshop.acronym -}})
         {%- endif -%}
-    </b>, <i>{{- workshop.duration -}}</i>
+    </b>
     {%- if workshop.url -%}
     , <a href="{{ workshop.url }}">Website</a>
     {%- endif -%}
-    {%- if workshop.organizers -%}
     <br>
     <i>
-        {{- workshop.organizers -}}
+    {%- for organizer in workshop.organizers -%}
+        {{- organizer -}}
+        {%- if forloop.last == true -%}
+            .
+        {%- else -%}
+            ,&nbsp;
+        {%- endif -%}
+    {%- endfor -%}
     </i>
-    {%- endif -%}
     </li>
     {%- endif -%}
 {% endfor %}
@@ -44,16 +49,21 @@ header:
         {% if workshop.acronym %}
             ({{- workshop.acronym -}})
         {%- endif -%}
-    </b>, <i>{{- workshop.duration -}}</i>
+    </b>
     {%- if workshop.url -%}
     , <a href="{{ workshop.url }}">Website</a>
     {%- endif -%}
-    {%- if workshop.organizers -%}
     <br>
     <i>
-        {{- workshop.organizers -}}
+    {%- for organizer in workshop.organizers -%}
+        {{- organizer -}}
+        {%- if forloop.last == true -%}
+            .
+        {%- else -%}
+            ,&nbsp;
+        {%- endif -%}
+    {%- endfor -%}
     </i>
-    {%- endif -%}
     </li>
     {%- endif -%}
 {% endfor %}

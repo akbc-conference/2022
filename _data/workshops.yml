@@ -2,7 +2,13 @@
   name: Conversational Agents with Structured Knowledge
   url: https://cask-workshop.github.io
   acronym: CASK
-  organizers: Shyam Upadhyay (Google), Waleed Ammar (Google), Aditya Gupta (Google), Rahul Goel (Google), Shachi Paul (Google), Mihir Sanjay Kale (Google)
+  organizers: 
+    - Shyam Upadhyay
+    - Waleed Ammar
+    - Aditya Gupta
+    - Rahul Goel
+    - Shachi Paul
+    - Mihir Sanjay Kale
   duration: Half-Day
   day: 1
 
@@ -10,7 +16,12 @@
   name: Unstructured & Structured KB
   url: https://uskb-workshop.github.io/
   acronym: USKB
-  organizers: Siamak Shakeri, Pat Verga, Nicholas FitzGerald (Google Research), Rajarshi Das, Sewon Min
+  organizers: 
+    - Siamak Shakeri
+    - Pat Verga
+    - Nicholas FitzGerald
+    - Rajarshi Das
+    - Sewon Min
   duration: Half-Day
   day: 1
 
@@ -18,7 +29,12 @@
   name: The First Workshop on Argumentation Knowledge Graphs
   url: https://argkg21.argmining.org/
   acronym:
-  organizers: Khalid Al-Khatib (Leipzig University, Germany), Tirthankar Ghosal (Charles University, Czech Republic), Yufang Hou (IBM Research, Ireland), Dayne Freitag (SRI International, USA), Anita de Waard (Elsevier, USA)
+  organizers: 
+  - Khalid Al-Khatib
+  - Tirthankar Ghosal
+  - Yufang Hou
+  - Dayne Freitag
+  - Anita de Waard
   duration: Half-Day
   day: 1
 
@@ -26,7 +42,11 @@
   name: Explainable Graph-Based Machine Learning (XGML) Workshop
   url: https://xgml.github.io
   acronym: XGML
-  organizers: Pouya Pezeshkpour (UCI), Pasquale Minervini (University of College London), Mathias Niepert (NEC Labs Europe), Sameer Singh (UCI)
+  organizers: 
+    - Pouya Pezeshkpour
+    - Pasquale Minervini
+    - Mathias Niepert
+    - Sameer Singh
   duration: Half-Day
   day: 2
 
@@ -34,7 +54,11 @@
   name: Workshop on Commonsense Reasoning and Knowledge Bases
   url: https://akbc-cskb.github.io/
   acronym: CSKB
-  organizers: Vered Schwartz, Antoine Bosselut, Xiang Lorraine Li, Bill Yuchen Lin
+  organizers: 
+    - Vered Schwartz
+    - Antoine Bosselut
+    - Xiang Lorraine Li
+    - Bill Yuchen Lin
   duration: Half-Day
   day: 2
 
@@ -42,7 +66,11 @@
   name: Personal Knowledge Graphs
   url: https://pkgs.ws/
   acronym: PKGS
-  organizers: Krisztian Balog (University of Stavanger, Norway), Paramita Mirza (Max Planck Institute for Informatics, Germany), Martin G. Skjæveland (University of Oslo, Norway), Zhilin Wang (University of Washington, USA)
+  organizers: 
+    - Krisztian Balog
+    - Paramita Mirza
+    - Martin G. Skjæveland
+    - Zhilin Wang
   duration: Half-Day
   day: 2
 
@@ -50,6 +78,15 @@
   name: "SciNLP: Natural Language Processing for Scientific Texts"
   url: https://scinlp.org/
   acronym: SciNLP
-  organizers: Arman Cohan (Allen Institute for AI), Pradeep Dasigi (Allen Institute for AI), Tom Hope (Allen Institute for AI), Kyle Lo (Allen Institute for AI), Sunil Mohan (Chan Zuckerberg Initiative), Alex Wade (Chan Zuckerberg Initiative), Lucy Lu Wang (Allen Institute for AI), Ivana Williams (Chan Zuckerberg Initiative), Dongxu Zhang (University of Massachusetts, Amherst)
+  organizers: 
+    - Arman Cohan
+    - Pradeep Dasigi
+    - Tom Hope
+    - Kyle Lo
+    - Sunil Mohan
+    - Alex Wade
+    - Lucy Lu Wang
+    - Ivana Williams
+    - Dongxu Zhang
   duration: Half-Day
   day: 2
