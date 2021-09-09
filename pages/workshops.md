@@ -9,7 +9,8 @@ header:
 <h2> Thursday [October 7th] </h2>
 
 <ul>
-{% for workshop in site.data.workshops_day1 %}
+{% for workshop in site.data.workshops %}
+    {% if workshop.day == 1 %}
     <li>
     <b>
         {{- workshop.name -}}
@@ -27,6 +28,7 @@ header:
     </i>
     {%- endif -%}
     </li>
+    {%- endif -%}
 {% endfor %}
 </ul>
 
@@ -34,7 +36,8 @@ header:
 <h2> Friday [October 8th] </h2>
 
 <ul>
-{% for workshop in site.data.workshops_day2 %}
+{% for workshop in site.data.workshops %}
+    {% if workshop.day == 1 %}
     <li>
     <b>
         {{- workshop.name -}}
@@ -52,6 +55,7 @@ header:
     </i>
     {%- endif -%}
     </li>
+    {%- endif -%}
 {% endfor %}
 </ul>
 
