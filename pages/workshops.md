@@ -13,10 +13,10 @@ header:
     {% if workshop.day == 1 %}
     <li>
     <b>
-        {{- workshop.name -}}
         {% if workshop.acronym %}
-            ({{- workshop.acronym -}})
+            {{- workshop.acronym -}}:
         {%- endif -%}
+        {{- workshop.name -}}
     </b>
     {%- if workshop.url -%}
     , <a href="{{ workshop.url }}">Website</a>
@@ -37,18 +37,17 @@ header:
 {% endfor %}
 </ul>
 
-<br />
 <h2> Friday [October 8th] </h2>
 
 <ul>
 {% for workshop in site.data.workshops %}
-    {% if workshop.day == 1 %}
+    {% if workshop.day == 2 %}
     <li>
     <b>
-        {{- workshop.name -}}
         {% if workshop.acronym %}
-            ({{- workshop.acronym -}})
+            {{- workshop.acronym -}}:
         {%- endif -%}
+        {{- workshop.name -}}
     </b>
     {%- if workshop.url -%}
     , <a href="{{ workshop.url }}">Website</a>
@@ -69,4 +68,4 @@ header:
 {% endfor %}
 </ul>
 
-If you have any questions, please get in touch with our workshop chairs.
+If you have any questions, please get in touch with our [workshop chairs]({{ site.baseurl }}/organization/).

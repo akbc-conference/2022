@@ -26,9 +26,9 @@
   day: 1
 
 - UID: argumentation
-  name: The First Workshop on Argumentation Knowledge Graphs
+  name: Workshop on Argumentation Knowledge Graphs
   url: https://argkg21.argmining.org/
-  acronym:
+  acronym: ArgKG
   organizers: 
   - Khalid Al-Khatib
   - Tirthankar Ghosal
@@ -39,7 +39,7 @@
   day: 1
 
 - UID: xgml
-  name: Explainable Graph-Based Machine Learning (XGML) Workshop
+  name: Explainable Graph-Based Machine Learning
   url: https://xgml.github.io
   acronym: XGML
   organizers: 
@@ -51,7 +51,7 @@
   day: 2
 
 - UID: cskb
-  name: Workshop on Commonsense Reasoning and Knowledge Bases
+  name: Commonsense Reasoning and Knowledge Bases
   url: https://akbc-cskb.github.io/
   acronym: CSKB
   organizers: 
@@ -75,7 +75,7 @@
   day: 2
 
 - UID: scinlp
-  name: "SciNLP: Natural Language Processing for Scientific Texts"
+  name: "Natural Language Processing for Scientific Texts"
   url: https://scinlp.org/
   acronym: SciNLP
   organizers: 
