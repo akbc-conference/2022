@@ -21,7 +21,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 - Why now? Growing interest across many areas. Disconnect among multiple relevant communities. Growing industry and government interest. Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
 
 ## Latest news
-
+- **Sep 2021**: Online Registration is now open! Please register [here](https://na.eventscloud.com/akbc2021).
 - **Sep 2021**: List of [accepted papers](http://akbc.ws/2021/papers) available now.
 - **Aug 2021**: Registration will open early September!
 - **Jul 2021**: All papers submitted to AKBC this year are [here](https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions). Check them out!
