@@ -80,12 +80,14 @@
 -
     UID: "sravi"
     thumbnail: "sravi.jpg"
-    speaker: "Sujith Ravi"
-    institution: Amazon Alexa AI
+    speaker: Sujith Ravi
+    institution: SliceX AI
     url: http://www.sravi.org/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "Dr. Sujith Ravi is the Founder & CEO of SliceX AI. Previously, he was the Director of Amazon Alexa AI where he led efforts to build the future of multimodal conversational AI experiences at scale. Prior to that, he was leading and managing multiple ML and NLP teams and efforts in Google AI. He founded and headed Google’s large-scale graph-based semi-supervised learning platform, deep learning platform for structured and unstructured data as well as on-device machine learning efforts for products used by billions of people in Search, Ads, Assistant, Gmail, Photos, Android, Cloud and YouTube. These technologies power conversational AI (e.g., Smart Reply), Web and Image Search; On-Device predictions in Android and Assistant; and ML platforms like Neural Structured Learning in TensorFlow, Learn2Compress as Google Cloud service, TensorFlow Lite for edge devices. Dr. Ravi has authored over 100 scientific publications and patents in top-tier machine learning and natural language processing conferences. His work has been featured in press: Wired, Forbes, Forrester, New York Times, TechCrunch, VentureBeat, Engadget, New Scientist, among others, and also won the SIGDIAL Best Paper Award in 2019 and ACM SIGKDD Best Research Paper Award in 2014. For multiple years, he was a mentor for Google Launchpad startups. Dr. Ravi was the Co-Chair (AI and deep learning) for the 2019 National Academy of Engineering (NAE) Frontiers of Engineering symposium. He was also the Co-Chair for ACL 2021, EMNLP 2020, ICML 2019, NAACL 2019, and NeurIPS 2018 ML workshops and regularly serves as Senior/Area Chair and PC of top-tier machine learning and natural language processing conferences like NeurIPS, ICML, ACL, NAACL, AAAI, EMNLP, COLING, KDD, and WSDM."
+    title: TBD
+    abstract: TBD
+    bio: "Dr. Sujith Ravi is the Founder & CEO of SliceX AI. Previously, he was the Director of Amazon Alexa AI where he led efforts to build the future of multimodal conversational AI experiences at scale. Prior to that, he was leading and managing multiple ML and NLP teams and efforts in Google AI. He founded and headed Google’s large-scale graph-based semi-supervised learning platform, deep learning platform for structured and unstructured data as well as on-device machine learning efforts for products used by billions of people in Search, Ads, Assistant, Gmail, Photos, Android, Cloud and YouTube. These technologies power conversational AI (e.g., Smart Reply), Web and Image Search; On-Device predictions in Android and Assistant; and ML platforms like Neural Structured Learning in TensorFlow, Learn2Compress as Google Cloud service, TensorFlow Lite for edge devices.
+
+    Dr. Ravi has authored over 100 scientific publications and patents in top-tier machine learning and natural language processing conferences. His work has been featured in press: Wired, Forbes, Forrester, New York Times, TechCrunch, VentureBeat, Engadget, New Scientist, among others, and also won the SIGDIAL Best Paper Award in 2019 and ACM SIGKDD Best Research Paper Award in 2014. For multiple years, he was a mentor for Google Launchpad startups. Dr. Ravi was the Co-Chair (AI and deep learning) for the 2019 National Academy of Engineering (NAE) Frontiers of Engineering symposium. He was also the Co-Chair for ACL 2021, EMNLP 2020, ICML 2019, NAACL 2019, and NeurIPS 2018 ML workshops and regularly serves as Senior/Area Chair and PC of top-tier machine learning and natural language processing conferences like NeurIPS, ICML, ACL, NAACL, AAAI, EMNLP, COLING, KDD, and WSDM."
 -
     UID: "sreddy"
     thumbnail: "sreddy.jpg"
