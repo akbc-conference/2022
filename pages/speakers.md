@@ -24,7 +24,7 @@ Talk titles and abstracts coming soon.
 #### {{ speaker.institution }}
 
 <br />
-<!-- _{{ speaker.title }}_ <br /> -->
+_{{ speaker.title }}_ <br />
 
 <!-- <a href="#{{ speaker.UID }}Detail"> Abstract and Bio</a> -->
 <a href="#{{ speaker.UID }}Detail">Bio</a>
@@ -60,9 +60,9 @@ Talk titles and abstracts coming soon.
 <div class="row">
 <div class="large-1 columns"></div>
 <div class="large-10 medium-12 columns" markdown="1">
-<!-- <h4>{{ speaker.title }}</h4>
+<h4>{{ speaker.title }}</h4>
 {{ speaker.abstract }}
-<br /> <br /> -->
+<br /> <br />
 <h6> Bio </h6>
 {{ speaker.bio }}
 
