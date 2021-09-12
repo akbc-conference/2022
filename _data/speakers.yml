@@ -1,115 +1,115 @@
 -
     UID: "pclark"
     thumbnail: "pclark.jpg"
-    speaker: Peter Clark
-    institution: Allen Institute for AI
+    speaker: "Peter Clark"
+    institution: "Allen Institute for AI"
     url: https://allenai.org/team/peterc
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: 'Peter Clark is the Senior Research Manager for AI2. His work focuses upon natural language processing, machine reasoning, and large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He received his Ph.D. in Computer Science in 1991, and has researched these topics for 30 years with more than 80 refereed publications.'
 -
     UID: "jdeng"
     thumbnail: "jdeng.jpg"
-    speaker: Jia Deng
-    institution: Princeton
+    speaker: "Jia Deng"
+    institution: "Princeton"
     url: https://www.cs.princeton.edu/~jiadeng/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: 'I am an Assistant Professor of Computer Science at Princeton University. I direct the Princeton Vision & Learning Lab. I study computer vision and machine learning. My current interests include 3D vision, object recognition, action recognition, and automated theorem proving.'
 -
     UID: "gdureett"
     thumbnail: "gdurrett.png"
-    speaker: Greg Durrett
-    institution: University of Texas Austin
+    speaker: "Greg Durrett"
+    institution: "University of Texas Austin"
     url: https://www.cs.utexas.edu/~gdurrett/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: 'I am an Assistant Professor in the Department of Computer Science at UT Austin, where I lead the TAUR Lab. My current research covers a range of topics in statistical natural language processing, including question answering, text generation, document summarization, entity analysis, and other types of automated reasoning in natural language. Solving these problems lets computers access the information in unstructured text and transform this information in structured ways. See my research page for more information. Prior to joining UT Austin, I received my Ph.D. from UC Berkeley in 2016, where I was advised by Dan Klein and part of the Berkeley NLP Group.'
 -
     UID: "ygil"
     thumbnail: "ygil.png"
-    speaker: Yolanda Gil
-    institution: USC
+    speaker: "Yolanda Gil"
+    institution: "USC"
     url: https://www.isi.edu/~gil/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "I am Senior Director for Major Strategic AI and Data Science Initiatives USC's Information Sciences Institute (ISI). As Principal Scientist I lead the Interactive Knowledge Capture research group, which is part of AI@ISI. My research focuses on intelligent interfaces for knowledge capture, which is a central topic in our projects concerning knowledge-based planning and problem solving, information analysis and assessment of trust, semantic annotation, agent and software choreography, and community-wide development of knowledge bases. A recent focus is assisting scientists with intelligent systems that analyze data, test hypotheses, and make new discoveries. If you would like to visit us, give a talk, or join our research group, please contact me! I am also Research Professor in the Department of Computer Science and in the Spatial Sciences Institute at USC. I am Director of the Data Science Program at USC. I designed an innovative course for teaching data science to non-programmers. I am also Director of the USC Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS). DataFest is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in faculty-guided projects involving data science. We work with the USC GRIDS data science student organization, please contact us if you are interested in joining! Before coming to ISI in 1992, I received my PhD in Computer Science from Carnegie Mellon University. My thesis focused on the acquisition of planning knowledge through the formulation of deliberate experiments with the environment. I have been fascinated ever since with the challenge of enabling computers to learn new knowledge both autonomously and from being taught."
 -
     UID: "hhajishirzi"
     thumbnail: "hhajishirzi.jpeg"
-    speaker: Hanna Hajishirzi
-    institution: University of Washington
+    speaker: "Hanna Hajishirzi"
+    institution: "University of Washington"
     url: https://homes.cs.washington.edu/~hannaneh/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
 -
     UID: "tkraska"
     thumbnail: "tkraska.jpg"
-    speaker: Tim Kraska
-    institution: MIT
+    speaker: "Tim Kraska"
+    institution: "MIT"
     url: https://people.csail.mit.edu/kraska/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "I am an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), founding co-director of the Data System and AI Lab (DSAIL) at MIT, and co-founder of einblick analytics, inc. My group aims to dramatically increase the efficiency of data-intensive systems and democratize data science by enabling a broader range of users to unfold the potential of (their) data through the development of a new generation of algorithms and systems. This entails exploring how we can build systems to better support the recent advances in machine learning (Systems for ML) and how we can leverage machine learning to improve systems (ML for Systems). For example, with our work on SageDB we started to explore how we can enhance or even replace core systems components using machine learning models and early results suggest, that we can improve the state-of-the-art by more than an order-of-magnitude in performance. On the other hand, with Northstar we are exploring new user interfaces and infrastructure to democratize data science by enabling visual, interactive, and assisted data exploration and model building. One particular focus of this work is to help all types of users to analyse data and build models faster, but also make data exploration and model building safer by automatically preventing the user from common pitfalls."
 -
     UID: "mlam"
     thumbnail: "mlam.jpg"
-    speaker: Monica Lam
-    institution: Stanford
+    speaker: "Monica Lam"
+    institution: "Stanford"
     url: https://suif.stanford.edu/~lam/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "Monica Lam is a Professor in the Computer Science Department at Stanford University since 1988. She is the faculty director of the Open Virtual Assistant Lab (OVAL). She received a B.Sc. from University of British Columbia in 1980 and a Ph.D. in Computer Science from Carnegie Mellon University in 1987. Monica is a Member of the National Academy of Engineering and Association of Computing Machinery (ACM) Fellow. She is a co-author of the popular text Compilers, Principles, Techniques, and Tools (2nd Edition), also known as the Dragon book. Professor Lam's current research is on conversational virtual assistants with an emphasis on privacy protection. Her research uses deep learning to map task-oriented natural language dialogues into formal semantics, represented by a new executable programming language called ThingTalk. Her Almond virtual assistant, trained on open knowledge graphs and IoT API standards, can be easily customized to perform new tasks. She is leading an Open Virtual Assistant Initiative to create the largest, open, crowdsourced language semantics model to promote open access in all languages. Her decentralized Almond virtual assistant that supports fine-grain sharing with privacy has received Popular Science's Best of What's New Award in Security in 2019. Prof. Lam is also an expert in compilers for high-performance machines. Her pioneering work of affine partitioning provides a unifying theory to the field of loop transformations for parallelism and locality. Her software pipelining algorithm is used in commercial systems for instruction level parallelism. Her research team created the first, widely adopted research compiler, SUIF. Her contributions in computer architecture include the CMU Warp Systolic Array and the Stanford DASH Distributed Memory Multiprocessor. She was on the founding team of Tensilica, now a part of Cadence. She received an NSF Young Investigator award in 1992, the ACM Most Influential Programming Language Design and Implementation Paper Award in 2001, an ACM SIGSOFT Distinguished Paper Award in 2002, and the ACM Programming Language Design and Implementation Best Paper Award in 2004. She was the author of two of the papers in \"20 Years of PLDI--a Selection (1979-1999)\", and one paper in the \"25 Years of the International Symposia on Computer Architecture\". She received the University of British Columbia Computer Science 50th Anniversary Research Award in 2018, and an ASPLOS Influential Paper Award in 2021."
 -
     UID: "pliang"
     thumbnail: "pliang.jpeg"
-    title: Foundation Models
-    speaker: Percy Liang
-    institution: Stanford
+    title: "Foundation Models"
+    speaker: "Percy Liang"
+    institution: "Stanford"
     url: https://cs.stanford.edu/~pliang/
     bio: "Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011).  His research spans many topics in machine learning and natural language processing, including robustness, interpretability, semantics, and reasoning.  He is also a strong proponent of reproducibility through the creation of CodaLab Worksheets.  His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), a Microsoft Research Faculty Fellowship (2014), and multiple paper awards at ACL, EMNLP, ICML, and COLT."
 -
     UID: "dparikh"
     thumbnail: "dparikh.jpg"
-    speaker: Devi Parikh
-    institution: Georgia Tech and Facebook AI Research
+    speaker: "Devi Parikh"
+    institution: "Georgia Tech and Facebook AI Research"
     url: https://www.cc.gatech.edu/~parikh/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
 -
     UID: "sravi"
     thumbnail: "sravi.jpg"
-    speaker: Sujith Ravi
+    speaker: "Sujith Ravi"
     institution: Amazon Alexa AI
     url: http://www.sravi.org/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "Dr. Sujith Ravi is the Founder & CEO of SliceX AI. Previously, he was the Director of Amazon Alexa AI where he led efforts to build the future of multimodal conversational AI experiences at scale. Prior to that, he was leading and managing multiple ML and NLP teams and efforts in Google AI. He founded and headed Google’s large-scale graph-based semi-supervised learning platform, deep learning platform for structured and unstructured data as well as on-device machine learning efforts for products used by billions of people in Search, Ads, Assistant, Gmail, Photos, Android, Cloud and YouTube. These technologies power conversational AI (e.g., Smart Reply), Web and Image Search; On-Device predictions in Android and Assistant; and ML platforms like Neural Structured Learning in TensorFlow, Learn2Compress as Google Cloud service, TensorFlow Lite for edge devices. Dr. Ravi has authored over 100 scientific publications and patents in top-tier machine learning and natural language processing conferences. His work has been featured in press: Wired, Forbes, Forrester, New York Times, TechCrunch, VentureBeat, Engadget, New Scientist, among others, and also won the SIGDIAL Best Paper Award in 2019 and ACM SIGKDD Best Research Paper Award in 2014. For multiple years, he was a mentor for Google Launchpad startups. Dr. Ravi was the Co-Chair (AI and deep learning) for the 2019 National Academy of Engineering (NAE) Frontiers of Engineering symposium. He was also the Co-Chair for ACL 2021, EMNLP 2020, ICML 2019, NAACL 2019, and NeurIPS 2018 ML workshops and regularly serves as Senior/Area Chair and PC of top-tier machine learning and natural language processing conferences like NeurIPS, ICML, ACL, NAACL, AAAI, EMNLP, COLING, KDD, and WSDM."
 -
     UID: "sreddy"
     thumbnail: "sreddy.jpg"
-    speaker: Siva Reddy
-    institution: McGill
+    speaker: "Siva Reddy"
+    institution: "McGill"
     url: https://sivareddy.in/
-    title: Unlikelihood-training and Back-training for robust natural language understanding
+    title: "Unlikelihood-training and Back-training for robust natural language understanding"
     abstract: "Language models are known to be good at generalization and memorization. These abilities mean that a language model can be directly be used as a knowledge base, e.g., a language model could easily fill the blank in “The capital of Canada is BLANK” with Ottawa, even if the exact construction is never seen during training, a task that requires both generalization and memorization. But we also observe that complex phenomena such as negation are commonly ignored by language models, e.g., the model would still predict Ottawa as the answer to “The capital of Canada is not BLANK”. I will introduce a new training procedure and objective called “unlikelihood training with reference” in order to build language models that understand negation without explicitly training on factual knowledge. In the second part of the talk, I will show that pretrain and fine-tune paradigm breaks in the out-of-distribution setting. For example, question answering and generation models trained on Natural Questions do not generalize to other domains such as education or bio-medical. I will introduce a new technique called back-training that exploits unsupervised data in the target domains much more efficiently than self-training."
     bio: "Siva Reddy is an Assistant Professor in the School of Computer Science and Linguistics at McGill University. He is a Facebook CIFAR AI Chair and a core faculty member of Mila Quebec AI Institute. Before McGill, he was a postdoctoral researcher at Stanford University. He received his PhD from the University of Edinburgh in 2017, where he was a Google PhD Fellow. His research focuses on representation learning for language that facilitates systematic generalization and conversational models. He received the 2020 VentureBeat AI Innovation Award in NLP."
 -
     UID: "dshahaf"
     thumbnail: "dshahaf.jpeg    "
-    speaker: Dafna Shahaf
-    institution: Hebrew University
+    speaker: "Dafna Shahaf"
+    institution: "Hebrew University"
     url: http://www.hyadatalab.com/index.html
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "I am an Associate Professor in computer science at the Hebrew University of Jerusalem. My research focuses on data science and helping people make sense of massive amounts of data, with a special emphasis on unlocking the potential of the many digital traces left by human activity to contribute to our understanding (and the computers emulation) of human capacities such as humor and creativity."
 -
     UID: "dsontag"
     thumbnail: "dsontag.jpg"
-    speaker: David Sontag
-    institution: MIT
+    speaker: "David Sontag"
+    institution: "MIT"
     url: https://people.csail.mit.edu/dsontag/
-    title: TBD
-    abstract: TBD
+    title: "TBD"
+    abstract: "TBD"
     bio: "I am an Associate Professor of Electrical Engineering and Computer Science at MIT, part of both the Institute for Medical Engineering & Science and the Computer Science and Artificial Intelligence Laboratory. My research focuses on advancing machine learning and artificial intelligence, and using these to transform health care. Previously, I was an Assistant Professor of Computer Science and Data Science at New York University, part of the CILVR lab."
