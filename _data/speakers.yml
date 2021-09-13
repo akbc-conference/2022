@@ -22,9 +22,9 @@
     speaker: "Greg Durrett"
     institution: "University of Texas Austin"
     url: https://www.cs.utexas.edu/~gdurrett/
-    title: "TBD"
+    title: "Why natural language is the right vehicle for complex reasoning"
     abstract: "TBD"
-    bio: 'I am an Assistant Professor in the Department of Computer Science at UT Austin, where I lead the TAUR Lab. My current research covers a range of topics in statistical natural language processing, including question answering, text generation, document summarization, entity analysis, and other types of automated reasoning in natural language. Solving these problems lets computers access the information in unstructured text and transform this information in structured ways. See my research page for more information. Prior to joining UT Austin, I received my Ph.D. from UC Berkeley in 2016, where I was advised by Dan Klein and part of the Berkeley NLP Group.'
+    bio: 'Greg Durrett is an assistant professor of Computer Science at UT Austin. His current research focuses on making natural language processing systems more interpretable, controllable, and generalizable, spanning application domains including question answering, textual reasoning, summarization, and information extraction. He completed his Ph.D. at UC Berkeley in 2016 where he was advised by Dan Klein.'
 -
     UID: "ygil"
     thumbnail: "ygil.png"
