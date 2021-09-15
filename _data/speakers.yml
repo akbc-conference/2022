@@ -13,9 +13,9 @@
     speaker: "Jia Deng"
     institution: "Princeton"
     url: https://www.cs.princeton.edu/~jiadeng/
-    title: "TBD"
+    title: "Learning Symbolic Rules for Reasoning"
     abstract: "TBD"
-    bio: 'I am an Assistant Professor of Computer Science at Princeton University. I direct the Princeton Vision & Learning Lab. I study computer vision and machine learning. My current interests include 3D vision, object recognition, action recognition, and automated theorem proving.'
+    bio: 'Jia Deng is an Assistant Professor of Computer Science at Princeton University. His research focus is on computer vision and machine learning. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.'
 -
     UID: "gdureett"
     thumbnail: "gdurrett.png"
@@ -40,9 +40,9 @@
     speaker: "Hanna Hajishirzi"
     institution: "University of Washington"
     url: https://homes.cs.washington.edu/~hannaneh/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
+    title: "Knowledge-Rich, Robust Neural Text Comprehension and Reasoning"
+    abstract: "Enormous amounts of ever-changing knowledge are available online in diverse textual styles and diverse formats. Recent advances in deep learning algorithms and large-scale datasets are spurring progress in many Natural Language Processing (NLP) tasks, including question answering. Nevertheless, these models cannot scale up when task-annotated training data are scarce. This talk presents how to build robust models for textual comprehension and reasoning, and how to systematically evaluate them. First, I present general-purpose models for known tasks such as question answering in English and multiple languages that are robust to small domain shifts. Second, I discuss neuro-symbolic approaches that extend modern deep learning algorithms to elicit knowledge from structured data and language models to achieve strong performance in several NLP tasks. Finally, I present a benchmark to evaluate if NLP models can perform NLP tasks only by observing task definitions.  "
+    bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, green AI, knowledge extraction, and conversational dialogue. Honors include the NSF CAREER Award, Sloan Fellowship, Allen Distinguished Investigator Award, Intel rising star award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
 -
     UID: "tkraska"
     thumbnail: "tkraska.jpg"
