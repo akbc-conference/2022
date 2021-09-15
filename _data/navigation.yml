@@ -8,7 +8,7 @@
     url: "https://akbc.ws/2020"
 
 - title: Program
-  url: "/cfp/"
+  url: "/papers/"
   side: left
   dropdown:
   - title: Accepted Papers
