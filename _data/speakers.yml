@@ -4,9 +4,9 @@
     speaker: "Peter Clark"
     institution: "Allen Institute for AI"
     url: https://allenai.org/team/peterc
-    title: "TBD"
-    abstract: "TBD"
-    bio: 'Peter Clark is the Senior Research Manager for AI2. His work focuses upon natural language processing, machine reasoning, and large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He received his Ph.D. in Computer Science in 1991, and has researched these topics for 30 years with more than 80 refereed publications.'
+    title: "Systematic Reasoning with Language Models"
+    abstract: "While language models are rich, latent “knowledge bases”, and have remarkable question-answering capabilities, they still struggle to explain *how* their knowledge justifies those answers - and can make opaque, catastrophic mistakes. To alleviate this, I will describe new work on coercing language models to produce answers supported by a faithful chain of reasoning, describing how their knowledge justifies an answer. In the style of fast/slow thinking, conjectured answers suggest which chains of reasoning to build, and chains of reasoning suggest which answers to trust. The resulting reasoning-supported answers can then be inspected, debugged, and corrected by the user, offering new opportunities for meaningful, interactive problem-solving dialogs in future systems."
+    bio: 'Peter Clark (peterc@allenai.org) is a Senior Research Manager at the Allen Institute for AI (AI2) and leads the Aristo Project. His work focuses on natural language processing, machine reasoning, and world knowledge, and the interplay between these three areas.'
 -
     UID: "jdeng"
     thumbnail: "jdeng.jpg"
