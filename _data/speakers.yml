@@ -59,8 +59,8 @@
     institution: "Stanford"
     url: https://suif.stanford.edu/~lam/
     title: "Scaling the World Wide Voice Web with Open Standards and Pretrained Semantic Parsers"
-    abstract: "We envision that everybody in the future can simply use their native language to retrieve information and to conduct business naturally on the web. To reach such scale, the community needs open standards to foster world wide collaboration.  We contribute to this standardization effort with an initial proposal of (1) a formal, executable representation for the meaning in dialogues, and (2) a communication protocol for inter-operating virtual assistants.  Using such a representation and leveraging pretrained language models, we can train a sample-efficient task-oriented semantic parser given the database schemas and API signatures of a domain. Making such domain-specific parsers openly available can lead to a proliferation of conversational agents in practice."
-    bio: "Dr. Monica Lam has been a Professor of Computer Science at Stanford University since 1988, and is the Faculty Director of the Stanford Open Virtual Assistant Laboratory.  She leads the Genie open virtual assistant project, which aims to advance and democratize voice assistant technology, keep the voice web open, and protect the privacy of consumers. Prof. Lam is a member of the National Academy of Engineering and an ACM Fellow.  She has won numerous best paper awards, and has published over 150 papers on many topics: natural language processing, machine learning, HCI, compilers, computer architecture, operating systems, and high-performance computing.  She is a co-author of the "Dragon Book", the definitive text on compiler technology.  She received a B.Sc. from University of British Columbia (1980) and a Ph.D. from Carnegie Mellon University (1987)."
+    abstract: "TBD"
+    bio: "TBD"
 -
     UID: "pliang"
     thumbnail: "pliang.jpeg"
