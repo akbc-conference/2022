@@ -99,13 +99,13 @@
     bio: "Siva Reddy is an Assistant Professor in the School of Computer Science and Linguistics at McGill University. He is a Facebook CIFAR AI Chair and a core faculty member of Mila Quebec AI Institute. Before McGill, he was a postdoctoral researcher at Stanford University. He received his PhD from the University of Edinburgh in 2017, where he was a Google PhD Fellow. His research focuses on representation learning for language that facilitates systematic generalization and conversational models. He received the 2020 VentureBeat AI Innovation Award in NLP."
 -
     UID: "dshahaf"
-    thumbnail: "dshahaf.jpeg    "
+    thumbnail: "dshahaf.png    "
     speaker: "Dafna Shahaf"
     institution: "Hebrew University"
     url: http://www.hyadatalab.com/index.html
-    title: "TBD"
-    abstract: "TBD"
-    bio: "I am an Associate Professor in computer science at the Hebrew University of Jerusalem. My research focuses on data science and helping people make sense of massive amounts of data, with a special emphasis on unlocking the potential of the many digital traces left by human activity to contribute to our understanding (and the computers emulation) of human capacities such as humor and creativity."
+    title: "Accelerating Innovation through Analogy Mining"
+    abstract: "The availability of large idea repositories (e.g., the U.S. patent database) could significantly accelerate innovation and discovery by providing people with inspiration from solutions to analogous problems. However, finding useful analogies in these large, messy, real-world repositories remains a persistent challenge for either human or automated methods. In this work we explore the viability and value of learning to find analogies. In ideation experiments, analogies retrieved by our models significantly increased people's likelihood of generating creative ideas."
+    bio: "Dafna Shahaf is an Associate Professor in computer science at the Hebrew University of Jerusalem. Dafna's research focuses on helping people make sense of massive amounts of data, with a special emphasis on unlocking the potential of the many digital traces left by human activity to contribute to our understanding (and computer emulation) of human capacities such as humor and creativity. She received her PhD from Carnegie Mellon University, and was a postdoctoral fellow at Stanford University and at Microsoft Research. Prof. Shahaf has won multiple awards, including best research paper awards at KDD 2010 and KDD 2017, an ERC starting grant, a Microsoft Research Fellowship, a Siebel Scholarship, a Magic Grant for innovative ideas and Wolf's Foundation Krill Award, as well as MIT Tech Review's \"Most thought-provoking paper of the week\"."
 -
     UID: "dsontag"
     thumbnail: "dsontag.jpg"
