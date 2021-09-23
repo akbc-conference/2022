@@ -4,7 +4,7 @@
     speaker: "Peter Clark"
     institution: "Allen Institute for AI"
     url: https://allenai.org/team/peterc
-    title: "Systematic Reasoning with Language Models"
+    title: "Systematic reasoning with language models"
     abstract: "While language models are rich, latent “knowledge bases”, and have remarkable question-answering capabilities, they still struggle to explain *how* their knowledge justifies those answers - and can make opaque, catastrophic mistakes. To alleviate this, I will describe new work on coercing language models to produce answers supported by a faithful chain of reasoning, describing how their knowledge justifies an answer. In the style of fast/slow thinking, conjectured answers suggest which chains of reasoning to build, and chains of reasoning suggest which answers to trust. The resulting reasoning-supported answers can then be inspected, debugged, and corrected by the user, offering new opportunities for meaningful, interactive problem-solving dialogs in future systems."
     bio: 'Peter Clark (peterc@allenai.org) is a Senior Research Manager at the Allen Institute for AI (AI2) and leads the Aristo Project. His work focuses on natural language processing, machine reasoning, and world knowledge, and the interplay between these three areas.'
 -
@@ -13,7 +13,7 @@
     speaker: "Jia Deng"
     institution: "Princeton"
     url: https://www.cs.princeton.edu/~jiadeng/
-    title: "Learning Symbolic Rules for Reasoning"
+    title: "Learning symbolic rules for reasoning"
     abstract: "TBD"
     bio: 'Jia Deng is an Assistant Professor of Computer Science at Princeton University. His research focus is on computer vision and machine learning. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.'
 -
@@ -40,7 +40,7 @@
     speaker: "Hanna Hajishirzi"
     institution: "University of Washington"
     url: https://homes.cs.washington.edu/~hannaneh/
-    title: "Knowledge-Rich, Robust Neural Text Comprehension and Reasoning"
+    title: "Knowledge-rich, robust neural text comprehension and reasoning"
     abstract: "Enormous amounts of ever-changing knowledge are available online in diverse textual styles and diverse formats. Recent advances in deep learning algorithms and large-scale datasets are spurring progress in many Natural Language Processing (NLP) tasks, including question answering. Nevertheless, these models cannot scale up when task-annotated training data are scarce. This talk presents how to build robust models for textual comprehension and reasoning, and how to systematically evaluate them. First, I present general-purpose models for known tasks such as question answering in English and multiple languages that are robust to small domain shifts. Second, I discuss neuro-symbolic approaches that extend modern deep learning algorithms to elicit knowledge from structured data and language models to achieve strong performance in several NLP tasks. Finally, I present a benchmark to evaluate if NLP models can perform NLP tasks only by observing task definitions.  "
     bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, green AI, knowledge extraction, and conversational dialogue. Honors include the NSF CAREER Award, Sloan Fellowship, Allen Distinguished Investigator Award, Intel rising star award, multiple best paper and honorable mention awards, and several industry research faculty awards. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
 -
@@ -49,7 +49,7 @@
     speaker: "Tim Kraska"
     institution: "MIT"
     url: https://people.csail.mit.edu/kraska/
-    title: "Citizen Data Scientists: How to empower your workforce to make data driven decisions"
+    title: "Citizen data scientists: how to empower your workforce to make data driven decisions"
     abstract: "Citizen data scientists (CDS) can significantly boost a firm’s business value and analytics maturity. Thus, it comes at no surprise that nowadays almost every company is looking into new tools to empower their workforce to make data-driven decisions and improve their business processes. But according to Gartner most CDS tools are focused on automated machine learning and ignore that data, people, and processes play a similar important role. Citizen data scientists need an environment that allows them to work together with SMEs and data scientists to collaboratively explore a problem across the entire model development lifecycle. Automated ML tools only impact a small portion of the development lifecycle. In this talk, I will present our findings why many current initiatives to increase the number of Citizen Data Scientist fail, explain why current tools for are still inefficient in fully supporting Citizen Data Scientists, and outline how Visual Data Computing, a technique we developed as part of the DARPA D3M program and recently commercialized by Einblick Analytics, addresses many of these challenges in a complete new way by providing the first truly collaborative analytics platform which combines aspects of a workflow engine (like Alteryx) and a visualization tool (like Tableau) with an infinite collaborative canvas (like Miro or Figma)."
     bio: "Tim Kraska is an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory, co-director of the Data System and AI Lab at MIT (DSAIL@CSAIL), and co-founder of Einblick Analytics. Currently, his research focuses on building systems for machine learning, and using machine learning for systems. Before joining MIT, Tim was an Assistant Professor at Brown, spent time at Google Brain, and was a PostDoc in the AMPLab at UC Berkeley after he got his PhD from ETH Zurich. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB, SIGMOD, and ICDE."
 -
@@ -58,13 +58,13 @@
     speaker: "Monica Lam"
     institution: "Stanford"
     url: https://suif.stanford.edu/~lam/
-    title: "Scaling the World Wide Voice Web with Open Standards and Pretrained Semantic Parsers"
+    title: "Scaling the world wide voice web with open standards and pretrained semantic parsers"
     abstract: "We envision that everybody in the future can simply use their native language to retrieve information and to conduct business naturally on the web. To reach such scale, the community needs open standards to foster world wide collaboration.  We contribute to this standardization effort with an initial proposal of (1) a formal, executable representation for the meaning in dialogues, and (2) a communication protocol for inter-operating virtual assistants.  Using such a representation and leveraging pretrained language models, we can train a sample-efficient task-oriented semantic parser given the database schemas and API signatures of a domain. Making such domain-specific parsers openly available can lead to a proliferation of conversational agents in practice."
     bio: "Dr. Monica Lam has been a Professor of Computer Science at Stanford University since 1988, and is the Faculty Director of the Stanford Open Virtual Assistant Laboratory.  She leads the Genie open virtual assistant project, which aims to advance and democratize voice assistant technology, keep the voice web open, and protect the privacy of consumers. Prof. Lam is a member of the National Academy of Engineering and an ACM Fellow.  She has won numerous best paper awards, and has published over 150 papers on many topics: natural language processing, machine learning, HCI, compilers, computer architecture, operating systems, and high-performance computing.  She is a co-author of the 'Dragon Book', the definitive text on compiler technology.  She received a B.Sc. from University of British Columbia (1980) and a Ph.D. from Carnegie Mellon University (1987)."
 -
     UID: "pliang"
     thumbnail: "pliang.jpeg"
-    title: "Foundation Models"
+    title: "Foundation models"
     speaker: "Percy Liang"
     institution: "Stanford"
     url: https://cs.stanford.edu/~pliang/
@@ -75,7 +75,7 @@
     speaker: "Devi Parikh"
     institution: "Georgia Tech and Facebook AI Research"
     url: https://www.cc.gatech.edu/~parikh/
-    title: "Vision & Language"
+    title: "Vision & language"
     abstract: "TBD"
 -
     UID: "sravi"
@@ -94,7 +94,7 @@
     speaker: "Siva Reddy"
     institution: "McGill"
     url: https://sivareddy.in/
-    title: "Unlikelihood-training and Back-training for robust natural language understanding"
+    title: "Unlikelihood-training and back-training for robust natural language understanding"
     abstract: "Language models are known to be good at generalization and memorization. These abilities mean that a language model can be directly be used as a knowledge base, e.g., a language model could easily fill the blank in “The capital of Canada is BLANK” with Ottawa, even if the exact construction is never seen during training, a task that requires both generalization and memorization. But we also observe that complex phenomena such as negation are commonly ignored by language models, e.g., the model would still predict Ottawa as the answer to “The capital of Canada is not BLANK”. I will introduce a new training procedure and objective called “unlikelihood training with reference” in order to build language models that understand negation without explicitly training on factual knowledge. In the second part of the talk, I will show that pretrain and fine-tune paradigm breaks in the out-of-distribution setting. For example, question answering and generation models trained on Natural Questions do not generalize to other domains such as education or bio-medical. I will introduce a new technique called back-training that exploits unsupervised data in the target domains much more efficiently than self-training."
     bio: "Siva Reddy is an Assistant Professor in the School of Computer Science and Linguistics at McGill University. He is a Facebook CIFAR AI Chair and a core faculty member of Mila Quebec AI Institute. Before McGill, he was a postdoctoral researcher at Stanford University. He received his PhD from the University of Edinburgh in 2017, where he was a Google PhD Fellow. His research focuses on representation learning for language that facilitates systematic generalization and conversational models. He received the 2020 VentureBeat AI Innovation Award in NLP."
 -
@@ -103,7 +103,7 @@
     speaker: "Dafna Shahaf"
     institution: "Hebrew University"
     url: http://www.hyadatalab.com/index.html
-    title: "Accelerating Innovation through Analogy Mining"
+    title: "Accelerating innovation through analogy mining"
     abstract: "The availability of large idea repositories (e.g., the U.S. patent database) could significantly accelerate innovation and discovery by providing people with inspiration from solutions to analogous problems. However, finding useful analogies in these large, messy, real-world repositories remains a persistent challenge for either human or automated methods. In this work we explore the viability and value of learning to find analogies. In ideation experiments, analogies retrieved by our models significantly increased people's likelihood of generating creative ideas."
     bio: "Dafna Shahaf is an Associate Professor in computer science at the Hebrew University of Jerusalem. Dafna's research focuses on helping people make sense of massive amounts of data, with a special emphasis on unlocking the potential of the many digital traces left by human activity to contribute to our understanding (and computer emulation) of human capacities such as humor and creativity. She received her PhD from Carnegie Mellon University, and was a postdoctoral fellow at Stanford University and at Microsoft Research. Prof. Shahaf has won multiple awards, including best research paper awards at KDD 2010 and KDD 2017, an ERC starting grant, a Microsoft Research Fellowship, a Siebel Scholarship, a Magic Grant for innovative ideas and Wolf's Foundation Krill Award, as well as MIT Tech Review's \"Most thought-provoking paper of the week\"."
 -
