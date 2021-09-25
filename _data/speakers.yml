@@ -76,7 +76,7 @@
     institution: "Georgia Tech and Facebook AI Research"
     url: https://www.cc.gatech.edu/~parikh/
     title: "Vision & language"
-    abstract: "TBD"
+    abstract: "This talk will be about multimodal AI -- about research problems at the intersection of computer vision and natural language processing. I will take a step back from the fast pace at which the research landscape tends to move, and give a bit of a historical overview of approaches in vision & language, share where we currently stand, and describe what I believe are exciting open challenges going forward."
 -
     UID: "sravi"
     thumbnail: "sravi.jpg"
