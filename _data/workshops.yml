@@ -29,7 +29,7 @@
   duration: Half-Day
   day: 1
   gather: false
-  zoom: false
+  zoom: true
   posters: []
 
 - UID: argumentation
@@ -59,7 +59,7 @@
     - Sameer Singh
   duration: Half-Day
   day: 2
-  gather: true
+  gather: false
   zoom: true
   posters:
     - id: 1
@@ -99,7 +99,7 @@
   duration: Half-Day
   day: 2
   gather: false
-  zoom: false
+  zoom: true
   posters: []
 
 - UID: scinlp
@@ -118,6 +118,6 @@
     - Dongxu Zhang
   duration: Half-Day
   day: 2
-  gather: false
-  zoom: false
+  gather: true
+  zoom: true
   posters: []
