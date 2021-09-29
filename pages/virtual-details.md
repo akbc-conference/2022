@@ -10,7 +10,7 @@ This document describes the plan for the virtual conference sessions for AKBC 20
 
 <div class="button-group stack">
     <a class="button" href="http://akbc.ws/2021/virtual">Virtual Hub</a>
-    <a class="button grey" href="">Gather.town</a>
+    <!-- <a class="button grey" href="">Gather.town</a> -->
 </div>
 
 
@@ -24,7 +24,7 @@ Some workshops may be hosted on [Zoom](http://zoom.us).
 [Gather.town](http://gather.town) is a video chat platoform that aims to recreate the physical space and interactions of a real conference.
 By creating your virtual avatar that can move around in a virtual space, the platform allows for interactions that are based on location in space.
 
-For AKBC, we will have rooms for each of the sessions, and attending the sessions would just require you to move to it. 
+For AKBC, we will have rooms for each of the sessions, and attending the sessions would just require you to move to the appropriate room (just like in the real world!). 
 We will also have lots of public and private spaces for you to chat with other attendees.
 
 
@@ -32,6 +32,7 @@ We will also have lots of public and private spaces for you to chat with other a
 
 ## Zoom
 
+We will only be using Zoom for the workshops.
 [Zoom](https://zoom.us/) is a video conferencing software, with apps available for [desktops, phones, tablets](https://zoom.us/download), and even an in-browser client.
 If you are already using Zoom, you should be able to join meetings without any other authentication.
 
@@ -63,13 +64,7 @@ Each paper accepted to AKBC will have a short talk on the work. This video, alon
 
 ### Live Sessions
 
-Authors of each paper will participate in a _live_ poster session, where the authors will be available for discussions.
-- These meetings will be held on Gather.town.
-
-## Virtual Booth for Sponsors
-
-Each sponsor will get a dedicated page on the virtual site and space in Gather.town. The dedicated page can be used for company description, job openings, and contact information, etc.
-Gather.town can be used for more interactive exchanges.
+Authors of each paper will participate in a _live_ poster session on Gather.town, where the authors will be available for discussions.
 
 ## Workshops
 
