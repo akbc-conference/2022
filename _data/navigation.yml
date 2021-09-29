@@ -8,9 +8,11 @@
     url: "https://akbc.ws/2020"
 
 - title: Program
-  url: "/papers/"
+  url: "/virtual-details"
   side: left
   dropdown:
+  - title: Virtual Conference
+    url: "/virtual-details"
   - title: Accepted Papers
     url: "/papers/"
   - title: Invited Speakers
