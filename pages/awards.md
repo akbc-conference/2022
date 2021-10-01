@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: Awards
+order: 0
 permalink: /awards/
 header:
   image_fullwidth: "generic-gradient.png"
