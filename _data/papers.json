@@ -203,10 +203,10 @@
     "author_profiles": [
       "~John_Winn1",
       "~Matteo_Venanzi1",
+      "~Tom_Minka1",
       "",
       "",
-      "",
-      "",
+      "~Elena_Pochernina1",
       "",
       "",
       "",
@@ -1308,7 +1308,7 @@
     ],
     "keywords": [],
     "abstract": "Knowledge bases have multi-relations with distinctive properties. Most properties such as symmetry, inversion, and composition can be handled by the Euclidean embedding models. Nevertheless, transitivity is a special property that cannot be modeled efficiently in the Euclidean space. Instead, the hyperbolic space characterizes the transitivity naturally because of its tree-like properties. However, the hyperbolic space reveals its weakness for other relations. Therefore, building a representation learning framework for all relation properties is highly difficult. In this paper, we propose to learn the knowledge base embeddings in different geometric spaces and apply manifold alignment to align the shared entities. The aligned embeddings are evaluated on the out-of-taxonomy entity typing task, where we aim to predict the types of the entities from the knowledge graph. Experimental results on two datasets based on YAGO3 demonstrate that our approach has significantly good performances, especially in low dimensions and on small training rates.",
-    "pdf": "/pdf/d23385d7fd3ef51fe8b8edf2ec604bf9bcc1188f.pdf",
+    "pdf": "/pdf/2c642f5d91c8e56d318f64e558357121e8bd5206.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Applications"
