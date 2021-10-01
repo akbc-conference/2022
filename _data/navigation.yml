@@ -17,6 +17,8 @@
     url: "/papers/"
   - title: Invited Speakers
     url: "/speakers/"
+  - title: "Awards"
+    url: "/awards/"
   # - title: Call for Papers
   #   url: "/cfp/"
   # - title: Call for Workshops
@@ -41,8 +43,6 @@
 #     url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
 #   - title: "Hike Information"
 #     url: "/hike/"
-#   - title: "Awards"
-#     url: "/awards/"
 #   - title: Call for papers
 #     url: "/cfp/"
 
