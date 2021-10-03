@@ -64,8 +64,8 @@
 -
     UID: "pliang"
     thumbnail: "pliang.jpeg"
-    title: "Foundation models"
-    abstract: "TBD"
+    title: "Knowledge, Language Models, and Adaptation"
+    abstract: "I will start by reflecting on different ways of storing "knowledge" over the years (structured databases, raw text, and language models) and their implications for downstream applications.  I will then focus on language models, which have a lot of raw potential, but rely on adaptation (prompting or fine-tuning) to be able to "extract the knowledge" and use it productively.  I will show that standard fine-tuning of all the parameters can "destroy the knowledge" in the language model, and we then introduce prefix-tuning and composed fine-tuning, which allow us to preserve as much of the language model as possible, leading to improved generalization."
     speaker: "Percy Liang"
     institution: "Stanford"
     url: https://cs.stanford.edu/~pliang/
