@@ -13,7 +13,7 @@
   duration: Half-Day
   day: 1
   gather: false
-  zoom: false
+  zoom: true
   posters: []
 
 - UID: uskb
@@ -44,7 +44,7 @@
   - Anita de Waard
   duration: Half-Day
   day: 1
-  gather: false
+  gather: true
   zoom: true
   posters: []
 
@@ -84,7 +84,7 @@
   duration: Half-Day
   day: 2
   gather: false
-  zoom: false
+  zoom: true
   posters: []
 
 - UID: pkg
