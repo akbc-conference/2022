@@ -45,7 +45,7 @@
   duration: Half-Day
   day: 1
   gather: false
-  zoom: false
+  zoom: true
   posters: []
 
 - UID: xgml
