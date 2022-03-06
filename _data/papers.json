@@ -42,7 +42,8 @@
       "~Yangqiu_Song1",
       "",
       "~Dong_Yu2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5Z30M"
   },
   {
     "title": "Event Coreference Data (Almost) for Free: Mining Hyperlinks from Online News",
@@ -79,7 +80,8 @@
     "author_profiles": [
       "~Michael_Bugert1",
       "~Iryna_Gurevych1"
-    ]
+    ],
+    "doi": ""
   },
   {
     "title": "The Vagueness of Vagueness in Noun Phrases",
@@ -109,7 +111,8 @@
       "~Pierre-Henri_Paris1",
       "",
       "~Fabian_M._Suchanek1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5T884"
   },
   {
     "title": "Why a Naive Way to Combine Symbolic and Latent Knowledge Base Completion Works Surprisingly Well",
@@ -146,7 +149,8 @@
       "~Christian_Meilicke1",
       "~Patrick_Betz1",
       "~Heiner_Stuckenschmidt2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5PK5V"
   },
   {
     "title": "Enterprise Alexandria: Online High-Precision Enterprise Knowledge Base Construction with Typed Entities",
@@ -214,7 +218,8 @@
       "",
       "",
       "~Yordan_Zaykov1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5JS3X"
   },
   {
     "title": "Abg-CoQA: Clarifying Ambiguity in Conversational Question Answering",
@@ -255,7 +260,8 @@
       "~Mingda_Zhang1",
       "~Siva_Reddy1",
       "~Malihe_Alikhani2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5F30Z"
   },
   {
     "title": "A Joint Training Framework for Open-World Knowledge Graph Embeddings",
@@ -294,7 +300,8 @@
       "~Beethika_Tripathi1",
       "~Mitesh_M_Khapra1",
       "~Balaraman_Ravindran1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5988G"
   },
   {
     "title": "One-shot Learning for Temporal Knowledge Graphs",
@@ -339,7 +346,8 @@
       "~Xiang_Ren1",
       "~Fred_Morstatter1",
       "~Aram_Galstyan1"
-    ]
+    ],
+    "doi": "doi:10.24432/C55K56"
   },
   {
     "title": "KnowFi: Knowledge Extraction from Long Fictional Texts",
@@ -377,7 +385,8 @@
       "~Cuong_Xuan_Chu2",
       "~Simon_Razniewski1",
       "~Gerhard_Weikum1"
-    ]
+    ],
+    "doi": "doi:10.24432/C51S38"
   },
   {
     "title": "Open Temporal Relation Extraction for Question Answering",
@@ -420,7 +429,8 @@
       "~Jing_Huang3",
       "~Youzheng_Wu2",
       "~Bowen_Zhou4"
-    ]
+    ],
+    "doi": "doi:10.24432/C5X309"
   },
   {
     "title": "Regex Queries over Incomplete Knowledge Bases",
@@ -466,7 +476,8 @@
       "",
       "~Srikanta_J._Bedathur1",
       "~Mausam_Mausam2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5S88T"
   },
   {
     "title": "Analyzing Commonsense Emergence in Few-shot Knowledge Models",
@@ -511,7 +522,8 @@
       "~Ximing_Lu1",
       "~Yejin_Choi1",
       "~Antoine_Bosselut1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5NK5J"
   },
   {
     "title": "Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction",
@@ -563,7 +575,8 @@
       "~Kiril_Gashteovski1",
       "~Mathias_Niepert1",
       "~Naoaki_Okazaki2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5HS3M"
   },
   {
     "title": "Multilingual Fact Linking",
@@ -608,7 +621,8 @@
       "~Pat_Verga1",
       "~William_W._Cohen2",
       "~Partha_Talukdar1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5D30N"
   },
   {
     "title": "A Case Study in Bootstrapping Ontology Graphs from Textbooks",
@@ -652,7 +666,8 @@
       "~Debshila_Basu_Mallick1",
       "",
       "~Richard_Baraniuk1"
-    ]
+    ],
+    "doi": "doi:10.24432/C58C7T"
   },
   {
     "title": "Relation Prediction as an Auxiliary Training Objective for Improving Multi-Relational Graph Representations",
@@ -693,7 +708,8 @@
       "~Pasquale_Minervini1",
       "~Sebastian_Riedel1",
       "~Pontus_Stenetorp1"
-    ]
+    ],
+    "doi": "doi:10.24432/C54K5W"
   },
   {
     "title": "SHINRA2020-ML: Categorizing 30-language Wikipedia into fine-grained NE based on \"``Resource by Collaborative Contribution\" scheme",
@@ -738,7 +754,8 @@
       "",
       "",
       ""
-    ]
+    ],
+    "doi": "doi:10.24432/C50W2M"
   },
   {
     "title": "Phrase Retrieval Learns Passage Retrieval, Too",
@@ -776,7 +793,8 @@
       "~Jinhyuk_Lee2",
       "~Alexander_Wettig1",
       "~Danqi_Chen1"
-    ]
+    ],
+    "doi": ""
   },
   {
     "title": "Reasoning with Transformer-based Models: Deep Learning, but Shallow Reasoning",
@@ -814,7 +832,8 @@
       "~Chadi_Helwe1",
       "~Chlo\u00e9_Clavel1",
       "~Fabian_M._Suchanek1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5W300"
   },
   {
     "title": "Prompt Tuning or Fine-Tuning - Investigating Relational Knowledge in Pre-Trained Language Models",
@@ -855,7 +874,8 @@
       "~Leandra_Fichtel1",
       "~Jan-Christoph_Kalo1",
       "~Wolf-Tilo_Balke1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5RC75"
   },
   {
     "title": "Multilingual Knowledge Graph Completion With Joint Relation and Entity Alignment",
@@ -899,9 +919,10 @@
       "~Harkanwar_Singh1",
       "~Soumen_Chakrabarti1",
       "~PRACHI_JAIN2",
-      "",
+      "~Sharod_Roy_Choudhury1",
       "~Mausam_Mausam2"
-    ]
+    ],
+    "doi": ""
   },
   {
     "title": "SAFRAN: An interpretable, rule-based link prediction method outperforming embedding models",
@@ -939,7 +960,8 @@
       "~Simon_Ott1",
       "~Christian_Meilicke1",
       "~Matthias_Samwald1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5MK57"
   },
   {
     "title": "Modelling Monotonic and Non-Monotonic Attribute Dependencies with Embeddings: A Theoretical Analysis",
@@ -970,7 +992,8 @@
     "UID": "26",
     "author_profiles": [
       "~Steven_Schockaert1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5GW2Z"
   },
   {
     "title": "Neural Concept Formation in Knowledge Graphs",
@@ -1009,7 +1032,8 @@
       "~Agnieszka_Dobrowolska1",
       "~antonio_vergari2",
       "~Pasquale_Minervini1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5C30B"
   },
   {
     "title": "Commonsense Reasoning with Implicit Knowledge in Natural Language",
@@ -1051,7 +1075,8 @@
       "~Kuntal_Kumar_Pal1",
       "~Arindam_Mitra1",
       "~Chitta_Baral1"
-    ]
+    ],
+    "doi": "doi:10.24432/C57C7H"
   },
   {
     "title": "NATCAT: Weakly Supervised Text Classification with Naturally Annotated Resources",
@@ -1081,7 +1106,8 @@
       "~Zewei_Chu1",
       "~Karl_Stratos1",
       "~Kevin_Gimpel1"
-    ]
+    ],
+    "doi": "doi:10.24432/C53K5K"
   },
   {
     "title": "One-shot to Weakly-Supervised Relation Classification using Language Models",
@@ -1116,8 +1142,9 @@
     "author_profiles": [
       "~Thy_Thy_Tran1",
       "~Phong_Le1",
-      ""
-    ]
+      "~Sophia_Ananiadou1"
+    ],
+    "doi": "doi:10.24432/C5ZW29"
   },
   {
     "title": "Question Decomposition with Dependency Graphs",
@@ -1154,7 +1181,8 @@
     "author_profiles": [
       "~Matan_Hasson1",
       "~Jonathan_Berant1"
-    ]
+    ],
+    "doi": ""
   },
   {
     "title": "Abstractified Multi-instance Learning (AMIL) for Biomedical Relation Extraction",
@@ -1208,7 +1236,8 @@
       "",
       "~Andrew_Bartko1",
       "~Chun-Nan_Hsu1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5V30P"
   },
   {
     "title": "Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study",
@@ -1257,7 +1286,8 @@
       "~Noah_Smith1",
       "~Hannaneh_Hajishirzi1",
       "~Tom_Hope2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5QC7V"
   },
   {
     "title": "Combining Analogy with Language Models for Knowledge Extraction",
@@ -1294,7 +1324,8 @@
     "author_profiles": [
       "~Danilo_Neves_Ribeiro1",
       "~Kenneth_Forbus1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5KK5X"
   },
   {
     "title": "Manifold Alignment across Geometric Spaces for Knowledge Base Representation Learning",
@@ -1323,7 +1354,8 @@
     "author_profiles": [
       "~Huiru_Xiao1",
       "~Yangqiu_Song1"
-    ]
+    ],
+    "doi": "doi:10.24432/C5FW2N"
   },
   {
     "title": "SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts",
@@ -1367,10 +1399,11 @@
       "~Arie_Cattan1",
       "",
       "~Daniel_S_Weld1",
-      "",
+      "~Ido_Dagan1",
       "~Iz_Beltagy1",
       "~Doug_Downey1",
       "~Tom_Hope2"
-    ]
+    ],
+    "doi": "doi:10.24432/C5B594"
   }
 ]
