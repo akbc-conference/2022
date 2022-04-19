@@ -1,4 +1,4 @@
-title: "AKBC 2021"
+title: "AKBC 2022"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 #slogan: 'A Flexible Theme for Jekyll'
@@ -13,7 +13,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 # See > authors.yml
 #author: phlow
 url: "https://akbc.ws"
-baseurl: "/2021"
+baseurl: "/2022"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
