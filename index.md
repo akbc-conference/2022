@@ -1,11 +1,11 @@
 ---
-title: AKBC 2021
+title: AKBC 2022
 layout: frontpage
 header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-#### October 4-8, 2021 (Virtual)
+#### Early November, 2022 (London, UK + Virtual)
 
 ## Knowledge Base Construction
 
@@ -13,7 +13,7 @@ Knowledge gathering, representation, and reasoning are among the fundamental cha
 
 ## New Conference
 
-Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with two widely-acclaimed instantiations in Amherst MA in 2019 and held virtually last year. Why a new stand-alone conference?
+Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with two widely-acclaimed instantiations in Amherst MA in 2019 and held virtually the last two years. Why a new stand-alone conference?
 
 - Long-standing and growing interest in the area, now with too much material for a one-day workshop. We have sufficient material for a two-day conference plus topical workshops.
 - We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
@@ -21,34 +21,23 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 - Why now? Growing interest across many areas. Disconnect among multiple relevant communities. Growing industry and government interest. Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
 
 ## Latest news
-- **Oct 2021**: [Outstanding papers]({{ site.baseurl }}/awards) announced.<br/>
-- **Sep 2021**: Virtual conference hub is now online (passwords will be emailed to [registered users](https://akbc.ws/2021/registration/) soon)
-- **Sep 2021**: Online registration is now open! Please register [here](https://na.eventscloud.com/akbc2021).
-- **Sep 2021**: List of [accepted papers](http://akbc.ws/2021/papers) available now.
-- **Aug 2021**: Registration will open early September!
-- **Jul 2021**: All papers submitted to AKBC this year are [here](https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions). Check them out!
-- **Jul 2021**: List of [workshops]({{ site.baseurl }}/workshops/) are available now.
-- **Jun 2021**: **We have extended the paper submission deadline to June 21, 2021.**
-- **May 2021**: [Submission Site](https://www.akbc.ws/2021/submission) is live.
-- **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.
-- **Apr 2021**: [Call for papers](http://akbc.ws/2021/cfp) released.
-- **Dec 2020**: Website is publicly available.
-- **Sep 2020**: Website up, with tentative dates.
+- **April 2022**: Exciting new Sponsors! 
 
 <a name="dates"></a>
 
 ## Key Dates
 
-- **Paper submission deadline**: ~~June 17, 2021~~ June 21, 2021
-- **Author response period**: July 23-30, 2021
-- **Notification of acceptance**: August 18, 2021
-- **Conference & Workshop Dates**: October 4-8, 2021
+- **Paper submission deadline**: TDB
+- **Author response period**: TDB
+- **Notification of acceptance**: TBD
+- **Conference & Workshop Dates**: TBD
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 ## Previous Conferences / Workshops
 
 <br />
+3rd Conference on [AKBC 2021](http://akbc.ws/2021), held virtually <br />
 2nd Conference on [AKBC 2020](http://akbc.ws/2020), held virtually <br />
 1st Conference on [AKBC 2019](http://akbc.ws/2019) in Amherst <br />
 [AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach <br />
