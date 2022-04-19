@@ -1,4 +1,4 @@
-- title: AKBC 2021
+- title: AKBC 2022
   url: "/"
   side: left
   dropdown:
@@ -6,29 +6,31 @@
     url: "https://akbc.ws/2019"
   - title: "AKBC 2020"
     url: "https://akbc.ws/2020"
+  - title: "AKBC 2021"
+    url: "https://akbc.ws/2021"
 
 - title: Program
   url: "/virtual-details"
   side: left
   dropdown:
-  - title: Virtual Conference
-    url: "/virtual-details"
-  - title: Accepted Papers
-    url: "/papers/"
+  #- title: Virtual Conference
+  #  url: "/virtual-details"
+  #- title: Accepted Papers
+  #  url: "/papers/"
   - title: Invited Speakers
     url: "/speakers/"
-  - title: "Awards"
-    url: "/awards/"
+  #- title: "Awards"
+  #  url: "/awards/"
   # - title: Call for Papers
   #   url: "/cfp/"
   # - title: Call for Workshops
   #   url: "/cfw/"
-  - title: "Workshops"
-    url: "/workshops/"
+  #- title: "Workshops"
+  #  url: "/workshops/"
 
-- title: Registration
-  url: "/registration/"
-  side: left
+#- title: Registration
+#  url: "/registration/"
+#  side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
