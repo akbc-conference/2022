@@ -1,39 +1,18 @@
-- name: Yael Amsterdamer
-  location: Bar-Ilan University
-  url: https://u.cs.biu.ac.il/~amstery/
+- name: Pasquale Minervini
+  location: University College London 
+  url: http://www.neuralnoise.com/
 - name: Bhavana Dalvi
   location: Allen Institute for Artificial Intelligence
   url: https://allenai.org/team/bhavanad
-- name: Greg Durrett
-  location: UT Austin
-  url: https://www.cs.utexas.edu/~gdurrett/
-- name: Robin Jia
-  location: Facebook AI Research / University of Southern California
-  url: https://robinjia.github.io/
-- name: Gerard de Melo
-  location: Hasso Plattner Institute / University of Potsdam
-  url: http://gerard.demelo.org/
-- name: Barbara Plank
-  location: IT University of Copenhagen
-  url: https://bplank.github.io/
-- name: Alex Ratner
-  location: University of Washington
-  url: https://ajratner.github.io/
-- name: Partha Talukdar
-  location: Indian Institute of Science, Bangalore
-  url: http://talukdar.net/
-- name: Chenhao Tan
-  location: University of Chicago
-  url: https://chenhaot.com/
-- name: Jian Tang
-  location: MILA/HEC Montreal
-  url: https://jian-tang.com/
-- name: Jesse Thomason
-  location: University of Southern California
-  url: https://jessethomason.com/
-- name: Andreas Vlachos
-  location: University of Cambridge
-  url: https://andreasvlachos.github.io/
-- name: Diyi Yang
-  location: Georgia Institute of Technology
-  url: https://www.cc.gatech.edu/~dyang888/
+- name: Ioannis Konstas
+  location: Heriot-Watt University
+  url: http://www.ikonstas.net/
+- name: Siva Reddy
+  location: McGill University
+  url: https://sivareddy.in/
+- name: Nicola De Cao
+  location: University of Amsterdam
+  url: https://nicola-decao.github.io/
+- name: Minjoon Seo
+  location: KAIST AI
+  url: https://seominjoon.github.io/
