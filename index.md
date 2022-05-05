@@ -21,16 +21,16 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 - Why now? Growing interest across many areas. Disconnect among multiple relevant communities. Growing industry and government interest. Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
 
 ## Latest news
-- **April 2022**: Exciting new Sponsors! 
+- **April 2022**: Exciting new Sponsors!
 
 <a name="dates"></a>
 
 ## Key Dates
-
-- **Paper submission deadline**: TDB
-- **Author response period**: TDB
-- **Notification of acceptance**: TBD
-- **Conference & Workshop Dates**: TBD
+- **Paper submission deadline (OpenReview)**: July 10th
+- **Commitment deadline (ARR, with reviews and meta review)**: August 5th
+- **Author response period**: August 1st - August 5th
+- **Notification of acceptance**: September 1st
+- **Conference & Workshop Dates**: November 3rd-5th
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
