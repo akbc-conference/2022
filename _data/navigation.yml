@@ -21,10 +21,6 @@
   #  url: "/speakers/"
   #- title: "Awards"
   #  url: "/awards/"
-- title: Call for Papers
-  url: "/cfp/"
-- title: Call for Workshops
-  url: "/cfw/"
   #- title: "Workshops"
   #  url: "/workshops/"
 
@@ -70,6 +66,12 @@
 #   url: "/sponsors/"
 #   side: left
 
+- title: Call for Papers
+  url: "/cfp/"
+  side: left
+- title: Call for Workshops
+  url: "/cfw/"
+  side: left
 - title: Dates
   url: "/#dates"
   side: left
