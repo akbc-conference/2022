@@ -7,32 +7,25 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-**3rd Conference on Automated Knowledge Base Construction (AKBC)**<br>
-October 4-8, 2021, Monday-Friday (held virtually)<br>
+**4th Conference on Automated Knowledge Base Construction (AKBC)**<br>
+November 3rd-5th, 2022, Thursday-Saturday (London, UK and online)<br>
 Homepage: [http://www.akbc.ws](http://akbc.ws)<br>
 Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 
 ### Key dates
 
-- Paper submission deadline: **June 21, 2021**
-- Author response period: July 23-30, 2021
-- Notification of acceptance: Aug 18, 2021
-- Camera-ready papers due: September 15, 2021
-- Conference & workshop dates: Monday-Friday, October 4-8, 2021
+- **Paper submission deadline (OpenReview)**: July 10th
+- **Commitment deadline (ARR, with reviews and meta review)**: August 5th
+- **Author response period**: August 1st - August 5th
+- **Notification of acceptance**: September 1st
+- **Camera-ready deadline**: September 15th
+- **Conference & Workshop Dates**: November 3-5th
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
 ### Knowledge Base Construction
 
-Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence.  Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”.  Most major technology companies now have substantial efforts in knowledge base construction. Related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness.  The AKBC conference serves as a research forum for gathering all these areas, in both academia and industry.
-
-### About the Conference
-
-Nearly a decade after the first AKBC workshop in Grenoble, France, 2010, AKBC became a conference in 2019. Why a stand-alone conference?
-- Long-standing and growing interest in the area.
-- We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, and HCI.
-- We want to set our own culture, including reviewing practices, and meeting format.
-- Why now?  Growing interest across many areas.  Disconnect among multiple relevant communities.  Growing industry and government interest.  Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
+Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence. Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”. Most major technology companies now have substantial efforts in knowledge base construction. Related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness. The AKBC conference serves as a research forum for gathering all these areas, in both academia and industry.
 
 ### Call for Papers
 
@@ -51,21 +44,19 @@ Topics of interest include, but are not limited to:
 - Systems, languages and toolkits, demonstrations of existing knowledge bases.
 - Evaluation of AKBC, datasets, evaluation methodology.
 
-Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible.
+Reviewing will be double-blind on the OpenReview platform, with papers, reviews and comments publicly visible. Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized.
 
-Papers should be restricted to 10 single-column pages, excluding references. Appendices should be put after references and submitted in one PDF document. We also encourage authors to upload their code and data (<=100 Mb) as part of their supplementary material in order to help reviewers assess the quality of the work. Like submissions, supplementary material must be anonymized.
+All submissions must be formatted with LaTeX using the following LaTeX source: You can either download the template [here](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) or use the [Overleaf template](https://www.overleaf.com/latex/templates/akbc22-latex/kctstgcbhvsn).
 
-All submissions must be formatted with LaTeX using the following LaTeX source: [akbc-latex.zip](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true)
+Submission site: [https://openreview.net/group?id=AKBC.ws/2022/Conference](https://openreview.net/group?id=AKBC.ws/2022/Conference).
 
-Submission site: [https://www.akbc.ws/2021/submission](https://www.akbc.ws/2021/submission).
+**Submission of previously published/accepted work**: Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy. However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process.
 
-**Dual Submission Policy:** Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, are not allowed and violate our dual submission policy.  However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have publication proceedings) do not violate the policy. The policy is enforced during the whole reviewing process.
-
-**Under-review Submissions:** For papers that are under review in another conference (e.g., EMNLP 2021), you can submit your paper to AKBC but must use the non-archival option. In addition, please also adhere to the rules set by the other conference. Specifically for EMNLP 2021, we will respect EMNLP’s anonymization period and will publicly announce AKBC accepted papers (archival and non-archival) after EMNLP notifications on Aug 25.
+**Concurrent Submissions**: Concurrent submissions or commitments to other conferences/workshops including EMNLP 2022 is not allowed.
 
 
 ### Invited Talks
-The following are confirmed invited speakers. Additional speakers are expected to be added.
+The following are confirmed invited speakers. Most of them will attend the conference in person and some will present virtually.
 
 <div class="row">
 <div class="columns">
