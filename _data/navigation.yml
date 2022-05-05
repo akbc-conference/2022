@@ -21,10 +21,10 @@
     url: "/speakers/"
   #- title: "Awards"
   #  url: "/awards/"
-  # - title: Call for Papers
-  #   url: "/cfp/"
-  # - title: Call for Workshops
-  #   url: "/cfw/"
+  - title: Call for Papers
+    url: "/cfp/"
+  - title: Call for Workshops
+    url: "/cfw/"
   #- title: "Workshops"
   #  url: "/workshops/"
 
