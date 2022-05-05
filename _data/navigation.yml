@@ -9,22 +9,22 @@
   - title: "AKBC 2021"
     url: "https://akbc.ws/2021"
 
-- title: Program
-  url: "/virtual-details"
-  side: left
-  dropdown:
+# - title: Program
+#   url: "/virtual-details"
+#   side: left
+#   dropdown:
   #- title: Virtual Conference
   #  url: "/virtual-details"
   #- title: Accepted Papers
   #  url: "/papers/"
-  - title: Invited Speakers
-    url: "/speakers/"
+  #- title: Invited Speakers 
+  #  url: "/speakers/"
   #- title: "Awards"
   #  url: "/awards/"
-  - title: Call for Papers
-    url: "/cfp/"
-  - title: Call for Workshops
-    url: "/cfw/"
+- title: Call for Papers
+  url: "/cfp/"
+- title: Call for Workshops
+  url: "/cfw/"
   #- title: "Workshops"
   #  url: "/workshops/"
 
