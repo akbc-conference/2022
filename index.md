@@ -2,7 +2,7 @@
 title: AKBC 2022
 layout: frontpage
 header:
-  image_fullwidth: "London-AKBC.png"
+  image_fullwidth: "London-AKBC-up.png"
 ---
 
 #### Early November, 2022 (London, UK + Virtual)
