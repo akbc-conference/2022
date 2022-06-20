@@ -36,7 +36,8 @@ We provide a tentative timeline for the workshops below, to help with planning.
 
 Tentative timeline:
 
-* Workshop proposal submission deadline: 20th June 2022
+* ~~Workshop proposal submission deadline: 20th June 2022~~
+* Workshop proposal submission deadline: 24th June 2022 (extended)
 * Notification of workshop acceptance: 27th June 2022
 * Suggested date for call for papers 5th July
 * Suggested date for paper submissions 2nd September
