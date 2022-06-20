@@ -7,7 +7,7 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-**Deadline: 20th June 2022 23:59 Anywhere on Earth**
+**Deadline: 24th June 2022** (extended) 23:59 Anywhere on Earth
 
 **Submission Link: [https://forms.gle/KxQtqqPnugVL3uvK9](https://forms.gle/KxQtqqPnugVL3uvK9)**
 
