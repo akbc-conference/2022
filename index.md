@@ -5,7 +5,7 @@ header:
   image_fullwidth: "London-AKBC-up.png"
 ---
 
-#### Early November, 2022 (London, UK + Virtual)
+#### 3-5 November, 2022 (Barbican Center, London, UK + Virtual)
 
 ## Knowledge Base Construction
 
