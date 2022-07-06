@@ -2,30 +2,30 @@
   name: Indirect, Weak and Self Supervision for Knowledge Extraction
   url: TBD
   organizers: 
-    - Wenpeng Yin (Temple University)
-    - Muhao Chen (University of Southern California)
-    - Lifu Huang (Virginia Tech) 
-    - Huan Sun (Ohio State University) 
-    - Hongming Zhang (Tencent AI Lab, Seattle)
-    - Benjamin Roth (University of Vienna)
-    - Barbara Plank (LMU Munich)
+    - Wenpeng Yin
+    - Muhao Chen
+    - Lifu Huang 
+    - Huan Sun 
+    - Hongming Zhang
+    - Benjamin Roth
+    - Barbara Plank
   duration: Half-Day
     
 - UID: FinKG
   name: Knowledge Graphs for Finance and Economics
   url: TBD
   organizers: 
-    - Caitlin Walsh (Theia Insights)
-    - Nathan Burton (Theia Insights)
-    - Garrett Conway (Theia Insights) 
-    - Migael Strydom (Theia Insights)
-    - Ye Tian (University College London, Theia Insights)
+    - Caitlin Walsh
+    - Nathan Burton
+    - Garrett Conway
+    - Migael Strydom
+    - Ye Tian
   duration: Half-Day
 
 - UID: REWRITE
   name: Rewriting the Encyclopedia
   url: TBD
   organizers: 
-    - Sam Klein (Wikidata, Knowledge Futures Group)
-    - Doug Downey (Semantic Scholar, AI2)
+    - Sam Klein
+    - Doug Downey
   duration: Half-Day
