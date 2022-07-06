@@ -9,7 +9,7 @@ header:
 
 **Deadline: 24th June 2022** (extended) 23:59 Anywhere on Earth
 
-**Submission Link: [https://forms.gle/KxQtqqPnugVL3uvK9](https://forms.gle/KxQtqqPnugVL3uvK9)**
+**The call for workshops is now closed**
 
 We are soliciting proposals for half-day workshops at the fourth annual international conference on Automated Knowledge Base Construction (AKBC) to be held as a physical/online-hybrid conference in London. The conference dates are 3rd-5th November 2022.
 
