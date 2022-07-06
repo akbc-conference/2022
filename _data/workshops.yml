@@ -1,123 +1,31 @@
-- UID: cask
-  name: Conversational Agents with Structured Knowledge
-  url: https://cask-workshop.github.io
-  acronym: CASK
+- UID: IWSSKE
+  name: Indirect, Weak and Self Supervision for Knowledge Extraction
+  url: TBD
   organizers: 
-    - Shyam Upadhyay
-    - Waleed Ammar
-    - Aditya Gupta
-    - Rahul Goel
-    - Shachi Paul
-    - Mihir Sanjay Kale
-    - Emily Pitler
+    - Wenpeng Yin (Temple University)
+    - Muhao Chen (University of Southern California)
+    - Lifu Huang (Virginia Tech) 
+    - Huan Sun (Ohio State University) 
+    - Hongming Zhang (Tencent AI Lab, Seattle)
+    - Benjamin Roth (University of Vienna)
+    - Barbara Plank (LMU Munich)
   duration: Half-Day
-  day: 1
-  gather: false
-  zoom: true
-  posters: []
+    
+- UID: FinKG
+  name: Knowledge Graphs for Finance and Economics
+  url: TBD
+  organizers: 
+    - Caitlin Walsh (Theia Insights)
+    - Nathan Burton (Theia Insights)
+    - Garrett Conway (Theia Insights) 
+    - Migael Strydom (Theia Insights)
+    - Ye Tian (University College London, Theia Insights)
+  duration: Half-Day
 
-- UID: uskb
-  name: Unstructured & Structured KB
-  url: https://uskb-workshop.github.io/
-  acronym: USKB
+- UID: REWRITE
+  name: Rewriting the Encyclopedia
+  url: TBD
   organizers: 
-    - Siamak Shakeri
-    - Pat Verga
-    - Nicholas FitzGerald
-    - Rajarshi Das
-    - Sewon Min
+    - Sam Klein (Wikidata, Knowledge Futures Group)
+    - Doug Downey (Semantic Scholar, AI2)
   duration: Half-Day
-  day: 1
-  gather: false
-  zoom: true
-  posters: []
-
-- UID: argumentation
-  name: Workshop on Argumentation Knowledge Graphs
-  url: https://argkg21.argmining.org/
-  acronym: ArgKG
-  organizers: 
-  - Khalid Al-Khatib
-  - Tirthankar Ghosal
-  - Yufang Hou
-  - Dayne Freitag
-  - Anita de Waard
-  duration: Half-Day
-  day: 1
-  gather: true
-  zoom: true
-  posters: []
-
-- UID: xgml
-  name: Explainable Graph-Based Machine Learning
-  url: https://xgml.github.io
-  acronym: XGML
-  organizers: 
-    - Pouya Pezeshkpour
-    - Pasquale Minervini
-    - Mathias Niepert
-    - Sameer Singh
-  duration: Half-Day
-  day: 2
-  gather: false
-  zoom: true
-  posters:
-    - id: 1
-      title: "CogKG: Unifying Symbolic and Continuous Knowledge Representations for Machine Reasoning"
-      authors: Zhepei Wei, Yue Wang, Jinnan Li, Yinqi Guo, Zhining Liu, Erxin Yu, and Yi Chang
-    - id: 2
-      title: "Some Explainable Graph ML Models with ArangoDB"
-      authors: Joerg Schad, Rajiv Sambasivan, Christopher Woodward, Arthur Keen, Alexander Geenan, Sachin Sharma
-    - id: 3
-      title: "Explainable Reinforcement Learning Agent with Stacked Hierarchical Attention"
-      authors: Xiangyu Peng, Prithviraj Ammanabrolu, Mark Riedl
-
-- UID: cskb
-  name: Commonsense Reasoning and Knowledge Bases
-  url: https://akbc-cskb.github.io/
-  acronym: CSKB
-  organizers: 
-    - Vered Schwartz
-    - Antoine Bosselut
-    - Xiang Lorraine Li
-    - Bill Yuchen Lin
-  duration: Half-Day
-  day: 2
-  gather: false
-  zoom: true
-  posters: []
-
-- UID: pkg
-  name: Personal Knowledge Graphs
-  url: https://pkgs.ws/
-  acronym: PKGS
-  organizers: 
-    - Krisztian Balog
-    - Paramita Mirza
-    - Martin G. Skjæveland
-    - Zhilin Wang
-  duration: Half-Day
-  day: 2
-  gather: false
-  zoom: true
-  posters: []
-
-- UID: scinlp
-  name: "Natural Language Processing for Scientific Texts"
-  url: https://scinlp.org/
-  acronym: SciNLP
-  organizers: 
-    - Arman Cohan
-    - Pradeep Dasigi
-    - Tom Hope
-    - Kyle Lo
-    - Sunil Mohan
-    - Alex Wade
-    - Lucy Lu Wang
-    - Ivana Williams
-    - Dongxu Zhang
-  duration: Half-Day
-  day: 2
-  gather: true
-  zoom: true
-  posters: []
