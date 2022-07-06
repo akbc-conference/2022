@@ -6,7 +6,36 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-<h2> Thursday [October 7th] </h2>
+<h2>Accepted Workshops</h2>
+<ul>
+{% for workshop in site.data.workshops %}
+    <li>
+    <b>
+        {% if workshop.acronym %}
+            {{- workshop.acronym -}}:
+        {%- endif -%}
+        {{- workshop.name -}}
+    </b>
+    {%- if workshop.url -%}
+    , <a href="{{ workshop.url }}">Website</a>
+    {%- endif -%}
+    <br>
+    <i>
+    {%- for organizer in workshop.organizers -%}
+        {{- organizer -}}
+        {%- if forloop.last == true -%}
+            .
+        {%- else -%}
+            ,&nbsp;
+        {%- endif -%}
+    {%- endfor -%}
+    </i>
+    </li>
+{% endfor %}
+</ul>
+
+<!-- 
+<h2> Thursday [November 3rd] </h2>
 
 <ul>
 {% for workshop in site.data.workshops %}
@@ -37,7 +66,7 @@ header:
 {% endfor %}
 </ul>
 
-<h2> Friday [October 8th] </h2>
+<h2> Friday [November 4th] </h2>
 
 <ul>
 {% for workshop in site.data.workshops %}
@@ -67,5 +96,37 @@ header:
     {%- endif -%}
 {% endfor %}
 </ul>
+
+
+<h2> Saturday [November 5th] </h2>
+
+<ul>
+{% for workshop in site.data.workshops %}
+    {% if workshop.day == 3 %}
+    <li>
+    <b>
+        {% if workshop.acronym %}
+            {{- workshop.acronym -}}:
+        {%- endif -%}
+        {{- workshop.name -}}
+    </b>
+    {%- if workshop.url -%}
+    , <a href="{{ workshop.url }}">Website</a>
+    {%- endif -%}
+    <br>
+    <i>
+    {%- for organizer in workshop.organizers -%}
+        {{- organizer -}}
+        {%- if forloop.last == true -%}
+            .
+        {%- else -%}
+            ,&nbsp;
+        {%- endif -%}
+    {%- endfor -%}
+    </i>
+    </li>
+    {%- endif -%}
+{% endfor %}
+</ul> -->
 
 If you have any questions, please get in touch with our [workshop chairs]({{ site.baseurl }}/organization/).
