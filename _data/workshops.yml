@@ -1,6 +1,6 @@
-- UID: IWSSKE
+- UID: IWSKR
   name: Indirect, Weak and Self Supervision for Knowledge Extraction
-  url: TBD
+  url: https://iwskr.github.io/
   organizers: 
     - Wenpeng Yin
     - Muhao Chen
@@ -29,3 +29,12 @@
     - Sam Klein
     - Doug Downey
   duration: Half-Day
+
+- UID: SocKBC
+  name: Workshop on Social Aspects of Automated Knowledge Base Creation
+  url: TBD
+  organizers:
+    - Chaitanya Baru
+    - Geof Bowker
+    - David Ribes
+    - Sam Klein 
