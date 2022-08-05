@@ -28,7 +28,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 ## Key Dates
 - **Paper submission deadline (OpenReview)**: July 10th
 - **Commitment deadline (ARR, with reviews and meta review)**: August 5th
-- **Author response period**: August 1st - August 5th
+- **Author response period**: August 5th - August 10th
 - **Notification of acceptance**: September 1st
 - **Conference & Workshop Dates**: November 3rd-5th
 
