@@ -16,7 +16,7 @@ Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 
 - **Paper submission deadline (OpenReview)**: July 10th
 - **Commitment deadline (ARR, with reviews and meta review)**: August 5th
-- **Author response period**: August 1st - August 5th
+- **Author response period**: August 5th - August 10th
 - **Notification of acceptance**: September 1st
 - **Camera-ready deadline**: September 15th
 - **Conference & Workshop Dates**: November 3-5th
