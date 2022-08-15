@@ -26,6 +26,9 @@
 #     url: "/cfw/"
   - title: "Accepted Workshops"
     url: "/workshops/"
+
+  - title: "Call for Participation"
+    url: "/cfpart/"
     
   #- title: "Awards"
   #  url: "/awards/"
