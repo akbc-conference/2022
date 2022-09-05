@@ -1,5 +1,5 @@
-- UID: IWSKR
-  name: Weak, Indirect and Self Supervision for Knowledge Extraction (WISE)
+- UID: WISE
+  name: Weak, Indirect and Self Supervision for Knowledge Extraction (WISE Supervision)
   url: https://wise-supervision.github.io/
   organizers: 
     - Wenpeng Yin
