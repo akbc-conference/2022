@@ -15,8 +15,8 @@
   dropdown:
   #- title: Virtual Conference
   #  url: "/virtual-details"
-  #- title: Accepted Papers
-  #  url: "/papers/"
+  - title: Accepted Papers
+    url: "/papers/"
   
   - title: Invited Speakers 
     url: "/speakers/"
