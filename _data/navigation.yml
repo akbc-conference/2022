@@ -81,9 +81,9 @@
   url: "/#dates"
   side: left
 
-# - title: Registration
-#   url: "/registration/"
-#   side: left
+- title: Registration
+  url: "/registration/"
+  side: left
 
 - title: Organization
   url: "/organization/"
