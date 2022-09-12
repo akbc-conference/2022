@@ -25,6 +25,14 @@ Knowledge gathering, representation, and reasoning are among the fundamental cha
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
+## Sponsors
+### Silver
+<p float="left">
+<img src="/assets/img/sponsors/amazon_logo_RGB.png" alt="Amazon" width="100"/>
+<img src="/assets/img/sponsors/Horizontal Version of Huawei Corporate Logo_2018.png" alt="Huawei" width="100"/>
+<img src="/assets/img/sponsors/google-logo-new.png" alt="Google" width="100"/>
+</p>
+
 ## Previous Conferences / Workshops
 
 <br />
