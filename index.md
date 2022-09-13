@@ -12,6 +12,7 @@ header:
 Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence. Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”. Most major technology companies now have substantial efforts in knowledge base construction, and related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness. The AKBC conference serves as a research forum for all these areas, in both academia and industry.
 
 ## Latest news
+- **September 2022**: Registration is Now Open!
 - **April 2022**: Exciting new Sponsors!
 
 <a name="dates"></a>
