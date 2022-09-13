@@ -11,5 +11,4 @@ header:
   - Deadline: August 30th, Decision: September 5th <br>
     Submission site: [https://openreview.net/group?id=AKBC.ws/2022/Abstracts/August](https://openreview.net/group?id=AKBC.ws/2022/Abstracts/August).
   - Deadline: October 10th, Decision: October 15th <br>
-    Submission site: TBD
-
+    Submission site: [https://openreview.net/group?id=AKBC.ws/2022/Poster_Presentations/October](https://openreview.net/group?id=AKBC.ws/2022/Poster_Presentations/October).
