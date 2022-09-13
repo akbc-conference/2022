@@ -18,7 +18,7 @@ Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 - **Commitment deadline (ARR, with reviews and meta review)**: August 5th
 - **Author response period**: August 5th - August 10th
 - **Notification of acceptance**: September 1st
-- **Camera-ready deadline**: September 15th
+- **Camera-ready deadline**: September 22nd
 - **Conference & Workshop Dates**: November 3-5th
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
