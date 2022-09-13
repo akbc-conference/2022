@@ -31,6 +31,7 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 <img src="https://www.akbc.ws/2022/assets/img/sponsors/amazon_logo_RGB.png" alt="Amazon" width="100"/>
 <img src="https://www.akbc.ws/2022/assets/img/sponsors/Horizontal Version of Huawei Corporate Logo_2018.png" alt="Huawei" width="100"/>
 <img src="https://www.akbc.ws/2022/assets/img/sponsors/google-logo-new.png" alt="Google" width="100"/>
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/BYJU_S _Corporate Logo_Purple[35].png" alt="BYJU" width="100"/>
 </p>
 
 ## Previous Conferences / Workshops
