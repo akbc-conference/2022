@@ -85,6 +85,10 @@
   url: "/registration/"
   side: left
 
+- title: Scholarships
+  url: "/scholarships/"
+  side: left
+
 - title: Organization
   url: "/organization/"
   side: left
