@@ -1,7 +1,7 @@
 ---
 title: Scholarships
 layout: page-fullwidth
-permalink: /sholarships/
+permalink: /scholarships/
 header:
   image_fullwidth: "generic-gradient.png"
 ---
