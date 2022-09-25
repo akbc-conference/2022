@@ -37,3 +37,7 @@ header:
 |  4:00    	|  4:45     | Invited Talk 9 (Virtual)        	| [Douwe Kiela]({{ url }}/speakers/#douwe): *{{ site.data.speakers[2].title }}*         	|
 |  4:45     |  5:30     | Invited Talk 10 (Virtual)       	| [He He]({{ url }}/speakers/#hehe): *{{ site.data.speakers[9].title }}*         	|
 
+### November 5th, Day 3
+
+|----------	|----------	|---------------------------------	|--------------------	|
+| 9:00     	|  5:30    	| Social Events (TBD)                 	| Please See [Venue]({{ url }}/venue) For More Information |
