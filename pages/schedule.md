@@ -18,7 +18,7 @@ header:
 | 11:15    	| 12:30   	| AKBC Paper Poster Session I     	|                     |
 | 12:30    	|  2:00   	| *Lunch Break*                    	|                     |
 |  2:00     |  2:45    	| Invited Talk 3 (Virtual)         	| [Jason Eisner]({{ url }}/speakers/#eisner): *{{ site.data.speakers[1].title }}* 	|
-|  2:45    	|  3:30   	| AKBC Paper Oral Resentation I    	|                     |
+|  2:45    	|  3:30   	| AKBC Paper Oral Presentation    	|                     |
 |  3:30    	|  4:00    	| *Afternoon Coffee Break*         	|                    	|
 |  4:00    	|  4:45     | Invited Talk 4                  	| [John Winn]({{ url }}/speakers/#winn): *{{ site.data.speakers[6].title }}*         	|
 |  4:45     |  5:30     | Invited Talk 5                  	| [Raquel Fernández]({{ url }}/speakers/#raquel): *{{ site.data.speakers[7].title }}*         	|
@@ -36,8 +36,9 @@ header:
 |  3:30    	|  4:00    	| *Afternoon Coffee Break*         	|                    	|
 |  4:00    	|  4:45     | Invited Talk 9 (Virtual)        	| [Douwe Kiela]({{ url }}/speakers/#douwe): *{{ site.data.speakers[2].title }}*         	|
 |  4:45     |  5:30     | Invited Talk 10 (Virtual)       	| [He He]({{ url }}/speakers/#hehe): *{{ site.data.speakers[9].title }}*         	|
+|  Evening     |      	| Social Events (TBD)                 	| Please See [Venue]({{ url }}/venue) For More Information |
 
 ### November 5th, Day 3
 
 |----------	|----------	|---------------------------------	|--------------------	|
-| 9:00     	|  5:30    	| Social Events (TBD)                 	| Please See [Venue]({{ url }}/venue) For More Information |
+| TBD     	|  TBD    	| [Workshops]({{ url }}/workshops) (TBD) |
