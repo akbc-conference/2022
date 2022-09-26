@@ -36,7 +36,7 @@ header:
 |  3:30    	|  4:00    	| *Afternoon Coffee Break*         	|                    	|
 |  4:00    	|  4:45     | Invited Talk 9 (Virtual)        	| [Douwe Kiela]({{ url }}/speakers/#douwe): *{{ site.data.speakers[2].title }}*         	|
 |  4:45     |  5:30     | Invited Talk 10 (Virtual)       	| [He He]({{ url }}/speakers/#hehe): *{{ site.data.speakers[9].title }}*         	|
-|  Evening     |      	| Social Events (TBD)                 	| Please See [Venue]({{ url }}/venue) For More Information |
+|  5:30     |  -       	| *Social Event*                     	| *Location*: [Outpost Tower Hill - BrewDog](https://www.brewdog.com/uk/brewdog-tower-hill-outpost) |
 
 ### November 5th, Day 3
 
