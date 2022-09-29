@@ -5,8 +5,22 @@ permalink: /venue/
 header:
     image_fullwidth: "generic-gradient.png"
 ---
-**NEW**: More information about Barbican Centre to be added later!
+<style>
+figcaption {
+  text-align: center;
+}
+</style>
 
+
+<br />
+**NEW**: The map visualisation of the Barbican for the conference is available now!
+<figure>
+<img src="{{ site.baseurl }}/assets/img/venue/AKBC_barbican_map.jpg"  alt="Barbican Centre" style="width: 85%" />
+<figcaption>The map of the Barbican. You can also download the full map in PDF <a href="{{ site.baseurl }}/assets/img/venue/AKBC_barbican_map.pdf">here</a>.</figcaption>
+</figure>
+
+**NEW**: More information about Barbican Centre to be added later! 
+<br/>
 
 <div class="row">
 <div class="large-2 columns"> <br /> </div>
