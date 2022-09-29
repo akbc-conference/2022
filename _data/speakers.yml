@@ -62,9 +62,10 @@
     speaker: "John Winn"
     institution: "Microsoft Research"
     url: https://www.microsoft.com/en-us/research/people/jwinn/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Project Alexandria in Viva Topics: AKBC in practice"
+    abstract: "At AKBC 2019, we presented Project Alexandria as a solution to inferring a knowledge base completely automatically from unstructured data. Since then, we have built Alexandria into the heart of a new Microsoft product called Viva Topics, launched last year. Viva Topics automatically constructs a knowledge base from an organization’s documents and intranet pages, and surfaces it across a wide range of Microsoft applications including SharePoint, Teams, Outlook and more. \n\n
+In this talk, I will explore all the challenges the Alexandria team has encountered in transitioning from an academic project to a high quality, scalable production system . These challenges include enabling continual expansion of the knowledge base as new data arrives, allowing people to edit the knowledge base as it is being constructed, bringing together knowledge from a wide variety of structured and unstructured sources, and integrating knowledge across languages. Today, the Alexandria system can discover hundreds of types of entities from tens of millions of documents whilst keeping these entities updated, and integrated with human edits, as the organization evolves. The result is a solution which brings organizational knowledge effortlessly to the fingertips of users across the Microsoft ecosystem."
+    bio: "John Winn is a senior principal researcher in machine learning from Microsoft Research in Cambridge. In his career, he has worked on large scale automated message passing systems and probabilistic programming, through the development of the Infer.NET framework. He has published on machine learning applications in healthcare, gaming, computational biology and machine vision, and his work has been incorporated into products like the Xbox Kinect and Outlook. In the last decade, he has focused on automatic knowledge base construction using probabilistic programming in the form of Project Alexandria and, more recently, on delivering this work into the new Viva Topics product."
 
 -
     UID: "raquel"
