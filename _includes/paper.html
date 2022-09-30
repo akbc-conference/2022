@@ -2,7 +2,8 @@
 
 <li>
     {% if include.p['archival_status'] != "" and include.p['archival_status'] != "Non-Archival" %}
-    <a href="{{- url -}}/papers/{{- include.p.forum_id -}}">
+    <!-- <a href="{{- url -}}/papers/{{- include.p.forum_id -}}"> -->
+    <a href="{{- url -}}/papers/{{- include.p.pdf -}}">
     {% else %}
     <!-- <a href="https://openreview.net/forum?id={{-include.p.forum_id-}}"> -->
     <a>

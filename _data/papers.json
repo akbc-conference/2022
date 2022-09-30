@@ -11,7 +11,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Knowledge graph (KG) link prediction is a fundamental task in artificial intelligence, with applications in natural language processing, information retrieval, and biomedicine. Recently, promising results have been achieved by leveraging cross-modal information in KGs, using ensembles that combine knowledge graph embeddings (KGEs) and contextual language models (LMs). However, existing ensembles are either (1) not consistently effective in terms of ranking accuracy gains or (2) impractically inefficient on larger datasets due to the combinatorial explosion problem of pairwise ranking with deep language models. In this paper, we propose a novel tiered ranking architecture CascadER to maintain the ranking accuracy of full ensembling while improving efficiency considerably. CascadER uses LMs to rerank the outputs of more efficient base KGEs, relying on an adaptive subset selection scheme aimed at invoking the LMs minimally while maximizing accuracy gain over the KGE. Extensive experiments demonstrate that CascadER improves MRR by up to 9 points over KGE baselines, setting new state-of-the-art performance on four benchmarks while improving efficiency by one or more orders of magnitude over competitive cross- modal baselines. Our empirical analyses reveal that diversity of models across modalities and preservation of individual models’ confidence signals help explain the effectiveness of CascadER, and suggest promising directions for cross-modal cascaded architectures.",
     "pdf": "20_cascader_cross_modal_cascading",
     "subject_areas": [
     ],
@@ -20,10 +20,13 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nsafavi2022cascader,\ntitle={CascadER: Cross-Modal Cascading for Knowledge Graph Link Prediction},\nauthor={Tara Safavi and Doug Downey and Tom Hope},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -40,7 +43,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "We introduce the task of entity-centric query refinement. Given an input query whose answer is a (potentially large) collection of entities, the task output is a small set of query refinements meant to assist the user in efficient domain exploration and entity discovery. We propose a method to create a training dataset for this task. For a given input query, we use an existing knowledge base taxonomy as a source of candidate query refinements, and choose a final set of refinements from among these candidates using a search procedure designed to partition the set of entities answering the input query. We demonstrate that our approach identifies refinement sets which human annotators judge to be interesting, comprehensive, and non-redundant. In addition, we find that a text generation model trained on our newly-constructed dataset is able to offer refinements for novel queries not covered by an existing taxonomy. Our code and data are available at https://github.com/google-research/language/tree/master/language/qresp.",
     "pdf": "19_entity_centric_query_refinemen",
     "subject_areas": [
     ],
@@ -49,10 +52,14 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nwadden2022entity,\ntitle={Entity-Centric Query Refinement},\nauthor={David Wadden and Nikita Gupta and Kenton Lee and Kristina Toutanova},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -71,7 +78,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Knowledge graph completion (KGC) aims to predict the missing links among knowledge graph (KG) entities. Though various methods have been developed for KGC, most of them can only deal with the KG entities seen in the training set and cannot perform well in predicting links concerning novel entities in the test set. Similar problem exists in temporal knowledge graphs (TKGs), and no previous temporal knowledge graph completion (TKGC) method is developed for modeling newly- emerged entities. Compared to KGs, TKGs require temporal reasoning techniques for modeling, which naturally increases the difficulty in dealing with novel, yet unseen entities. In this work, we focus on the inductive learning of unseen entities’ representations on TKGs. We propose a few-shot out-of-graph (OOG) link prediction task for TKGs, where we predict the missing entities from the links concerning unseen entities by employing a meta-learning framework and utilizing the meta-information provided by only few edges associated with each unseen entity. We construct three new datasets for TKG few-shot OOG link prediction, and we propose a model that mines the concept-aware information among entities. Experimental results show that our model achieves superior performance on all three datasets and our concept-aware modeling component demonstrates a strong effect.",
     "pdf": "6_few_shot_inductive_learning_on",
     "subject_areas": [
     ],
@@ -80,10 +87,16 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nding2022few,\ntitle={Few-Shot Inductive Learning on Temporal Knowledge Graphs using Concept-Aware Information},\nauthor={Zifeng Ding and Jingpei Wu and Bailan He and Yunpu Ma and Zhen Han and Volker Tresp},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -99,7 +112,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Most of the current supervised relation classification algorithms use a single embedding to represent the relation between a pair of entities. We argue that a better approach is to treat the relation classification task as a Span-Prediction problem, similar to Question Answering. We present a span prediction based system for relation classification and evaluate its performance compared to the embedding-based system. We demonstrate that the supervised span prediction objective works significantly better than the standard classification-based objective. We achieve state-of-the-art results on the TACRED, SemEval task 8, and CRE datasets.",
     "pdf": "Supervised_Relation_Classification_as_Two_way_Span_Prediction_AKBC",
     "subject_areas": [
     ],
@@ -108,10 +121,13 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\ncohen2022supervised,\ntitle={Supervised Relation Classification as Two-way Span-Prediction},\nauthor={Amir DN Cohen and Shachar Rosenman and Yoav Goldberg},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -128,7 +144,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Recent advances in deep learning have greatly propelled the research on semantic parsing. Im- provement has since been made in many downstream tasks, including natural language interface to web APIs, text-to-SQL generation, among others. However, despite the close connection shared with these tasks, research on question answering over knowledge bases (KBQA) has compara- tively been progressing slowly. We identify and attribute this to two unique challenges of KBQA, schema-level complexity and fact-level complexity. In this survey, we situate KBQA in the broader literature of semantic parsing and give a comprehensive account of how existing KBQA approaches attempt to address the unique challenges. Regardless of the unique challenges, we argue that we can still take much inspiration from the literature of semantic parsing, which has been overlooked by existing research on KBQA. Based on our discussion, we can better understand the bottleneck of current KBQA research and shed light on promising directions for KBQA to keep up with the literature of semantic parsing, particularly in the era of pre-trained language models.",
     "pdf": "23_knowledge_base_question_answer",
     "subject_areas": [
     ],
@@ -137,10 +153,14 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\ngu2022knowledge,\ntitle={Knowledge Base Question Answering: A Semantic Parsing Perspective},\nauthor={Yu Gu and Vardaan Pahuja and Gong Cheng and Yu Su},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -156,7 +176,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Recently there is an increasing scholarly interest in time-varying knowledge graphs, or temporal knowledge graphs (TKG). Previous research suggests diverse approaches to TKG reasoning that uses historical information. However, less attention has been given to the hierarchies within such information at different timestamps. Given that TKG is a sequence of knowledge graphs based on time, the chronology in the sequence derives hierarchies between the graphs. Furthermore, each knowledge graph has its hierarchical level which may differ from one another. To address these hierarchical characteristics in TKG, we propose HyperVC, which utilizes hyperbolic space that better encodes the hierarchies than Euclidean space. The chronological hierarchies between knowledge graphs at different timestamps are represented by embedding the knowledge graphs as vectors in a common hyperbolic space. Additionally, diverse hierarchical levels of knowledge graphs are represented by adjusting the curvatures of hyperbolic embeddings of their entities and relations. Experiments on four benchmark datasets show substantial improvements, especially on the datasets with higher hierarchical levels.",
     "pdf": "18_bending_the_future_autoregress",
     "subject_areas": [
     ],
@@ -165,10 +185,13 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nsohn2022bending,\ntitle={Bending the Future: Autoregressive Modeling of Temporal Knowledge Graphs in Curvature-Variable Hyperbolic Spaces},\nauthor={Jihoon Sohn and Mingyu Derek Ma and Muhao Chen},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -185,7 +208,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Fine-tuned language models use greedy decoding to answer reading comprehension questions with relative success. However, this approach does not ensure that the answer is a span in the given passage, nor does it guarantee that it is the most probable one. Does greedy decoding actually perform worse than an algorithm that does adhere to these properties? To study the performance and optimality of greedy decoding, we present exact-extract, a decoding algorithm that efficiently finds the most probable answer span in the passage. We compare the performance of T5 with both decoding algorithms on zero-shot and few-shot extractive question answering. When no training examples are available, exact-extract significantly outperforms greedy decoding. However, greedy decoding quickly converges towards the performance of exact-extract with the introduction of a few training examples, becoming more extractive and increasingly likelier to generate the most probable span as the training set grows. We also show that self-supervised training can bias the model towards extractive behavior, increasing performance in the zero-shot setting without resorting to annotated examples. Overall, our results suggest that pretrained language models are so good at adapting to extractive question answering, that it is often enough to fine-tune on a small training set for the greedy algorithm to emulate the optimal decoding strategy.",
     "pdf": "17_how_optimal_is_greedy_decoding",
     "subject_areas": [
     ],
@@ -194,10 +217,14 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\ncastel2022how,\ntitle={How Optimal is Greedy Decoding for Extractive Question Answering?},\nauthor={Or Castel and Ori Ram and Avia Efrat and Omer Levy},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -212,7 +239,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "The number of Knowledge Graphs (KGs) generated with automatic and manual ap- proaches is constantly growing. For an integrated view and usage, an alignment between these KGs is necessary on the schema as well as instance level. While there are approaches that try to tackle this multi source knowledge graph matching problem, large gold standards are missing to evaluate their effectiveness and scalability. We close this gap by presenting Gollum – a gold standard for large-scale multi source knowledge graph matching with over 275,000 correspondences between 4,149 different KGs. They originate from knowledge graphs derived by applying the DBpedia extraction framework to a large wiki farm. Three variations of the gold standard are made available: (1) a version with all correspondences for evaluating unsupervised matching approaches, and two versions for evaluating super- vised matching: (2) one where each KG is contained both in the train and test set, and (3) one where each KG is exclusively contained in the train or the test set.",
     "pdf": "16_gollum_a_gold_standard_for_lar",
     "subject_areas": [
     ],
@@ -221,10 +248,12 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nhertling2022gollum,\ntitle={Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching},\nauthor={Sven Hertling and Heiko Paulheim},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -239,7 +268,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Large language models (LMs) have been shown to capture large amounts of relational knowledge from the pre-training corpus. These models can be probed for this factual knowl- edge by using cloze-style prompts as demonstrated on the LAMA benchmark. However, recent studies have uncovered that results only perform well, because the models are good at performing educated guesses or recalling facts from the training data. We present a novel Wikidata-based benchmark dataset, KAMEL   , for probing relational knowledge in LMs. In contrast to previous datasets, it covers a broader range of knowledge, probes for single-, and multi-token entities, and contains facts with literal values. Furthermore, the evaluation procedure is more accurate, since the dataset contains alternative entity labels and deals with higher-cardinality relations. Instead of performing the evaluation on masked language models, we present results for a variety of recent causal LMs in a few-shot setting. We show that indeed novel models perform very well on LAMA, achieving a promising F1-score of 52.90%, while only achieving 17.62% on KAMEL. Our analysis shows that even large lan- guage models are far from being able to memorize all varieties of relational knowledge that is usually stored knowledge graphs.",
     "pdf": "15_kamel_knowledge_analysis_with_",
     "subject_areas": [
     ],
@@ -248,15 +277,17 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nkalo2022kamel,\ntitle={KAMEL: Knowledge Analysis with Multitoken Entities in Language Models},\nauthor={Jan-Christoph Kalo and Leandra Fichtel},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      ""
     ],
     "doi": ""
   },
   {
-    "title": "Understanding Relation Extraction through Semantic Error Analysis",
+    "title": "Understanding Distantly Supervised Relation Extraction through Semantic Error Analysis",
     "authorids": [
     ],
     "authors": [
@@ -267,7 +298,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Automatic knowledge graph construction, using supervised relation extraction from text, has become the state-of-the-art to create large-scale repositories of background knowl- edge for various applications. Recent advances in machine learning and Natural Language Processing (NLP), in particular the advent of the large language models, have improved the performance of relation extraction systems significantly. Traditional leaderboard style benchmark settings show very high performance, suggesting that these models can be em- ployed in practical applications. Our analysis shows that in reality, though, the extraction quality varies drastically from one relation to another, with unacceptable performance for certain types of relations. To better understand this behaviour, we perform a seman- tic error analysis on a popular distantly supervised benchmark dataset, using ontological meta-relations to describe various error categories, which shows that relations that are confused by state-of-the-art systems are often semantically closely related, e.g., they are inverses of each other, in subproperty relations, or share the same domain and range. Such an extensive semantic error analysis allows us to understand the strengths and weaknesses of extraction models in a semantic way and to provide some practical recommendations to improve the quality of relation extraction in the future.",
     "pdf": "14_understanding_distantly_superv",
     "subject_areas": [
     ],
@@ -276,10 +307,13 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nkalo2022understanding,\ntitle={Understanding Distantly Supervised Relation Extraction through Semantic Error Analysis},\nauthor={Jan-Christoph Kalo and Benno Kruit and Stefan Schlobach},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -294,7 +328,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Consumers assess and select products and services based on a combination of objec- tive factual attributes (e.g., price) and subjective experiential factors. For example, when choosing a restaurant, users often focus on the food quality and ambiance. State-of-the-art search services provide powerful interfaces for filtering objective properties but struggle to support users through the process of considering experiential factors. One of the key reasons for this discrepancy is that the objective properties are clearly represented by a database schema, but there is no such equivalent for experiential properties, which are vaguer by nature. This paper introduces CoNex, a pipeline for building knowledge graphs (KGs) that describe concepts concerning consumers’ experiences in a given domain and the relationships between them. CoNex begins by harvesting experience-related concepts on a domain-specific corpus and then discovering experiential connections between them. CoNex further expands its knowledge coverage by a pre-trained language model fine-tuned via data from hybrid sources. Our experiments demonstrate that the KGs constructed by CoNex accurately reflect the experiential relationships between concepts as judged by humans. Finally, we show the effectiveness of using these KGs as tools to improve the performance of an experience-oriented search task.",
     "pdf": "13_building_knowledge_graphs_of_e",
     "subject_areas": [
     ],
@@ -303,10 +337,12 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nyang2022building,\ntitle={Building Knowledge Graphs of Experientially Related Concepts},\nauthor={Wenjie Yang and Xiaojuan Ma},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -324,7 +360,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "In this paper we generalize single-relation pseudo-Riemannian graph embedding models to multi-relational networks, and show that the typical approach of encoding relations as manifold transformations translates from the Riemannian to the pseudo-Riemannian case. In addition we construct a view of relations as separate spacetime submanifolds of multi-time manifolds, and consider an interpolation between a pseudo-Riemannian embedding model and its Wick-rotated Riemannian counterpart. We validate these extensions in the task of link prediction, focusing on flat Lorentzian manifolds, and demonstrate their use in both knowledge graph completion and knowledge discovery in a biological domain.",
     "pdf": "12_pseudo_riemannian_embedding_mo",
     "subject_areas": [
     ],
@@ -333,10 +369,15 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\npaliwal2022pseudo,\ntitle={Pseudo-Riemannian Embedding Models for Multi-Relational Graph Representations},\nauthor={Saee Gopal Paliwal and Angus Brayne and Benedek Fabian and Maciej Wiatrak and Aaron Sim},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -351,7 +392,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Taxonomies and knowledge graphs (KGs), which represent real-world entities’ abstract concepts and properties/behaviors/facts, constitute the essential information in knowledge bases (KBs). However, most existing KBs are constructed under the closed-world assump- tion, which often corresponds to a fixed schema and requires ad-hoc canonicalization to integrate new knowledge. To empower KBs towards easy accommodation of emerging entities and relations, we propose to create open-world TaxoKGs based on existing au- tomatically constructed taxonomies and open KGs, where taxonomies serve to provide a loosely-defined schema and mitigate the reliance on ad-hoc canonicalization. To further improve the completeness of TaxoKG, we collect several new benchmark datasets towards the development of HakeGCN, an innovative hierarchy-aware graph-friendly model for TaxoKG completion. Through extensive experiments, we demonstrate HakeGCN to outperform various state-of-the-art KB completion methods on both taxonomy concept prediction and KG relation prediction tasks based on both standard metrics and human evaluations. The benchmark datasets and the implementation of HakeGCN are available at https://github.com/lujiaying/Open-World-TaxoKG-CoLearning.",
     "pdf": "11_open_world_taxonomy_and_knowle",
     "subject_areas": [
     ],
@@ -360,10 +401,12 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nlu2022open,\ntitle={Open-World Taxonomy and Knowledge Graph Co-Learning},\nauthor={Jiaying Lu and Carl Yang},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -384,7 +427,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "We tackle a new task, event graph completion, which aims to predict missing event nodes for event graphs. Existing link prediction or graph completion methods have difficulty dealing with event graphs, because they are usually designed for a single large graph such as a social network or a knowledge graph, rather than multiple small event graphs. Moreover, they can only predict missing edges rather than missing nodes. In this work, we utilize event schemas, a type of generalized representation that describes the stereotypical structure of event graphs, to address these issues. Our schema-guided event graph completion approach first maps an instance event graph to a schema subgraph. Then it predicts whether a candidate event node in the schema graph should be instantiated by characterizing two aspects of local topology: neighbors of both the candidate node and the schema subgraph, and paths that connect the candidate node and the schema subgraph. The neighbor module and the path module are later combined together for the final prediction. Experimental results on four datasets demonstrate that our proposed method achieves state-of-the-art performance, with 4.3% to 19.4% absolute F1 gains over the best baseline method. The code and datasets are available at https://github.com/hwwang55/SchemaEGC.",
     "pdf": "4_schema_guided_event_graph_comp",
     "subject_areas": [
     ],
@@ -393,10 +436,18 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nwang2022schema,\ntitle={Schema-Guided Event Graph Completion},\nauthor={Hongwei Wang and Zixuan Zhang and Sha Li and Jiawei Han and Yizhou Sun and Hanghang Tong and Joseph Olive and Heng Ji},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -414,7 +465,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Self-supervision with synthetic training data built from knowledge graphs has been proven useful to enhance the language model accuracy in zero-shot evaluation on commonsense reasoning tasks. Yet, since these improvements are reported in aggregate, little is known about how to select the appropriate knowledge for generalizable performance across tasks, how to combine this knowledge with neural language models, and how these pairings affect granular task performance. In this paper, we study the sensitivity of language models to knowledge sampling strategies, modeling architecture choices, and task properties. We evaluate the accuracy overall and in relation to four task properties: domain and vocabulary overlap between the train and the test data, answer similarity, and answer length. Our experiments show that: (i) encoder-decoder models benefit from more data to learn from, (ii) sampling strategies that balance across different aspects or focus on knowledge dimensions yield best accuracy, (iii) synthetic data is most effective for tasks with low domain overlap, and questions with short answers and dissimilar answer candidates, and (iv) our best T5 model reaches state-of-the-art results on zero-shot commonsense reasoning, narrowing the gap with supervised models, which is a side effect of our overall study.",
     "pdf": "3_a_study_of_zero_shot_adaptatio",
     "subject_areas": [
     ],
@@ -423,10 +474,15 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nzhang2022a,\ntitle={A Study of Zero-shot Adaptation with Commonsense Knowledge},\nauthor={Jiarui Zhang and Filip Ilievski and Kaixin Ma and Jonathan Francis and Alessandro Oltramari},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -455,6 +511,9 @@
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   },
@@ -470,7 +529,7 @@
     "keywords": [
     ],
     "TL;DR": "",
-    "abstract": "",
+    "abstract": "Standard practice in pertaining multimodal models, such as vision-language models, is to rely on pairs of aligned inputs from both modalities, for example, aligned image- text pairs. However, such pairs can be difficult to obtain in low-resource settings and for some modality pairs (e.g., structured tables and images). In this work, we investigate the extent to which we can reduce the reliance on such parallel data, which we term bimodal supervision, and use models that are pretrained on each modality independently. We experiment with a high-performing vision-language model, and analyze the effect of bimodal supervision on three vision-language tasks. We find that on simpler tasks, such as VQAv2 and GQA, one can eliminate bimodal supervision completely, suffering only a minor loss in performance. Conversely, for NLVR2, which requires more complex reasoning, training without bimodal supervision leads to random performance. Nevertheless, using only 5% of the bimodal data (142K images along with their captions), or leveraging weak supervision in the form of a list of machine-generated labels for each image, leads to only a moderate degradation compared to using 3M image-text pairs: 74%→∼70%.",
     "pdf": "21_training_vision_language_model",
     "subject_areas": [
     ],
@@ -479,10 +538,13 @@
     "paperhash": "",
     "venue": "AKBC 2022",
     "venueid": "AKBC.ws/2022/Conference",
-    "_bibtex": "",
+    "_bibtex": "@inproceedings{\nsegal2022training,\ntitle={Training Vision-Language Models with Less Bimodal Supervision},\nauthor={Elad Segal and Ben Bogin and Jonathan Berant},\nbooktitle={4th Conference on Automated Knowledge Base Construction},\nyear={2022}\n}",
     "forum_id": "",
     "UID": "",
     "author_profiles": [
+      "",
+      "",
+      ""
     ],
     "doi": ""
   }

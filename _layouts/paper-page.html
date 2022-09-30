@@ -4,8 +4,8 @@ format: paper-page
 ---
 
 {% for paper in site.data.papers %}
-	{% if paper['forum_id'] == page.forum_id %}
-	{% assign this_paper = paper %}
+	{% if paper['pdf'] == page.pdf %}
+		{% assign this_paper = paper %}
     {% endif %}
 {% endfor %}
 
@@ -43,21 +43,22 @@ format: paper-page
 
 			<!-- PDF + HTML -->
 			<div class="button-group stack">
-				<a class="button" href="{{- url -}}/assets/pdfs/{{- this_paper.forum_id -}}.pdf">PDF</a>
-				{%- if this_paper.html -%}
+				<!-- <a class="button" href="{{- url -}}/assets/pdfs/{{- this_paper.forum_id -}}.pdf">PDF</a> -->
+				<a class="button" href="{{- url -}}/assets/pdfs/{{- this_paper.pdf -}}.pdf">PDF</a>
+				<!-- {%- if this_paper.html -%}
 				<a class="button grey" href="{{-this_paper.html-}}">Website</a>
 				{%- endif -%}
-				<a class="button grey" href="https://openreview.net/forum?id={{-this_paper.forum_id-}}">OpenReview</a><a class="button" href="https://akbc.apps.allenai.org/poster_{{- this_paper.UID -}}.html">Slides/Video</a>
+				<a class="button grey" href="https://openreview.net/forum?id={{-this_paper.forum_id-}}">OpenReview</a><a class="button" href="https://akbc.apps.allenai.org/poster_{{- this_paper.UID -}}.html">Slides/Video</a> -->
 			</div>
 			
 			<p>
 				<a href="https://doi.org/{{this_paper.doi}}">{{this_paper.doi}}</a>
 			</p>
 
-			<p class="teaser">
+			<!-- <p class="teaser">
 				<h3>TL;DR</h3>
 				{{ this_paper['TL;DR'] }}
-			</p>
+			</p> -->
 
 			<blockquote>
 				{{ this_paper.abstract }}
@@ -67,9 +68,10 @@ format: paper-page
 	
 			<h4>Citation</h4>
 			<pre>
-			{{- this_paper._bibtex | slice: 0, bibSize -}},
-doi={ {{-this_paper.doi | remove: "doi:" -}} }
-}</pre>
+			{{- this_paper._bibtex | slice: 0, bibSize -}}
+<!-- doi={ {{-this_paper.doi | remove: "doi:" -}} } -->
+}
+</pre>
 
 			{{ content }}
 
