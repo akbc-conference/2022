@@ -17,3 +17,13 @@ All papers, with their reviews and other details, are also available on [OpenRev
     {% endif %}
 {% endfor %}
 </ul>
+
+## Non-Archival Papers
+
+<ul>
+{% for paper in site.data.papers %}
+    {% if paper['archival_status'] == "" or paper['archival_status'] == "Non-Archival" %}
+        {% include paper.html p=paper %}
+    {% endif %}
+{% endfor %}
+</ul>
