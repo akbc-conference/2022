@@ -17,7 +17,7 @@
     -->
     {% if include.p.pdf != "" %}
         {% if include.p['archival_status'] != "" and include.p['archival_status'] != "Non-Archival" %}
-            (<a href="{{- url -}}/assets/pdfs/{{- include.p.forum_id -}}.pdf">PDF</a>
+            (<a href="{{- url -}}/assets/pdfs/{{- include.p.pdf -}}.pdf">PDF</a>
             {%- if include.p.html -%}
             , <a href="{{-include.p.html-}}">Website</a>
             {%- endif -%})
