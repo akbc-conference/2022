@@ -22,9 +22,9 @@
     speaker: "Douwe Kiela"
     institution: "HuggingFace"
     url: https://douwekiela.github.io/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Rethinking benchmarking in AI: Evaluation-as-a-Service and Dynamic Adversarial Data Collection"
+    abstract: "The current benchmarking paradigm in AI has many issues: benchmarks saturate quickly, are susceptible to overfitting, contain exploitable annotator artifacts, have unclear or imperfect evaluation metrics, and do not measure what we really care about. I will talk about my work on trying to rethink the way we do benchmarking in AI. First, I’ll go into our work at Hugging Face on establishing better best practices for the comprehensive evaluation of data and models, through the open source Evaluate library and the Evaluation on the Hub project. Second, I’ll talk about Dynabench, a research platform that facilitates human and model in the loop data collection and evaluation, as well as the progress the team has been making in exploring the dynamic adversarial data collection paradigm."
+    bio: "Douwe Kiela is the Head of Research at Hugging Face. Before, he was a Research Scientist at Facebook AI Research. His current research interests lie in developing better models for (grounded, multi-agent) language understanding and better tools for evaluation and benchmarking. He received his PhD and MPhil from the University of Cambridge. Before that, he did a BSc in Liberal Arts & Sciences at Utrecht University with a double major in Cognitive Artificial Intelligence and Philosophy; and an MSc in Logic at the University of Amsterdam's ILLC."
 
 -
     UID: "partha"
@@ -72,9 +72,9 @@ In this talk, I will explore all the challenges the Alexandria team has encounte
     thumbnail: "raquel.png"
     speaker: "Raquel Fernández"
     institution: "University of Amsterdam"
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Unraveling the implicit linguistic knowledge learned by pre-trained neural models"
+    abstract: "It has become increasingly clear that large pre-trained neural models are capable of learning and representing a broad range of linguistic knowledge. However, many open questions remain about the extent to which this is the case for specific linguistic abilities. A rich literature has emerged in the last few years investigating these issues, often taking inspiration from methodologies developed in psycholinguistics, neurolinguistics, and language acquisition research, where the same questions have been asked about the human mind/brain for centuries. I will discuss two of our recent studies that build on this tradition: a study that turns to `structural priming’ — a phenomenon prevalent in human dialogue — to investigate the degree to which language models encode abstract structural information, and a study focused on multimodal pre-trained models, which explores whether, and to what extent, leveraging visual information makes the representations learned by these models closer to human lexical semantic representations."
+    bio: "Raquel Fernández is Full Professor of Computational Linguistics and Dialogue Systems at the University of Amsterdam, where she leads the Dialogue Modelling Group. Raquel received her PhD from King's College London and, before moving to Amsterdam, held research positions at the University of Potsdam and at Stanford University. Over her career, she has been awarded several prestigious personal fellowships by the Dutch Research Council and is currently the recipient of a European Research Council (ERC) Consolidator Grant. Her interests revolve around language use in context, including computational semantics and pragmatics, dialogue interaction, visually-grounded language processing, and language learning, among others. Her lab carries out research on these topics with an approach at the interface of natural language processing, cognitive science, and AI."
 
 -
     UID: "jessie"
