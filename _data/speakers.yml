@@ -4,9 +4,9 @@
     speaker: "Dipanjan Das"
     institution: "Google AI"
     url: https://www.dipanjandas.com/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Trustworthy Natural Language Generation with Communicative Goals"
+    abstract: "While recent work in large language models have made natural language generation fluent, these models suffer from content “hallucination”, where model-generated statements are not attributable to sources in communicative scenarios (e.g. summarization, question answering and responses in dialogue systems). Furthermore, evaluation of generation systems remains challenging: (1) human evaluation studies are not reproducible and there is a lack of common benchmarking for diverse tasks, and (2) popular automatic evaluation methods such as BLEU and ROUGE correlate poorly with human judgments. In this talk, I will present a body of work that attempts to solve the above problems for a variety of natural language generation problems and showcase a vision towards future work in this area."
+    bio: "Dipanjan Das is a Principal Scientist at Google Research, based in New York City. He leads teams of researchers distributed between New York, London, Berlin, Amsterdam and Seattle focused on language technologies. Dipanjan’s research focus is on natural language generation, grounding and attribution in generative models and model interpretability. Before joining Google, Dipanjan completed a Ph.D. from the Language Technologies Institute, School of Computer Science at Carnegie Mellon University in 2012. In 2005, he completed a B.Tech. in Computer Science and Engineering from IIT Kharagpur. His work has received paper awards at the ACL and EMNLP conferences; he serves as action editor for the Transactions of the Association for Computational Linguistics and the ACL Rolling Review and as senior committee member at various *ACL and machine learning venues."
 -
     UID: "eisner"
     thumbnail: "jason_eisner.jpeg"
