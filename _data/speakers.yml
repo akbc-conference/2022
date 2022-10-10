@@ -32,9 +32,9 @@
     speaker: "Partha Pratim Talukdar"
     institution: "Google Research/Indian Institute of Science"
     url: https://talukdar.net/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Temporal and Multilingual Knowledge Graphs"
+    abstract: "The world is dynamic and Knowledge Graphs (KG) should reflect this time-varying nature. Temporal KGs provide a mechanism to represent this dynamism through time-scoped edges. While question answering over traditional KGs have received quite a bit of attention, QA over Temporal KGs is still in early stages. In the first part of the talk, I shall present the challenges and approaches for Temporal KGQA. In the second part of the talk, I shall outline the challenges with severe sparsity in KGs when going beyond English. I shall present the need along with an approach to link KG with text in a cross-lingual manner. I shall conclude the talk with open problems in these areas."
+    bio: "Partha is a Researcher at Google Research, Bangalore where he leads the NLP group. He is also a faculty member (on leave) at IISc Bangalore. Partha founded KENOME, an enterprise Knowledge graph company with the mission to help enterprises make sense of unstructured data. Previously, Partha was a Postdoctoral Fellow in the Machine Learning Department at Carnegie Mellon University, working with Tom Mitchell on the NELL project. Partha is broadly interested in NLP and Machine Learning, and in making language technologies more inclusive. Partha is a recipient of several awards, including an Outstanding Paper Award at ACL 2019. He is a co-author of a book on Graph-based Semi-Supervised Learning. Homepage: https://parthatalukdar.github.io"
 
 -
     UID: "Angeliki"
@@ -52,8 +52,8 @@
     speaker: "Stephan Lewandowsky"
     institution: "University of Bristol"
     url: https://www.cogsciwa.com/
-    title: "TBD"
-    abstract: "TBD"
+    title: "Anti-vaccination arguments: a conceptual taxonomy and a machine-learning model"
+    abstract: "The proliferation of anti-vaccination arguments is a threat to the success of many immunisation programmes. Effective rebuttal of contrarian arguments requires an approach that goes beyond addressing flaws in the arguments, by also considering the attitude roots---that is, the underlying psychological attributes driving a person's belief---of opposition to vaccines. Through a preregistered systematic literature review and thematic analysis of anti-vaccination arguments, we developed a hierarchical taxonomy that relates common arguments and themes to 11 attitude roots that explain why an individual might express opposition to vaccination. We further validated our taxonomy on COVID-19 anti-vaccination misinformation, through a combination of human coding and machine learning using natural language processing algorithms. Overall, the taxonomy serves as a theoretical framework to link expressed opposition of vaccines to their underlying psychological processes. This enables future work to develop targeted rebuttals and other interventions that address the underlying motives of anti-vaccination arguments."
     bio: "TBD"
 
 -
@@ -83,8 +83,8 @@ In this talk, I will explore all the challenges the Alexandria team has encounte
     speaker: "Jessica D. Tenenbaum"
     institution: "North Carolina Department of Health and Human Services/Duke University"
     url: https://www.ncdhhs.gov/about/administrative-offices/data-office/jessie-tenenbaum
-    title: "TBD"
-    abstract: "TBD"
+    title: "Data driven policy for pandemic response: data, knowledge, and action well outside of the ivory tower"
+    abstract: "The \"central dogma\" of informatics, it has been said, is turning data into information and information into knowledge. Some take this framework further- knowledge informs action. Moreover, in the Learning Health System model, action begets more real-world data, which can be converted into information, etc. In 2019, North Carolina's Department of Health and Human Services created the NC DHHS Data Office in recognition of the data's importance, and potential, to drive policy and decision making. With vast troves of data collected across siloed government services- locally, regionally, and nationally- there is great potential to turn that data into knowledge, and knowledge into action. What became clear, both before and after the start of the pandemic, was that there are many steps to climb in the real world before we can enter this virtuous cycle. The speaker will describe the view from the trenches of US state government pandemic response, early pandemic data strategy, and how machine learning was used, and not used, in this real world use case."
     bio: "TBD"
 
 -
