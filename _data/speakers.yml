@@ -93,7 +93,8 @@ In this talk, I will explore all the challenges the Alexandria team has encounte
     speaker: He He
     institution: New York University
     url: https://hhexiy.github.io/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Overcoming spurious correlations in natural language understanding"
+    abstract: "Model robustness and spurious correlations have received increasing attention in the NLP community from method development to model interpretation. The core question is how to build models that are \"right for the right reasons\" and not taking shortcuts.  In this talk, I will go through both success stories and unexpected failures in the quest for robust natural language understanding. Then, I will come back to the very basic question of what spurious features mean in NLP tasks, and argue that different types of spurious features come with unique challenges and require different treatment. I will conclude with lessons learned and thoughts for the future."
+    bio: "He He is an Assistant Professor in the Department of Computer Science and the Center for Data Science at New York University. She obtained her PhD in Computer Science at the University of Maryland, College Park. Before joining NYU, she spent a year at AWS AI and was a post-doc at Stanford University before that. She is interested in building robust and trustworthy NLP systems in human-centered settings. Her recent research focus includes robust language understanding, collaborative text generation, and understanding capabilities and issues of large language models.
+"
     
