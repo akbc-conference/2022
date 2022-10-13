@@ -42,9 +42,10 @@
     speaker: "Angeliki Lazaridou"
     institution: "Deepmind"
     url: http://angelikilazaridou.github.io/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Keeping LMs in sync with the real world"
+    abstract: "Our world is open-ended, non-stationary and constantly evolving; thus what we talk about and how we talk about it changes over time. This inherent dynamic nature of language comes in stark contrast to the established static paradigm of NLP. This staticness has led over the years to a number of peculiarities; our models are “stuck” to the time they were trained, our systems are not designed to be easily adaptive, and our benchmarks further perpetuate this vicious circle.\n\n
+In this talk, I will describe our set of experiments and results on taking current state-of-the-art models when placing them in the realistic scenario of making predictions from beyond the models' training period. I will talk about new streaming language modeling and question answering benchmarks created for this purpose and show how current Transformer-based models perform worse in this realistic setup. I will then present and contrast different ways to keep our models in sync with the world as new data arrive in our stream, either by continually updating the (monolithic) models’ parameters or by leveraging semi-parametric approaches that flexibly store and use knowledge in a modular way. Finally, towards more open-ended models that do not lag behind the ever-changing world, I will talk about a new family of models, internet-augmented models, that leverage the power of commercial search engines as a source of factual and up-to-date knowledge."
+    bio: "Angeliki Lazaridou is a Staff Research Scientist at DeepMind. She obtained her PhD from the University of Trento, where she worked on predictive grounded language learning. At DeepMind, she has worked on interactive methods for language learning that rely on multi-agent communication as a means of alleviating the use of supervised language data. Currently, she spends most of her time thinking and working on how to best make language models be in sync with the complex and ever-evolving world."
 
 -
     UID: "lewandowsky"
