@@ -547,5 +547,359 @@
       ""
     ],
     "doi": ""
+  },
+  {
+    "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
+    "authorids": [
+    ],
+    "authors": [
+      "Vardaan Pahuja",
+      "Yu Gu",
+      "Wenhu Chen",
+      "Mehdi Bahrami",
+      "Lei Liu",
+      "Wei-Peng Chen",
+      "Yu Su"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "UnCommonSense: Informative Negative Knowledge about Everyday Concepts",
+    "authorids": [
+    ],
+    "authors": [
+      "Hiba Arnaout","Simon Razniewski","Gerhard Weikum","Jeff Z. Pan"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "ArcaneQA: Dynamic Program Induction and Contextualized Encoding for Knowledge Base Question Answering",
+    "authorids": [
+    ],
+    "authors": [
+      "Yu Gu","Yu Su"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Discovering Fine-Grained Semantics in Knowledge Graph Relations",
+    "authorids": [
+    ],
+    "authors": [
+      "Nitisha Jain","Ralf Krestel"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning",
+    "authorids": [
+    ],
+    "authors": [
+      "Xiang Chen", "Lei Li", "Ningyu Zhang", "Xiaozhuan Liang", "Shumin Deng", "Chuanqi Tan", "Fei Huang", "Luo Si", "Huajun Chen"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Meta-Learning a Cross-lingual Manifold for Semantic Parsing",
+    "authorids": [
+    ],
+    "authors": [
+      "Tom Sherborne", "Mirella Lapata"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population",
+    "authorids": [
+    ],
+    "authors": [
+      "Ningyu Zhang", "Xin Xu", "Liankuan Tao", "Haiyang Yu", "Hongbin Ye", "Shuofei Qiao", "Xin Xie", "Xiang Chen", "Zhoubo Li", "Lei Li", "Xiaozhuan Liang", "Yunzhi Yao", "Shumin Deng", "Peng Wang", "Wen Zhang", "Guozhou Zheng"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "CODEC: Complex Document and Entity Collection",
+    "authorids": [
+    ],
+    "authors": [
+      "Iain Mackie", "Paul Owoicho", "Carlos Gemmell", "Sophie Fischer", "Sean MacAvaney", "Jeff Dalton"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Start Small, Think Big: On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings",
+    "authorids": [
+    ],
+    "authors": [
+      "Adrian Kochsiek", "Fritz Niesel", "Rainer Gemulla"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Commonsense Knowledge Salience Evaluation with a Benchmark Dataset in E-commerce",
+    "authorids": [
+    ],
+    "authors": [
+      "Yincen Qu", "Ningyu Zhang", "Hui Chen", "Zelin Dai", "Zezhong Xu", "Chengming Wang", "Qiang Chen"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study",
+    "authorids": [
+    ],
+    "authors": [
+      "Xin Xu", "Xiang Chen", "Ningyu Zhang", "Xin Xie", "Xi Chen"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
+  },
+  {
+    "title": "Generative Multi-hop Retrieval",
+    "authorids": [
+    ],
+    "authors": [
+      "Hyunji Lee", "Sohee Yang", "Hanseok Oh", "Minjoon Seo"
+    ],
+    "keywords": [
+    ],
+    "TL;DR": "",
+    "abstract": "",
+    "pdf": "",
+    "subject_areas": [
+    ],
+    "archival_status": "Non-Archival",
+    "supplementary_material": "",
+    "paperhash": "",
+    "venue": "AKBC 2022",
+    "venueid": "AKBC.ws/2022/Conference",
+    "_bibtex": "",
+    "forum_id": "",
+    "UID": "",
+    "author_profiles": [
+      "",
+      "",
+      ""
+    ],
+    "doi": ""
   }
 ]
