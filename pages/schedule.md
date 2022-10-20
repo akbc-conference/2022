@@ -39,7 +39,10 @@ header:
 |  5:15    	| 5:30     	| Closing Remarks                 	|                    	|
 |  5:30     |  -       	| *Social Event*                     	| *Location*: [Outpost Tower Hill - BrewDog](https://www.brewdog.com/uk/brewdog-tower-hill-outpost) |
 
-### November 5th, Day 3
+### November 5th, Day 3 Morning: 
+
 
 |----------	|----------	|---------------------------------	|--------------------	|
-| TBD     	|  TBD    	| [Workshops]({{ url }}/workshops) (TBD) |
+| 09:00   	| 10:30    	| [Workshop on Social Aspects of Automated Knowledge Base Construction](https://sites.google.com/view/socialakbc/home)  | |
+| 10:30     | 11:00     | Coffee Break
+| 11:00   	| 12:30    	| [Workshop on Social Aspects of Automated Knowledge Base Construction](https://sites.google.com/view/socialakbc/home)  | |
