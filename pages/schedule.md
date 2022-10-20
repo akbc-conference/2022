@@ -21,7 +21,7 @@ header:
 |  2:45    	|  3:15   	| AKBC Paper Oral Presentation    	|                     |
 |  3:15    	|  3:45    	| *Afternoon Coffee Break*         	|                    	|
 |  3:45    	|  4:30     | Invited Talk 4                  	| [John Winn]({{ url }}/speakers/#winn): *{{ site.data.speakers[6].title }}*         	|
-|  4:30     |  5:15     | Invited Talk 5                  	| [Dipanjan Das]({{ url }}/speakers/#dipanjan): *{{ site.data.speakers[0].title }}*         	|
+|  4:30     |  5:15     | Invited Talk 5 (Virtual)         	| [Dipanjan Das]({{ url }}/speakers/#dipanjan): *{{ site.data.speakers[0].title }}*         	|
 
 ### November 4th, Day 2
 
