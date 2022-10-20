@@ -46,3 +46,7 @@ header:
 | 09:00   	| 10:30    	| [Workshop on Social Aspects of Automated Knowledge Base Construction](https://sites.google.com/view/socialakbc/home)  | |
 | 10:30     | 11:00     | Coffee Break
 | 11:00   	| 12:30    	| [Workshop on Social Aspects of Automated Knowledge Base Construction](https://sites.google.com/view/socialakbc/home)  | |
+| 12:30     | 14:00     | Lunch Break
+| 14:00     | 15:30     | [Knowledge Graphs for Finance and Economics](https://finance-at-akbc.bubbleapps.io/) | VIRTUAL: [Weak, Indirect and Self Supervision for Knowledge Extraction (WISE Supervision)](https://wise-supervision.github.io/) |
+| 15:30     | 16:00     | Coffee Break
+| 16:00     | 17:30     | VIRTUAL: [Knowledge Graphs for Finance and Economics](https://finance-at-akbc.bubbleapps.io/) | [Weak, Indirect and Self Supervision for Knowledge Extraction (WISE Supervision)](https://wise-supervision.github.io/) |
