@@ -35,6 +35,11 @@ All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 <img src="https://www.akbc.ws/2022/assets/img/sponsors/BYJU_S _Corporate Logo_Purple[35].png" alt="BYJU" width="100"/>
 </p>
 
+### Bronze
+<p float="left">
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/ADBB32B3-FCAA-4436-83AC-2BBEE44E09BE.jpeg" alt="Benevolent" width="100"/>
+</p>
+
 ## Previous Conferences / Workshops
 
 <br />
