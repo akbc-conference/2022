@@ -21,15 +21,7 @@
     - Migael Strydom
     - Ye Tian
   duration: Half-Day
-
-- UID: REWRITE
-  name: Rewriting the Encyclopedia
-  url: TBD
-  organizers: 
-    - Sam Klein
-    - Doug Downey
-  duration: Half-Day
-
+  
 - UID: SocKBC
   name: Workshop on Social Aspects of Automated Knowledge Base Creation
   url: https://sites.google.com/view/socialakbc/home
