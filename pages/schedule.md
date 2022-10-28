@@ -1,5 +1,5 @@
 ---
-title: Tentative Schedule
+title: Schedule
 layout: page-fullwidth
 permalink: /schedule/
 header:
