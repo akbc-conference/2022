@@ -17,7 +17,7 @@ figcaption {
 <figcaption>The map of gather town. The posters are: <br /> 
 1. Knowledge Base Question Answering: A Semantic Parsing Perspective <br />
 2. Bending the Future: Autoregressive Modeling of Temporal Knowledge Graphs in Curvature-Variable Hyperbolic Spaces <br />
-3. How Optimal is Greedy Decoding for Extractive Question Answering? <br />
+3. Generative Multi-hop Retrieval <br />
 4. KAMEL: Knowledge Analysis with Multitoken Entities in Language Models <br />
 5. Building Knowledge Graphs of Experientially Related Concepts <br />
 6. Open-World Taxonomy and Knowledge Graph Co-Learning <br />
@@ -28,5 +28,5 @@ figcaption {
 11. DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population <br />
 12. Commonsense Knowledge Salience Evaluation with a Benchmark Dataset in E-commerce <br />
 13. Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study <br />
-14. Generative Multi-hop Retrieval <br /> </figcaption>
+</figcaption>
 </figure>
