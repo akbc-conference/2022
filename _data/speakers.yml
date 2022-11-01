@@ -13,9 +13,11 @@
     speaker: "Jason Eisner"
     institution: "Johns Hopkins University/Semantic Machines"
     url: https://www.cs.jhu.edu/~jason/
-    title: "TBD"
-    abstract: "TBD"
-    bio: "TBD"
+    title: "Dataflow for Dialog"
+    abstract: "In addition to querying and updating a knowledge base, a dialogue system must represent the state of the dialogue.  We argue that dialogue state is best described by a dataflow graph of values, connected by computations relating those values to one another and to the knowledge base.  I'll motivate the dataflow formalism and present some of our work that maps from text to dataflow (understanding) and dataflow to text (generation).  
+Both understanding and generation may pull new information into the dataflow graph.  One technique that works well for both is to generate from large language models constrained by task-dependent grammars. \n\n
+This is work by the team at Microsoft Semantic Machines."
+    bio: "Jason Eisner is Professor of Computer Science at Johns Hopkins University, as well as Director of Research at Microsoft Semantic Machines. He is a Fellow of the Association for Computational Linguistics. At Johns Hopkins, he is also affiliated with the Center for Language and Speech Processing, the Mathematical Institute for Data Science, and the Cognitive Science Department. His goal is to develop the probabilistic modeling, inference, and learning techniques needed for a unified model of all kinds of linguistic structure. His 150+ papers have presented various algorithms for parsing, machine translation, and weighted finite-state machines; formalizations, algorithms, theorems, and empirical results in computational phonology; and unsupervised or semi-supervised learning methods for syntax, morphology, and word-sense disambiguation. He is also the lead designer of Dyna, a new declarative programming language that provides an infrastructure for AI research. He has received two school-wide awards for excellence in teaching, as well as recent Best Paper Awards at ACL 2017, EMNLP 2019, and NAACL 2021 and an Outstanding Paper Award at ACL 2022."
 -
     UID: "douwe"
     thumbnail: "douwe.jpeg"
