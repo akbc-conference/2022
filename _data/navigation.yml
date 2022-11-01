@@ -64,6 +64,9 @@
   - title: "Venue"
     url: "/venue/"
     side: left
+  - title: "Gather Town"
+    url: "/gathertown/"
+    side: left
   # - title: "Travel"
   #   url: "/travel/"
   #   side: left
