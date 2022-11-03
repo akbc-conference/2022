@@ -10,11 +10,11 @@
     url: "https://akbc.ws/2021"
 
 - title: Program
-  url: "/virtual-details"
+  url: "/schedule/"
   side: left
   dropdown:
-  #- title: Virtual Conference
-  #  url: "/virtual-details"
+  - title: Virtual Conference
+    url: "https://virtual.akbc.ws"
   - title: "Schedule"
     url: "/schedule/"
   - title: Accepted Papers
