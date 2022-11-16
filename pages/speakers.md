@@ -24,6 +24,9 @@ header:
 <br />
 _{{ speaker.title }}_ <br />
 
+{% if speaker.slides != "" %}
+[Slides]({{ site.baseurl }}/assets/slides/{{ speaker.slides }})
+{% endif %}
 <!-- <a href="#{{ speaker.UID }}Detail"> Abstract and Bio</a> -->
 <a href="#{{ speaker.UID }}Detail">Abstract & Bio</a>
 </div>
